@@ -1,0 +1,3671 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<script>
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 60 * 24 * 2 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    }
+    var script = document.createElement("script");
+    script.setAttribute("async", true);
+    script.setAttribute("src", "//www.npttech.com/advertising.js");
+    script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+    document.getElementsByTagName("head")[0].appendChild(script);
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Language" content="es" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="DISTRIBUTION" content="Global" />
+<meta name="ROBOTS" content="all" />
+<meta name="AUTHOR" content="Diario Deportivo Olé" />
+<meta name="classification" content="deporte, futbol, tenis, ascenso, polideportivo" />
+<meta name="Googlebot" content="all" />
+<meta name="GENERATOR" content="Diario deportivo Ole" />
+<meta name="SUBJECT" content="Diario deportivo Ole" />
+<meta name="DESCRIPTION" content="Diario Olé. Noticias deportivas, fotos, audios y videos. Futbol de primera, Futbol del ascenso, futbol internacional, selección nacional, tenis, rugby, autos, automovilismo, basquet, nba, boxeo, volley, hockey" />
+<meta name="ABSTRACT" content="Diario Olé. Noticias deportivas, fotos, audios y videos. Futbol de primera, Futbol del ascenso, futbol internacional, selección nacional, tenis, rugby, autos, automovilismo, basquet, nba, boxeo, volley, hockey" />
+<meta name="KEYWORDS" content="mundial, futbol, primera, ascenso, selección, mundial, tenis, basquet, autos, rugby, polideportivo, copa argentina, uno x uno, barcelona, corinthians, neymar, superliga, del potro, fixture, boca, river, mercado de pases" />
+<meta name="msApplication-ID" content="App" />
+<meta name="msApplication-PackageFamilyName" content="AGEA.MOBILE.Ole_q59wyq0q7cm24" />
+
+<title> Ole | Diario Deportivo</title>
+
+<link href="/static/OLEOleV2/css/comprimido_mod.css?hash=c7a9027e82be25453e1ba8dea731c97e" rel="stylesheet" type="text/css" />
+
+
+<script>var optaTimezoneEnable = true;</script>
+
+<script type="text/javascript" src="https://r.sascdn.com/video/config.js?nwid=619"></script>
+<script type="text/javascript" src="https://r.sascdn.com/video/controller.js?nwid=619"></script>
+<script type="text/javascript" src="https://cdn1.smartadserver.com/diff/js/smartadserver.js"></script>
+<script type="text/javascript" src="/static/BBTCore/js/jquery-1.9.1.min.js?hash=5193fb3b683f30998131801e22b2652a"></script>
+<script type="text/javascript" src="/static/OLEOleV2/js/jquery-migrate-1.2.1.js?hash=8a4910d55eef6404c373ff6196721812"></script>
+<script type="text/javascript" src="/static/OLEOleV2/js/comprimido.js?hash=9af29cc1c448eeed3babdb2c71ee956a"></script>
+<script type="text/javascript" src="/static/OLEOleV2/js/owl/owl.carousel.min.js?hash=6473747d818f47587036ccde48050d82"></script>
+<script type="text/javascript" src="/static/BBTCore/js/bbt.js?hash=a9fed5cbd6d445c36f85d49e1e1f7a74"></script>
+<script type="text/javascript" src="/static/BBTSwfObject/js/swfobject.js?hash=8c2ec4bc2c9a39bc3f4ff92223077cf6"></script>
+<script type="text/javascript" src="/static/DESGenerico/js/des.scrollable.descomprimido.js?hash=7498e42fe84374f2a4ebc1926e6961cd"></script>
+<script type="text/javascript" src="/static/LABWall/js/jquery2.js?hash=8551eaf7d8b3cb3796b1fe23dcb51898"></script>
+<script type="text/javascript" src="/static/OLEOleV2/js/jquery-ui-1.7.2.custom.min.js?hash=df5bb799100dac4360cb4eed53b749c7"></script>
+<script type="text/javascript" src="/static/OLEOle/js/scrollable.jquery.tools.min.js?hash=aaa85a04be441d9a7a6de99e38fa7052"></script>
+<script type="text/javascript" src="/static/OLEOle/js/des.marquee.js?hash=47b2b8dc32d004a164f9f126428881d2"></script>
+<script type="text/javascript" src="/static/OLEOle/js/jscroller-0.4.js?hash=d63aaefb45c261780945c792a032fafd"></script>
+
+
+
+    <link rel="alternate" title=" Ole | Diario Deportivo" href="/rss/ultimas-noticias/" type="application/rss+xml" />
+
+
+
+    <meta name="cXenseParse:pageclass" content="frontpage"/>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta property="fb:admins" content="70254297877" />
+
+    <script type="text/javascript">
+
+    try {
+
+    	if ('external' in window && 'msIsSiteMode' in window.external && window.external.msIsSiteMode()){
+
+    		window.external.msSiteModeClearJumplist();
+
+    		window.external.msSiteModeCreateJumplist('Últimas Noticias');
+
+    		window.external.msSiteModeAddJumpListItem("Los videos de la final","http://www.ole.com.ar/independiente/gremio-independiente-final-recopa-sudamericana_0_1965403536.html#utm_source=ie9&utm_medium=web&utm_campaign=pinned-ie9-ultimasnoticias","http://www.ole.com.ar/favicon.ico");
+
+    		window.external.msSiteModeAddJumpListItem("No había offside en la previa...","http://www.ole.com.ar/futbol-internacional/america/offside-cicero-roja-amorebieta_0_1965403537.html#utm_source=ie9&utm_medium=web&utm_campaign=pinned-ie9-ultimasnoticias","http://www.ole.com.ar/favicon.ico");
+
+    		window.external.msSiteModeAddJumpListItem("VAR y roja","http://www.ole.com.ar/independiente/amorebieta-independiente-gremio-recopa-vuelta-roja_0_1965403535.html#utm_source=ie9&utm_medium=web&utm_campaign=pinned-ie9-ultimasnoticias","http://www.ole.com.ar/favicon.ico");
+
+    		window.external.msSiteModeAddJumpListItem("Los looks más raros de Neymar en 2018","http://www.ole.com.ar/fuera-de-juego/looks-raros-neymar_0_1965403534.html#utm_source=ie9&utm_medium=web&utm_campaign=pinned-ie9-ultimasnoticias","http://www.ole.com.ar/favicon.ico");
+
+    		window.external.msSiteModeAddJumpListItem("A pura adrenalina","http://www.ole.com.ar/independiente/imagenes-independiente-gremio-recopa-holan_0_1965403533.html#utm_source=ie9&utm_medium=web&utm_campaign=pinned-ie9-ultimasnoticias","http://www.ole.com.ar/favicon.ico");
+
+    		window.external.msSiteModeShowJumplist();
+
+    	}
+
+    }catch(err){}
+
+    </script>
+
+    <meta property="fb:pages" content="70254297877" />
+
+    <meta name="twitter:card" content="summary_large_image">
+
+    <meta name="twitter:image" content="https://tapas2.ole.com.ar/tapa/2018/02/21/OLE_20180221_02.jpg?691096">
+
+    <meta name="twitter:site" content="@diarioole">
+
+    <meta name="twitter:title" content="La Tapa de Olé">
+
+    <meta name="twitter:description" content="Ole.com.ar en Twitter. Las noticias deportivas de la Argentina y el mundo.">
+
+    <meta name="twitter:creator" content="@diarioole">
+
+    <meta name="twitter:domain" content="ole.com.ar">
+
+    <meta property="fb:app_id" content="117246291804305"/> 
+
+    <meta property="og:image" content="adefinir.jpg"/>
+
+    <meta property="og:url" content="https://www.ole.com.ar"/>
+
+    <meta property="og:type" content="website"/>
+
+    <meta property="og:title" content="La Tapa de Olé"/>
+
+    <meta property="og:description" content="Ole.com.ar. Las noticias deportivas de la Argentina y el mundo."/>
+
+</head>
+<!-- t = 1519266779 -->
+<body>
+<script>
+
+    paseId = $.cookie('idPase')||0;
+    paseId = (paseId == 'null') ? 0 : paseId;
+
+    tp=window.tp||[];
+    tp.push(['setZone','tipo:home']);
+    tp.push(['setContentSection','Home']);
+    tp.push(["setCustomVariable", "userLogged", paseId.toString()]);
+ 
+(function(src){
+      var a=document.createElement("script");
+      a.type="text/javascript";
+      a.async=true;a.src=src;
+      var b=document.getElementsByTagName("script")[0];
+      b.parentNode.insertBefore(a,b)})("https://experience.tinypass.com/xbuilder/experience/load?aid=fTIAeCZOih");
+</script>
+
+<script type="text/javascript">
+	
+	if ( $.cookie("geoip_country_code") == null ){
+		objSections = {sections: JSON.parse('{"10148":true}')};
+		$.cookie("geoip_country_code", JSON.stringify(objSections), { expires: 365, path: '/' });
+	}
+	
+</script>
+<!-- Pixel para RCH Data -->
+<script type="text/javascript" src="//tags.crwdcntrl.net/c/9602/cc.js?ns=_cc9602" id="LOTCC_9602"></script>
+<script type="text/javascript" language="javascript">_cc9602.bcp();</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1447020078911944');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1447020078911944&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!--googleoff: all-->
+<script type="text/javascript" src="/apistatic/api/loginwall/script.js?apikey=ole"></script>
+
+<script type="text/javascript"> 
+$(document).ready(function() {
+
+        $("a#mis-preferencias").click(function(){
+
+            if ($("#panel-registro").length == 0) {
+
+                $.get("/oleolev2/mispreferencias.json", function(_response){
+                    response = BBT.fixJson(_response);
+                    $.colorbox({
+                        html:response.data,
+                        initialWidth:500,
+                        initialHeight:800,
+                        onComplete : function() { 
+                           $(this).colorbox.resize(); 
+                        }
+                    });
+                });
+                
+
+            }else{
+                $("#panel-registro").colorbox();
+            }
+
+        });
+});
+
+
+
+    function getMetricsCookie(name){
+        
+        var dc      = document.cookie;
+        var prefix  = name + "=";
+        var begin   = dc.indexOf("; " + prefix);
+        
+        if(begin == -1){
+            begin = dc.indexOf(prefix);
+            if (begin != 0){
+                return null;
+            } 
+        } 
+        else{
+            begin += 2;
+        }
+        
+        var end = document.cookie.indexOf(";", begin);
+        if(end == -1){
+            end = dc.length;
+        }
+        
+        return unescape(dc.substring(begin + prefix.length, end));
+    }
+
+    function deleteMetricsCookie(name, path, domain){
+        
+        if (getMetricsCookie(name)){
+            
+            document.cookie = name + "=" +
+            ((path) ? "; path=" + path : "") +
+            ((domain) ? "; domain=" + domain : "") +
+            "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+        }
+    }
+
+    var daxRefresh = "&refresh=no";
+    var daxRefreshValue = 'no';
+
+    if(getMetricsCookie("desMetricsRefresh") == 1){
+	   
+       deleteMetricsCookie("desMetricsRefresh");
+	   daxRefresh = "&refresh=si";
+    }	
+
+    function getIdPase() {
+        
+        var idPase = $.cookie('idPase');
+
+        if (idPase != null && idPase != "") {
+            return idPase;
+        } else {
+            return "";
+        }
+    }
+
+    function getIdPaseToStringUrl () {
+
+        var idPase = getIdPase();
+        
+        if (idPase != "" ) {
+            return "&pase_id=" + idPase;
+        } else {
+            return "";
+        }
+    }
+
+    // <![CDATA[
+    function udm_(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&c8="+escape(d.title)+"&c7="+escape(l&&l.href?l.href:d.URL)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&c9="+escape(d.referrer)+"&ns_referrer="+escape(d.referrer);(d.images)?new Image().src=u:d.write('<'+'p><img src="'+u+'" height="1" width="1" alt=""/><'+'/p>');};
+    // udm_('https://sb.scorecardresearch.com/b?c1=2&c2=6906409&ns_site=ole&name=home.inicio' + daxRefresh + getIdPaseToStringUrl());
+    // ]]>
+
+    function uid_call(a, b){
+        ui_c2 = "6906409";
+        ui_ns_site = "ole";
+        window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+        var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+        var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+    }
+
+
+// TODO: Calculo timestamp local con diferencia GMT
+var timestamp = new Date().getTime();
+var dt = new Date()
+var tz = -dt.getTimezoneOffset()/60;
+var gmtZone = 'GTM'+ tz;
+
+var daxParams = getIdPaseToStringUrl() + daxRefresh + "" + "&timestamp="+timestamp+"|"+gmtZone;
+
+
+var timeout = 0;
+
+var desMetrics = {
+    'baseUrl': 'https://sb.scorecardresearch.com/b',
+    'idPase': getIdPase(),
+    'sourceModal': 'home',
+    'defaults': {
+        'c1': 2,
+        'c2': '6906409',
+        'ns_site': 'ole',
+        'refresh': daxRefreshValue,
+        'name': 'home.inicio',
+        'year': "",
+        'month': "",
+        'day': "",
+        'hour': "",
+        'weekDay': "",
+        'timestamp': timestamp+"|"+gmtZone
+    },
+    'loadPaseIdInDefaults': function() {
+        if (this.idPase !== '') {
+            this.defaults.pase_id = this.idPase;
+        }
+    },
+    'sendRequestToXML': function() {
+        $.ajax({
+            type: 'GET',
+            url: '/pv.xml',
+            dataType: 'xml'
+        });
+    },
+    'sendPageViewCandidate': function(params) {
+        window.clearTimeout(timeout);
+        
+        var oneSecond = 1000;
+        var scope = this;
+        
+        timeout = setTimeout(function() {
+            scope.loadPaseIdInDefaults();
+            params = $.extend(scope.defaults, params);
+            var url = scope.baseUrl + '?' + $.param(params) + desMetrics.getParameterLWtoDax();
+            scope.sendRequestToXML();
+            udm_(url);
+            //send DIRECT
+            if(typeof(COMSCORE)=='undefined') {
+                document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? 
+                "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E")); 
+            }
+            COMSCORE.beacon({ 
+                c1:"2", 
+                c2: "6906409" 
+            }); 
+            ///
+            //analytics 360
+            sendGAPageview();
+        }, oneSecond);
+    },
+    'getParameterLWtoDax' : function(){
+
+        var params = '';
+        var lwm_count_sum = 0;
+        var lwm_blocked = "no";
+
+        if($.cookie('lw-tracking-olev2')){
+
+            var oData = JSON.parse($.cookie('lw-tracking-olev2'));
+            lwm_count_sum = oData.urls.length;
+            lwm_blocked = (oData.isBlocked) ? "si" : "no";
+        }
+
+        params += "&lwm_count=no";
+        params += "&lwm_count_sum=" + lwm_count_sum;
+        params += "&lwm_block=no";
+        params += "&lwm_blocked=" +lwm_blocked;
+
+        return params;
+
+    }
+};
+</script>
+<!--googleon: all-->
+<noscript>
+	<p><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6906409&amp;ns_site=ole&amp;name=home.inicio" height="1" width="1" alt="*"></p>
+</noscript> 
+
+<script type="text/javascript" lang="javascript">
+    
+    var expire5min = (new Date()).getTime() + 120000; // expiration time - 5 min from now
+
+</script>
+
+<script type="text/javascript" lang="javascript"
+
+    src="https://cdns.gigya.com/JS/socialize.js?apikey=3_xs5IT1Ls_fMBPxkesDR7CpMwy4Ffcd15OWGmYjXxXKEHYvaRt3CLfDkXxPFJB9pI&lang=es">
+    {
+        siteName: 'ole.com.ar',
+        enabledProviders: 'facebook,twitter,yahoo,messenger,linkedin,myspace,google',
+        sessionExpiration: 473040000,
+        connectWithoutLoginBehavior: 'alwaysLogin',
+        autoShareExpiration: expire5min
+    }
+
+</script>
+
+<script type="text/javascript">
+
+    if(typeof paseE2E != 'undefined'){
+        
+        paseE2E.init({
+            
+            placeIngresar : ".user-login.notLoggedPase .text",
+            placeName :     ".user-login.logged .text",
+            buttonLogout :  ".paseLogOut",
+            placeMiCuenta:  ".paseMiCuenta",
+            urlIframe :     "https://app-pase.ole.com.ar/pase-registracion/app/pase/ingresar",
+            urlIframeLW:    "https://app-pase.ole.com.ar/pase-registracion/app/pase/ingresar?viewId=loginWallOleSitio",
+            urlLogin :      "https://servicios.pase.agea.com.ar/pase-servicios/mobile/OLE/onLoginJSONP",
+            urlProfile:     "https://ole.frontend.pase.agea.com.ar/pase-frontend/app/perfil/administrar",
+            entorno :       ".ole.com.ar", 
+            
+            onLoggedIn: function(response){
+                
+                $('.user-login').hide();
+                $('.user-login.logged').show();
+                
+                if (typeof response != "undefined"){
+                
+                    if (response.user.thumbnailURL != ""){
+                        $('.avatar').removeClass("userUnLogG");
+                        response.user.thumbnailURL = response.user.thumbnailURL.replace("https:","").replace("http:","")
+                        $('.avatar').attr("src",response.user.thumbnailURL);
+                    } 
+                    else{
+                        $('.avatar').addClass("userLogG");
+                        $('.avatar').removeClass("userUnLogG");
+                    }
+                }
+            },
+            
+            onNotLogged: function(){
+                
+                $('.user-login').show();
+                $('.user-login.logged').hide();
+                $('.avatar').removeClass("userLogG");
+                $('.avatar').attr("src", " ");
+                $('.avatar').addClass("userUnLogG");
+            }
+        });
+    }
+
+</script>
+
+
+<div id="lw" data-lwsection="[1]" data-lwcontenttype="board" data-lwkey="ole"></div>
+
+<script type="text/javascript">
+
+try {
+
+	jQueryLW("#lw").loginwall({
+        debug: false,
+        preCallback: function(oData){
+        },
+        callback: function(oData){
+
+
+        	var params = daxParams;
+
+   			params += (oData.thisCount) ? "&lwm_count=si" : "&lwm_count=no";
+    
+    		params += "&lwm_count_sum=" + oData.urls.length;
+
+    		params += (oData.thisBlock) ? "&lwm_block=si" : "&lwm_block=no";
+    
+    		params += (oData.isBlocked) ? "&lwm_blocked=si" : "&lwm_blocked=no";
+
+            if (oData.thisBlock && oData.isBlocked) {
+                if(!$.cookie('lw_blockedAt')){
+                    
+                    var dateExp = new Date(oData.expirationDate);
+                    var hours = 3;
+                    //quita 3 horas a la fecha de expiracion de lw-traking
+                    dateExp.setTime(dateExp.getTime() - (hours * 60 * 60 * 1000));
+
+                    $.cookie("lw_blockedAt",oData.urls.length,{ expires: dateExp, path : "/", domain : ".ole.com"});
+
+                    params += "&lw_blockedAt="+ oData.urls.length;
+                }
+                
+                $(document).ready(function() { 
+                    if(!paseE2E.isLoggedIn()) {            
+                        paseE2E.openModalLW();
+                    }
+                });
+            }
+			udm_('https://sb.scorecardresearch.com/b?c1=2&c2=6906409&ns_site=ole&name=home.inicio' + params);
+        }
+    });
+} catch (e) {
+	udm_('https://sb.scorecardresearch.com/b?c1=2&c2=6906409&ns_site=ole&name=home.inicio' + daxParams);
+}
+</script>
+
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6906409" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+
+
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+<script type="text/javascript">
+
+    var uiconf = "23448985";
+    var wid = "_123";
+    var cargo = false;
+
+    var settings = {
+        uiconf:uiconf,
+        wid:wid,
+        src:"https://vodgc.com/p/123/sp/12300/embedIframeJs/uiconf_id/23448985/partner_id/123"
+    };
+</script>
+
+<script type="text/javascript">
+    function getGenDate(value) {
+        var nombre = $.cookie('idPase');
+        if(nombre != null){
+            var cookieValue = $.cookie(value);
+
+            if(cookieValue != null) {
+                return cookieValue;
+            }
+        }
+        return 1;
+    }
+
+    sas_renderMode = 3;
+    sas_scriptDomain = 'http://ww619.smartadserver.com';
+
+    var lwUserData = 'kw_login_edad='+getGenDate("Pase-fecNac")+';kw_login_sexo='+getGenDate("Pase-genero")+";";
+
+    var keywords = '';
+    if($("meta[name=KEYWORDS]").length){
+        keywords = "kw_nota="+$("meta[name=KEYWORDS]").attr("content").replace(/\ /g, '')+";";
+    }
+    var target = lwUserData + keywords;
+</script>
+
+<!-- Smart generic code -->
+<script src="https://r.sascdn.com/config.js?nwid=619" type="text/javascript" async></script>
+<script type="text/javascript">
+(function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+
+<script type="text/javascript">
+    var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+    var sas = sas || {};
+    sas.cmd = sas.cmd || [];
+    sas.cmd.push(function() {
+        sas.setup({ domain: "https://www.smartadserver.com", networkid: 619, async: true });
+    });
+    cX.callQueue.push(['invoke', function() {
+        sas.cmd.push(function() {
+        var sas_target = target;
+        var segments = cX.getUserSegmentIds({  persistedQueryId: '66cac97a468750b6772b428abacdc324d99833a4'});
+        
+        if (!((segments == null) || (segments.length == 0))){
+            for (var i = 0; i < segments.length; i++){
+                segments[i]='cxdmpid=' + segments[i];
+            }
+            smartCx=segments.join(';');
+            if(typeof(sas_target)=="undefined" || sas_target==""){
+                try{
+                    var sas_target = smartCx;
+                }catch(e){};
+            }else{
+                try{
+                    if(sas_target[sas_target.length-1]!=";"){
+                        sas_target+=";";
+                    }
+                    sas_target = sas_target+ smartCx;
+                }catch(e){};
+            }
+        }
+
+        if (typeof screen !== 'undefined'){
+            var h = screen.height;
+            var w = screen.width;
+        } else {
+            var h = $(window).height();
+            var w = $(window).width();            
+        }
+        
+        sas_target = sas_target + "kw_width=" + w + ";kw_height=" + h;      
+        
+        sas.call("onecall", {
+           siteId: 32853,
+           pagename: 'home',
+           formatId: '13542,25772,14115 ,12952,13522,12724,26260,12953,13955,12973,13541,15586,40690',
+           target: sas_target // Segmentacion
+        });
+    });
+}]);
+</script>
+<!-- Fin Smart generic code -->
+
+
+<!-- layer tripleImpact -->
+<div class="posicionBanner">
+
+
+
+    <div class="banner_center" id="sas_13955"></div>
+    <div id="bannerId_8">
+        <script type="text/javascript" async>
+            cX.callQueue.push(['invoke', function() {
+                sas.cmd.push(function() {
+                    sas.render(13955); //TripleImpact
+                });
+            }]);
+        </script>
+    </div>
+
+
+</div>
+<!-- layer dhtml -->
+
+
+
+
+    <div class="banner_center" id="sas_12724"></div>
+    <div id="bannerId_775">
+        <script type="text/javascript" async>
+            cX.callQueue.push(['invoke', function() {
+                sas.cmd.push(function() {
+                    sas.render(12724); //dhtml
+                });
+            }]);
+        </script>
+    </div>
+
+
+
+
+
+    <div class="banner_center" id="sas_26260"></div>
+    <div id="bannerId_997">
+        <script type="text/javascript" async>
+            cX.callQueue.push(['invoke', function() {
+                sas.cmd.push(function() {
+                    sas.render(26260); //dhtml2
+                });
+            }]);
+        </script>
+    </div>
+
+
+
+<!--  -->
+
+
+	
+  
+
+    
+<div class="virtualHeader">
+    <div class="content-top front ">
+        <a href="/" title="OL&Eacute; Home page"><h1><span class="bb-noshow">Ol&eacute;</span></h1></a>
+        <div class="nav-top">
+            <div class="navMenu-home">
+                <div class="date" id="fecha-hora-header">
+                    <header class="site-header" data-sectionId="25" id="headerHome">
+                        <div>
+                            
+  
+
+    
+    
+        <div>   
+            
+            
+                    <a class="site-logo" href="/" title="" target="_self">
+                        <img src="https://images.ole.com.ar/bbtfile/5050_20170523ldAO2E.png" width="191" height="142"/>
+                    </a>
+                
+        </div>
+    
+
+    
+
+
+
+
+
+
+                        </div>
+                        <div class="header-top">
+                            <div class="clearfix">
+                                <div id="rrss_header"></div>
+                                
+                                
+    
+    <nav class="site-menu-top">
+        
+    <span id="agendaEstadistica">
+        
+        
+            <a href="/estadisticas/futbol/primera-division.html" title="Estadísticas">
+                <span class="icon stats"></span>
+                <span class="text statstxt"></span>
+            </a>
+        
+        
+        
+
+        <a href="/agenda-deportiva/" target="_self" title="Agenda">
+            <span class="icon diary"></span>
+            <span class="text diarytxt"></span>
+        </a>
+    </span>
+
+        <!-- PASE -->
+        
+    
+    <div id="getGigyaSectionId" style="display: none;">1</div>
+    <!-- DESLOGUEADO-->
+    <div class="user-login notLoggedPase">
+        <a href="#" title="Ingresa a Olé">
+            <span class="avatar userUnLogG"></span>
+            <span class="text"></span>
+        </a>
+    </div>
+    <!-- LOGUEADO -->
+    <div class="user-login logged">
+        <a href="#" title="Ver mi perfil">
+            <img class="avatar userLogG"  width="28" height="28" />
+            <span class="text"></span>
+            <span class="icon moremenu"></span>
+        </a>
+        <div class="modal modal-user">
+            <a class="paseMiCuenta" title="Ir a mi cuenta"></a>
+            <a id="mis-preferencias" title="Ir a mis Preferencias"></a>
+            <a class="paseLogOut" title="Salir de Olé"></a>
+        </div>
+    </div>
+
+    
+
+
+        <!-- PASE -->
+    </nav>
+    
+
+                            </div>
+                            <nav class="site-menu clearfix stListoTop">
+                                <ul class="pull-left">
+                                    
+  				
+  				
+	
+
+	
+	
+			
+			<li>
+		       	<a href="/futbol-primera/" title="Primera"target="_self">Primera</a>
+		    </li>
+
+	    
+	
+		
+
+			
+			
+  				
+  				
+	
+
+	
+	
+			
+			<li>
+		       	<a href="/futbol-ascenso/" title="Ascenso"target="_self">Ascenso</a>
+		    </li>
+
+	    
+	
+		
+
+			
+			
+  				
+  				
+	
+
+	
+	
+			
+			<li>
+		       	<a href="/futbol-internacional/" title="Internacional"target="_self">Internacional</a>
+		    </li>
+
+	    
+	
+		
+
+			
+			
+  				
+  				
+	
+
+	
+	
+			
+			<li>
+		       	<a href="/seleccion/" title="Seleccion"target="_self">Seleccion</a>
+		    </li>
+
+	    
+	
+		
+
+			
+			
+  				
+  				
+	
+
+	
+	
+			
+			<li>
+		       	<a href="/messi/" title="Messi"target="_self">Messi</a>
+		    </li>
+
+	    
+	
+		
+
+			
+			
+  				
+  				
+	
+
+	
+	
+			
+			<li>
+		       	<a href="/rugby/" title="Rugby"target="_blank">Rugby</a>
+		    </li>
+
+	    
+	
+		
+
+			
+			
+  				
+  				
+	
+
+	
+	
+			
+			<li>
+		       	<a href="/basquet/" title="Basquet"target="_self">Basquet</a>
+		    </li>
+
+	    
+	
+		
+
+			
+			
+  				
+  				
+	
+
+	
+	
+			
+			<li>
+		       	<a href="/tenis/" title="Tenis"target="_self">Tenis</a>
+		    </li>
+
+	    
+	
+		
+
+			
+			
+  				
+  				
+	
+
+	
+	
+			
+			<li>
+		       	<a href="/voley/" title="VOLEY"target="_self">VOLEY</a>
+		    </li>
+
+	    
+	
+		
+
+			
+			
+  				
+  				
+	
+
+	
+	
+			
+			<li>
+		       	<a href="/autos/" title="Autos"target="_self">Autos</a>
+		    </li>
+
+	    
+	
+		
+
+			
+			
+                                    <li>
+                                       <a href="#" title="Ver más detallado" class="open-menu">
+                                               Mas
+                                               <span class="icon moremenu"></span>
+                                       </a>
+                                    </li>
+                                </ul>
+                                <div class="modal modal-menu megamenu" id="megaMenuHeader">
+                                
+                                </div>
+                                <span class="icon search-grey"></span>
+                            </nav>
+                        </div>
+                            
+    <script type="text/javascript"> 
+        function submitSearch(){
+            textoABuscar = $('#search_text').val();
+            document.location = 'https://www.ole.com.ar/buscador?q=' + textoABuscar;
+            return false;
+        }
+    </script>
+
+    <form class="site-search" method="get" action="#" onsubmit="submitSearch(); return false;">
+        <div class="row">
+            <fieldset>
+                <input id="search_text" type="text" name="text" value="" />
+                <button type="submit" target="_parent" onclick="submitSearch(); return false;">Buscar</button>
+            </fieldset>
+            <span class="icon close"></span>
+        </div>
+    </form>
+
+                        <ul class="club-list clearfix club-listHeader">
+                            
+  
+
+    
+
+		
+			<li>
+		        <a href="/argentinos/" target="_self" data-equipo="Argentinos">
+                <span class="Torneo30 v2EscudosPrimera argentinos"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/arsenal/" target="_self" data-equipo="Arsenal">
+                <span class="Torneo30 v2EscudosPrimera arsenal"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/atletico-tucuman/" target="_self" data-equipo="A.Tucuman">
+                <span class="Torneo30 v2EscudosPrimera atletico-tucuman"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/banfield/" target="_self" data-equipo="Banfield">
+                <span class="Torneo30 v2EscudosPrimera banfield"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/belgrano/" target="_self" data-equipo="Belgrano">
+                <span class="Torneo30 v2EscudosPrimera belgrano"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/boca-juniors/" target="_self" data-equipo="Boca Juniors">
+                <span class="Torneo30 v2EscudosPrimera boca-juniors"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/chacarita/" target="_self" data-equipo="Chacarita">
+                <span class="Torneo30 v2EscudosPrimera chacarita"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/colon/" target="_self" data-equipo="Colon">
+                <span class="Torneo30 v2EscudosPrimera colon"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/defensa-y-justicia/" target="_self" data-equipo="Defensa">
+                <span class="Torneo30 v2EscudosPrimera defensa-y-justicia"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/estudiantes/" target="_self" data-equipo="Estudiantes">
+                <span class="Torneo30 v2EscudosPrimera estudiantes"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/gimnasia-y-esgrima/" target="_self" data-equipo="Gimnasia">
+                <span class="Torneo30 v2EscudosPrimera gimnasia-y-esgrima"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/godoy-cruz/" target="_self" data-equipo="Godoy cruz">
+                <span class="Torneo30 v2EscudosPrimera godoy-cruz"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/huracan/" target="_self" data-equipo="Huracan">
+                <span class="Torneo30 v2EscudosPrimera huracan"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/independiente/" target="_self" data-equipo="Independiente">
+                <span class="Torneo30 v2EscudosPrimera independiente"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/lanus/" target="_self" data-equipo="Lanus">
+                <span class="Torneo30 v2EscudosPrimera lanus"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/newells-old-boys/" target="_self" data-equipo="Newell's">
+                <span class="Torneo30 v2EscudosPrimera newells-old-boys"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/olimpo/" target="_self" data-equipo="Olimpo">
+                <span class="Torneo30 v2EscudosPrimera olimpo"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/patronato/" target="_self" data-equipo="Patronato">
+                <span class="Torneo30 v2EscudosPrimera patronato"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/racing/" target="_self" data-equipo="Racing">
+                <span class="Torneo30 v2EscudosPrimera racing"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/river-plate/" target="_self" data-equipo="River plate">
+                <span class="Torneo30 v2EscudosPrimera river-plate"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/rosario-central/" target="_self" data-equipo="Rosario central">
+                <span class="Torneo30 v2EscudosPrimera rosario-central"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/san-lorenzo/" target="_self" data-equipo="San Lorenzo">
+                <span class="Torneo30 v2EscudosPrimera san-lorenzo"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/san-martin-sj/" target="_self" data-equipo="San Martin SJ">
+                <span class="Torneo30 v2EscudosPrimera san-martin-sj"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/talleres/" target="_self" data-equipo="Talleres">
+                <span class="Torneo30 v2EscudosPrimera talleres"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/temperley/" target="_self" data-equipo="Temperley">
+                <span class="Torneo30 v2EscudosPrimera temperley"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/tigre/" target="_self" data-equipo="Tigre">
+                <span class="Torneo30 v2EscudosPrimera tigre"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/union/" target="_self" data-equipo="Union">
+                <span class="Torneo30 v2EscudosPrimera union"></span>
+		        </a>
+			</li>
+		
+			<li>
+		        <a href="/velez/" target="_self" data-equipo="Velez">
+                <span class="Torneo30 v2EscudosPrimera velez"></span>
+		        </a>
+			</li>
+		
+
+
+
+
+
+
+
+                        </ul>
+                    </header>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $.get("/header_rrss.html?sectionId=1", function(_response){
+            response = BBT.fixJson(_response);
+            $('#rrss_header').html(response.data);
+        });
+    });
+</script>
+<style type="text/css">
+    #bd-e .site-header.header-generic{display: block !important;}
+</style>
+
+
+
+
+
+
+	
+
+
+
+
+
+<div id="doc9">
+    <div id="content" class="home page-summary">
+        <div id="bd">
+            
+
+
+<div class="caja-alert-cross-site">
+    <div class="html_libre">
+	<style>
+.col.col_8 .modNot-33 .video_player {
+	height: 210px !important; 
+}
+
+
+@-webkit-keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+
+    to {
+        -webkit-transform: rotate(359deg);
+    }
+}
+.col_4 .rotation { -webkit-animation: rotation 2s infinite linear; display: block; }
+.col_4 #cx_widget{position:relative;}
+.col_4 .cxense_loading{
+    margin: 0 auto;
+    width: 50px;
+    position: absolute;
+    top: 71px;
+    left: 48px;
+    z-index:3;
+}
+.gallery-text p span{
+    display:none;
+}
+
+
+.mod.mod-fotogalerias .mod-header:before {
+		content:"GALERIAS";
+		font-size: 20px;
+	    text-transform: uppercase;
+	    padding: 6px 0 0 4px;
+	    font-family: oswald;
+	    display: block;
+	}
+	.mod.mod-fotogalerias .mod-header > img{
+		display: none;
+	}
+
+.col_4 > .entry.entry-box, .col_esp .entry.entry-box, .swiper-reportTwo .entry.entry-box {
+    border-bottom: none !important;
+}
+.crossCCAzul .more-shared::before {
+    background-color: #fff;
+}
+.openingCross.cc-titulo-white .mod-title, .openingCross.cc-titulo-white h1, .openingCross.cc-titulo-white h1 a, .openingCross.cc-titulo-white .entry-title, .openingCross.cc-titulo-white .entry-title a, .openingCross.cc-titulo-white .entry .entry-title a, .openingCross.cc-titulo-white .entry-box h3 a, .openingCross.cc-titulo-white .entry-related a, .openingCross.cc-titulo-white .sumarioTitle a, .openingCross.cc-titulo-white .listAutVid3col .section-title, .openingCross.cc-titulo-white .entry-box.entry-video .entry-viewed>p, .openingCross.cc-titulo-white .entry-box.entry-video .entry-time, .openingCross.cc-titulo-white .entry-box .share-oletv span, .openingCross.cc-titulo-white .entry-box .entry-viewed span {
+    color: #fff!important;
+}
+.mod-social .mod-title{
+    font-family: oswald;
+}
+
+
+.mx .site-header .club-list li {
+    margin-right: 20px;
+}
+@media (max-width: 1326px) {
+    .icon.search-grey{
+        float: left;
+        margin-left: 35px;
+        position: absolute;
+        top: -48px;
+        left: 245px;
+    }
+}
+.opta-widget-container.opta-scoreboard .fixtures-plus-strip .fixture .scoreLine .team-name{
+	max-width:150px;
+}
+.SubBajadaVideo{
+margin-bottom: 10px;
+}
+
+.interiorNota .OleNoPhoto img{
+    position: relative;
+    z-index: 1;
+}
+#allMatches .owl-mamSliderVivo .tourn {
+    max-width: 50% !important;
+}
+.owl-mamSliderVivo .entry-item ul li {
+    min-width: 100% !important;
+}
+body{
+color:black !important;
+}
+.section.equipos.boca .mod.mod-dedicatoria {
+    width: 1040px;
+    margin: 0 auto;
+}
+
+.site-footer .otherSites{width: 100% !important;}
+
+.mod-oletvGen .entry-action{display:none;}
+
+.opta-medal_table h2,.medal_table h2{ 
+    border: none;
+    margin-bottom: 5px;
+}
+.opta-schedule h2{
+    border: none;
+}
+.fixtures-plus-list.olympics tbody.grouping td{
+    background: #94BE1F;
+}
+
+.popUpOverflow .entry-summary .entry-media {
+z-index: 0;
+}
+
+.news-zone-top.oletv-lead.oletv-col.mod-oletvGen .col_4{width:320px;}
+
+@media only screen and (max-width: 1095px){
+    #headerSection .section-name{
+    	    margin-right: 14px;
+    }
+}
+
+.popUpOverflow .sticky-spacer{float:inherit !important;}
+.popUpOverflow .posicionBanner{z-index: -1 !important; position: relative!important;}
+.popUpOverflow .content-top{z-index: -1;position: relative;}
+
+
+.interiorNota .ComentariosPartidoBMO .commentary {
+    max-height: 400px;
+    overflow-y: scroll;
+}
+</style>
+
+<script>
+var countFuncAdd = 0;
+
+function advertisingHome(){
+    if (countFuncAdd <= 20) {
+        var marginBody = parseInt($(document.body).css("margin-right").slice(0,-2));
+        var sas_images = $("img[id^='sas_image']").length;
+
+
+        if (marginBody > 1) {
+            $(".site-logo").css({"height" : "95px", "overflow" : "hidden"});
+            $(".header-top").css("padding", "9px 0 0 165px");
+            $(".site-logo img").attr({"height" : "auto", "width" : 145 });
+            $(".site-header .site-menu .club-listHeader li + li").css("marginLeft", "20px");
+            $(".site-header .club-listHeader").attr("style", "width: 1020px; margin: 0 auto; padding-left: 0;");
+            $(".icon.search-grey").css({ "float": "left", "margin-left" : "35px"});
+            $(".icon.close").css("right", "250px");
+            $(".posicionBanner").css({ "z-index":"1100","position":"relative"});
+            $("#megaMenuHeader li + li").css("marginLeft", "0px");
+            $(".nav-top .header-top .site-menu-top").css("margin-right", "128px");
+            $(".site-header").css("min-width","auto");
+        }else{
+            countFuncAdd += 1;
+            setTimeout(advertisingHome,500);
+        }
+    }else{
+        return false;
+    }
+}
+$(document).ready(function(){
+
+if($("#headerHome").length == 1){
+        advertisingHome();
+    }
+    if($("#headerSection").length == 1){
+        advertisingBackground();
+    }
+})
+
+    $(document).ready(function(){
+      $('span.video-duration').each(function(){
+        if($(this).text() == "NaN:NaN"){
+          $(this).hide();
+        }
+      });
+});
+$( window ).load(function() {
+    if( $(".LineaTiempoBMO.mamNota .timeline").length == 0) {
+        $(".LineaTiempoBMO.mamNota").css("display", "none");
+         }
+
+     $("#OPTA_fixtures_plus_2c").click(function(event){
+         $(this).trigger('columnGrowUp', 1000);
+     }); 
+});
+</script>
+    </div>
+    <div class="xdatos">
+	
+	
+    </div>   
+</div>
+
+            
+                        
+	
+    
+<script type="text/javascript">
+	// Refresco de página - home
+        refresh_on = true;
+
+        function refresh_Play(){
+            metricsRefresh(5);
+        }
+
+        refresh_Play();
+</script>
+
+
+
+                    <div id="oas_ad_pos4"></div>
+                    
+
+
+    <div class="banner_center" id="sas_12973"></div>
+    <div id="bannerId_291">
+        <script type="text/javascript" async>
+            cX.callQueue.push(['invoke', function() {
+                sas.cmd.push(function() {
+                    sas.render(12973); //Megaexpandible
+                });
+            }]);
+        </script>
+    </div>
+
+
+
+                    <div class="bb-gtg">
+                        <div class="color-contenedor">
+                            <span class="modal-home"></span>
+                            
+  
+
+    <div class="bb-md bb-md-cajas scrollV2">
+    <div class="bd">
+        <div class="bb-gt">
+            <div class="first">
+                <div class="colorContainer">
+                    
+  
+
+    <div class="bb-gt row opening100">
+        
+  
+
+    
+    <div class="col col_12">
+        <article id="modNot-100_mod_20181399092829" class="entry entry-box superD existMam">
+            <figure class="entry-media">
+                <a target="_self" href="/independiente/gremio-independiente-recopa-sudamericana-final_0_1965403513.html">
+                    <meta itemprop="description" content="">
+                    
+                        <img src="https://images.ole.com.ar/2018/02/20/HJsBSioDM_1000x472__1.jpg#1519265171768"/>
+                    
+                    
+                    <img class="img-vid-opening-model0-2 iconoVideo">
+                </a>
+
+                <span class="entry-label">RECOPA / GREMIO - INDEPENDIENTE</span>
+
+                
+
+                
+                    
+    <div class="mam_963830 mam mam-futbol">
+        <span class="mam-vivo">
+            <i class="icon vivo"></i>
+            Vivo
+            <span>Recopa Sudamericana</span>
+        </span>
+        <div class="mam-content">
+            <i class="icon mam-more mam-more-dax-963830"></i>
+            <div class="mam-scoreboard">
+                <h5 class="mam-titulo">             
+                </h5>
+                <div class="mam-loc">
+                    <img class="mam-cuadro" src="/static/OLEOle/images/escudos/opta/png/1339.png">
+                    <span class="mam-gol dmmGolesLoc"></span>
+                    <span class="mam-penales">(5)</span>
+                    <p class="mam-equipo team1">GRE</p>
+                </div>
+                <div class="mam-vis">
+                    <span class="mam-penales">(5)</span>
+                    <span class="mam-gol dmmGolesVis"></span>
+                    <img class="mam-cuadro" src="/static/OLEOle/images/escudos/opta/png/1243.png">
+                    <p class="mam-equipo team2">IND</p>
+                </div>
+                <div class="mam-tiempo">00:45</div>
+            </div>
+            <div class="mam-timeline" >
+                <h5>Minuto a minuto</h5>
+                <ul class="commentarySpace mCustomScrollbar" data-mcs-theme="rounded-dark">
+                    
+                </ul>
+            </div>
+            <div id="scroller-container-963830" class="mamMarquesina">
+                <marquee class="mam-incidencia dmmIncidencias" id="scroller-963830"></marquee>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var rndMam =  Math.floor(1e9 + (Math.random() * 9e9));
+        $('.mam_963830').addClass('mam_963830_'+rndMam);
+        $('.mam_963830_'+rndMam).removeClass('mam_963830');
+
+        $('.mam_963830_'+rndMam).desMamApi({
+            deporte: 'futbol',
+            mamUrl: '/mamapi/now/get-partido-now_futbol.json?partidoId=963830',
+            mamId: 'mam_963830_'+rndMam
+        });
+        $( '.mam_963830_'+rndMam+' i.mam-more' ).click(function() {
+            $(this).closest(".entry").find( 'figure' ).toggleClass('mam-opened');
+            $(this).closest(".entry").find( '.mam' ).toggleClass('ampliado');
+            $(this).closest(".entry").find( '.mam-scoreboard' ).toggleClass('clearfix');
+            $(this).closest(".entry").find( 'marquee' ).toggle();
+            $(this).closest(".entry").find( '.mam-timeline' ).toggle();
+
+            var marquesina = $(this).closest(".entry").find('marquee').html();
+
+            $(this).closest(".entry").find('marquee')[0].start();
+        });
+        $(document).ready(function() {
+            var opened_963830 = true;
+            $(".mam-more-dax-963830").click(function() {
+                if (opened_963830 == true) {
+                    uid_call("web.mam-more", "click"); 
+                    opened_963830 = false;
+                }else{
+                    opened_963830 = true;
+                }
+            });
+        });
+    </script>
+
+
+
+
+
+                
+                
+                
+    <div id="socialNativeShare_OLENWS20180221_0073_5a8e2bd97a342" class="entry-share">
+        <a href="#" onclick="javascript: OLE.Share('twitter','OLENWS20180221_0073','Aguanta de milagro con uno menos','RECOPA / GREMIO - INDEPENDIENTE','Campaña salvó otra al Rojo en el ST, en una durísima final de Recopa contra un Gremio. Independiente banca el empate tras la roja a Amorebieta y ya metió dos cambios. Si hay igualdad, se viene el alargue... Seguilo en Olé.','http://www.ole.com.ar/independiente/gremio-independiente-recopa-sudamericana-final_0_1965403513.html','https://images.ole.com.ar/2018/02/20/HJsBSioDM_386x280__1.jpg' ,'vertical' ,'M','5a8e2bd97a342' ,'NWS', '', '', 'false');return false;" title="Compartir en Twitter" class="tw">
+          <span class="icon tw-small-white-sh"></span>
+        </a>
+        <a href="#" onclick="javascript: OLE.Share('facebook','OLENWS20180221_0073','Aguanta de milagro con uno menos','RECOPA / GREMIO - INDEPENDIENTE','Campaña salvó otra al Rojo en el ST, en una durísima final de Recopa contra un Gremio. Independiente banca el empate tras la roja a Amorebieta y ya metió dos cambios. Si hay igualdad, se viene el alargue... Seguilo en Olé.','http://www.ole.com.ar/independiente/gremio-independiente-recopa-sudamericana-final_0_1965403513.html','https://images.ole.com.ar/2018/02/20/HJsBSioDM_386x280__1.jpg' ,'vertical' ,'M','5a8e2bd97a342' ,'NWS', '', '', 'false');return false;" title="Compartir en Facebook" class="fb">
+          <span class="icon fb-small-white-sh"></span>
+        </a>
+        <a class="eb" style="display:none;" onclick="javascript: OLE.Popup.open( 'popup-eb-share' );return false;"></a>
+        <a href="http://www.ole.com.ar/independiente/gremio-independiente-recopa-sudamericana-final_0_1965403513.html#shareGigyaNota" title="Compartir noticia">
+          <span class="icon share-medium"></span>
+        </a>
+    </div>
+ 
+
+<script type="text/javascript">
+    
+    var contentType = "NWS";
+    
+    if (contentType == "VID") {
+        //Inserto un cuarto boton para compartir el embedded
+        $('#socialNativeShare_OLENWS20180221_0073_5a8e2bd97a342 .eb').css('display','block');
+    }
+
+</script> 
+
+
+            </figure>
+            
+            <div class="entry-data entry-data-301" data-infocontentid="OLENWS20180221_0073">
+                <h1 class="entry-title">
+                    <a target="_self" href="/independiente/gremio-independiente-recopa-sudamericana-final_0_1965403513.html" title="Aguanta de milagro con diez">
+                        Aguanta de milagro con diez
+                    </a>
+                </h1>
+                <div class="entry-excerpt">
+                    <p><p>Campaña salvó otra al Rojo en el ST, en una durísima final de Recopa contra un Gremio. Independiente banca el empate tras la roja a Amorebieta y ya metió dos cambios. Si hay igualdad, se viene el alargue... Seguilo en Olé.</p></p>
+                </div>
+                
+	<ul class="entry-related" id="536054193">
+		 
+			
+
+			
+					<li class="fichaPartido">
+						<a href="/estadisticas/futbol/modal.html?fichaTournament=602&fichaSeason=2018&fichaId=963830" title="" onclick="return false;" id="ficha602" class="vModal" data-contentType="" data-cid="">
+							<span class="icon related-ficha"></span>
+							Ver Ficha
+						</a>
+					</li>
+					<script type="text/javascript">
+
+						if(!$("#bd-e").length > 0){
+							$("#ficha602.vModal").colorbox({transition:"none"});
+						}
+					</script>
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/futbol-internacional/Amorebieta-salvo-Rojo_3_1965433473.html" target="_self" class="nws-related" title="Amorebieta salv&oacute; al Rojo" target="_self" data-contentType="VID" data-cid="OLEVID20180221_0036">
+									<span class="icon related-video"></span>
+									Amorebieta salvó al Rojo
+								</a>
+							</li>
+						
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/futbol-internacional/Gran-tapada-Campana_3_1965433479.html" target="_self" class="nws-related" title="Gran tapada de Campa&ntilde;a" target="_self" data-contentType="VID" data-cid="OLEVID20180221_0042">
+									<span class="icon related-video"></span>
+									Gran tapada de Campaña
+								</a>
+							</li>
+						
+				
+	
+		
+	</ul>
+
+            </div>
+        </article>
+    </div>
+
+
+
+
+
+
+  
+
+    
+    <div class="col col_12">
+        <article id="modNot-100_mod_20181326039568" class="entry entry-summary modNot-100 ">
+            <figure class="entry-media">
+                
+                    <a target="" href="/independiente/amorebieta-independiente-gremio-recopa-vuelta-roja_0_1965403535.html">
+                        <img src="https://images.ole.com.ar/2018/02/17/BJIYrjivM_660x324__1.jpg#1519265229111" width="" height="" alt="" />
+
+                        <div class="img-vid-opening-model0-2 iconoVideo"></div>
+                    </a>
+                
+                
+                
+
+                <span class="entry-label">RECOPA / GREMIO - INDEPENDIENTE</span>
+
+                
+
+                
+                
+                
+    <div id="socialNativeShare_OLENWS20180221_0095_5a8e2bd98e71a" class="entry-share">
+        <a href="#" onclick="javascript: OLE.Share('twitter','OLENWS20180221_0095','VAR y roja','RECOPA / GREMIO - INDEPENDIENTE','Amorebieta, que tenía amarilla, despejó una pelota, dejó la pierna alta y le tatuó la marca de los tapones en el pecho a Luan. El árbitro pidió la ayuda de la tecnología y lo expulsó. El defensor se fue a los insultos. Mirá.','http://www.ole.com.ar/independiente/amorebieta-independiente-gremio-recopa-vuelta-roja_0_1965403535.html','https://images.ole.com.ar/2018/02/17/BJIYrjivM_386x280__1.jpg' ,'vertical' ,'M','5a8e2bd98e71a' ,'NWS', '', '', 'false');return false;" title="Compartir en Twitter" class="tw">
+          <span class="icon tw-small-white-sh"></span>
+        </a>
+        <a href="#" onclick="javascript: OLE.Share('facebook','OLENWS20180221_0095','VAR y roja','RECOPA / GREMIO - INDEPENDIENTE','Amorebieta, que tenía amarilla, despejó una pelota, dejó la pierna alta y le tatuó la marca de los tapones en el pecho a Luan. El árbitro pidió la ayuda de la tecnología y lo expulsó. El defensor se fue a los insultos. Mirá.','http://www.ole.com.ar/independiente/amorebieta-independiente-gremio-recopa-vuelta-roja_0_1965403535.html','https://images.ole.com.ar/2018/02/17/BJIYrjivM_386x280__1.jpg' ,'vertical' ,'M','5a8e2bd98e71a' ,'NWS', '', '', 'false');return false;" title="Compartir en Facebook" class="fb">
+          <span class="icon fb-small-white-sh"></span>
+        </a>
+        <a class="eb" style="display:none;" onclick="javascript: OLE.Popup.open( 'popup-eb-share' );return false;"></a>
+        <a href="http://www.ole.com.ar/independiente/amorebieta-independiente-gremio-recopa-vuelta-roja_0_1965403535.html#shareGigyaNota" title="Compartir noticia">
+          <span class="icon share-medium"></span>
+        </a>
+    </div>
+ 
+
+<script type="text/javascript">
+    
+    var contentType = "NWS";
+    
+    if (contentType == "VID") {
+        //Inserto un cuarto boton para compartir el embedded
+        $('#socialNativeShare_OLENWS20180221_0095_5a8e2bd98e71a .eb').css('display','block');
+    }
+
+</script> 
+
+            </figure>
+            <div class="entry-data entry-data-324" data-infocontentid="OLENWS20180221_0095">
+                <h1 class="entry-title" >
+                    <a itemprop="headline name" target="_self" href="/independiente/amorebieta-independiente-gremio-recopa-vuelta-roja_0_1965403535.html" title="VAR y roja">
+                        VAR y roja
+                    </a>
+                </h1>
+                <div class="entry-excerpt">
+                    <p><p>Amorebieta, que tenía amarilla, despejó una pelota, dejó la pierna alta y le tatuó la&nbsp;marca de los tapones en el pecho a Luan. El árbitro pidió la ayuda de la tecnología y lo expulsó. El defensor se fue a los insultos. Mirá.</p></p>
+                </div>
+                
+	<ul class="entry-related" id="1236440883">
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/independiente/Amorebieta-vio-roja-uso-VAR_3_1965433478.html" target="_self" class="nws-related" title="Amorebieta vio la roja con el uso del VAR" target="_self" data-contentType="VID" data-cid="OLEVID20180221_0041">
+									<span class="icon related-video"></span>
+									Amorebieta vio la roja con el uso del VAR
+								</a>
+							</li>
+						
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/independiente/gremio-independiente-recopa-sudamericana-final_0_1965403513.html" target="_self" class="nws-related" title="Qu&eacute; dif&iacute;cil con uno menos, Rojo" target="_self" data-contentType="NWS" data-cid="OLENWS20180221_0073">
+									<span class="icon related-text"></span>
+									Qué difícil con uno menos, Rojo
+								</a>
+							</li>
+						
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/independiente/imagenes-independiente-gremio-recopa-holan_0_1965403533.html" target="_self" class="nws-related" title="A pura adrenalina" target="_self" data-contentType="NWS" data-cid="OLENWS20180221_0093">
+									<span class="icon related-text"></span>
+									A pura adrenalina
+								</a>
+							</li>
+						
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/independiente/amorebieta-salvo-linea-independiente-gremio-final_0_1965403532.html" target="_self" class="nws-related" title="Amorebieta salv&oacute; al Rojo" target="_self" data-contentType="NWS" data-cid="OLENWS20180221_0092">
+									<span class="icon related-text"></span>
+									Amorebieta salvó al Rojo
+								</a>
+							</li>
+						
+				
+	
+		
+	</ul>
+
+            </div>
+        </article>
+    </div>
+    
+
+
+
+
+
+
+  
+
+    
+    <div class="col col_12">
+        <article id="modNot-100_mod_201813521733865" class="entry entry-summary modNot-100 existMam">
+            <figure class="entry-media">
+                
+                    <a target="" href="/banfield/banfield-nacional-libertadores_0_1965403515.html">
+                        <img src="https://images.ole.com.ar/2018/02/15/r19wqssvG_660x324__1.jpg#1519266444195" width="" height="" alt="No le cobraron un penal a Banfield." />
+
+                        <div class="img-vid-opening-model0-2 "></div>
+                    </a>
+                
+                
+                
+
+                <span class="entry-label">LIBERTADORES / NACIONAL - BANFIELD</span>
+
+                
+
+                
+                    
+    <div class="mam_966442 mam mam-futbol">
+        <span class="mam-vivo">
+            <i class="icon vivo"></i>
+            Vivo
+            <span>Copa Libertadores</span>
+        </span>
+        <div class="mam-content">
+            <i class="icon mam-more mam-more-dax-966442"></i>
+            <div class="mam-scoreboard">
+                <h5 class="mam-titulo">             
+                </h5>
+                <div class="mam-loc">
+                    <img class="mam-cuadro" src="/static/OLEOle/images/escudos/opta/png/859.png">
+                    <span class="mam-gol dmmGolesLoc"></span>
+                    <span class="mam-penales">(5)</span>
+                    <p class="mam-equipo team1">NAC</p>
+                </div>
+                <div class="mam-vis">
+                    <span class="mam-penales">(5)</span>
+                    <span class="mam-gol dmmGolesVis"></span>
+                    <img class="mam-cuadro" src="/static/OLEOle/images/escudos/opta/png/2451.png">
+                    <p class="mam-equipo team2">BAN</p>
+                </div>
+                <div class="mam-tiempo">00:45</div>
+            </div>
+            <div class="mam-timeline" >
+                <h5>Minuto a minuto</h5>
+                <ul class="commentarySpace mCustomScrollbar" data-mcs-theme="rounded-dark">
+                    
+                </ul>
+            </div>
+            <div id="scroller-container-966442" class="mamMarquesina">
+                <marquee class="mam-incidencia dmmIncidencias" id="scroller-966442"></marquee>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var rndMam =  Math.floor(1e9 + (Math.random() * 9e9));
+        $('.mam_966442').addClass('mam_966442_'+rndMam);
+        $('.mam_966442_'+rndMam).removeClass('mam_966442');
+
+        $('.mam_966442_'+rndMam).desMamApi({
+            deporte: 'futbol',
+            mamUrl: '/mamapi/now/get-partido-now_futbol.json?partidoId=966442',
+            mamId: 'mam_966442_'+rndMam
+        });
+        $( '.mam_966442_'+rndMam+' i.mam-more' ).click(function() {
+            $(this).closest(".entry").find( 'figure' ).toggleClass('mam-opened');
+            $(this).closest(".entry").find( '.mam' ).toggleClass('ampliado');
+            $(this).closest(".entry").find( '.mam-scoreboard' ).toggleClass('clearfix');
+            $(this).closest(".entry").find( 'marquee' ).toggle();
+            $(this).closest(".entry").find( '.mam-timeline' ).toggle();
+
+            var marquesina = $(this).closest(".entry").find('marquee').html();
+
+            $(this).closest(".entry").find('marquee')[0].start();
+        });
+        $(document).ready(function() {
+            var opened_966442 = true;
+            $(".mam-more-dax-966442").click(function() {
+                if (opened_966442 == true) {
+                    uid_call("web.mam-more", "click"); 
+                    opened_966442 = false;
+                }else{
+                    opened_966442 = true;
+                }
+            });
+        });
+    </script>
+
+
+
+
+
+                
+                
+                
+    <div id="socialNativeShare_OLENWS20180221_0075_5a8e2bd9a7ce4" class="entry-share">
+        <a href="#" onclick="javascript: OLE.Share('twitter','OLENWS20180221_0075','Injusticia para el Taladro','LIBERTADORES / NACIONAL - BANFIELD','Romero le hizo un claro penal a Bertolo, pero el árbitro Sandro Ricci no cobró nada y le dio una vida más a Nacional. Con la serie 2 a 2, Banfield necesita un gol para ir al grupo de Estudiantes. Seguilo en Olé.','http://www.ole.com.ar/banfield/banfield-nacional-libertadores_0_1965403515.html','https://images.ole.com.ar/2018/02/15/r19wqssvG_386x280__1.jpg' ,'vertical' ,'M','5a8e2bd9a7ce4' ,'NWS', '', '', 'false');return false;" title="Compartir en Twitter" class="tw">
+          <span class="icon tw-small-white-sh"></span>
+        </a>
+        <a href="#" onclick="javascript: OLE.Share('facebook','OLENWS20180221_0075','Injusticia para el Taladro','LIBERTADORES / NACIONAL - BANFIELD','Romero le hizo un claro penal a Bertolo, pero el árbitro Sandro Ricci no cobró nada y le dio una vida más a Nacional. Con la serie 2 a 2, Banfield necesita un gol para ir al grupo de Estudiantes. Seguilo en Olé.','http://www.ole.com.ar/banfield/banfield-nacional-libertadores_0_1965403515.html','https://images.ole.com.ar/2018/02/15/r19wqssvG_386x280__1.jpg' ,'vertical' ,'M','5a8e2bd9a7ce4' ,'NWS', '', '', 'false');return false;" title="Compartir en Facebook" class="fb">
+          <span class="icon fb-small-white-sh"></span>
+        </a>
+        <a class="eb" style="display:none;" onclick="javascript: OLE.Popup.open( 'popup-eb-share' );return false;"></a>
+        <a href="http://www.ole.com.ar/banfield/banfield-nacional-libertadores_0_1965403515.html#shareGigyaNota" title="Compartir noticia">
+          <span class="icon share-medium"></span>
+        </a>
+    </div>
+ 
+
+<script type="text/javascript">
+    
+    var contentType = "NWS";
+    
+    if (contentType == "VID") {
+        //Inserto un cuarto boton para compartir el embedded
+        $('#socialNativeShare_OLENWS20180221_0075_5a8e2bd9a7ce4 .eb').css('display','block');
+    }
+
+</script> 
+
+            </figure>
+            <div class="entry-data entry-data-324" data-infocontentid="OLENWS20180221_0075">
+                <h1 class="entry-title" >
+                    <a itemprop="headline name" target="_self" href="/banfield/banfield-nacional-libertadores_0_1965403515.html" title="Injusticia para el Taladro">
+                        Injusticia para el Taladro
+                    </a>
+                </h1>
+                <div class="entry-excerpt">
+                    <p><p>Romero le hizo un claro penal a Bertolo, pero el árbitro Sandro Ricci no cobró nada y le dio una vida más a Nacional. Con la serie 2 a 2, Banfield necesita un gol para ir al grupo de Estudiantes. Seguilo en Olé.</p></p>
+                </div>
+                
+	<ul class="entry-related" id="514256454">
+		 
+			
+
+			
+					<li class="fichaPartido">
+						<a href="/estadisticas/futbol/modal.html?fichaTournament=420&fichaSeason=2018&fichaId=966442" title="" onclick="return false;" id="ficha420" class="vModal" data-contentType="" data-cid="">
+							<span class="icon related-ficha"></span>
+							Ver Ficha
+						</a>
+					</li>
+					<script type="text/javascript">
+
+						if(!$("#bd-e").length > 0){
+							$("#ficha420.vModal").colorbox({transition:"none"});
+						}
+					</script>
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/lanus/lanus-carboni-sporting-cristal-sudamericana_0_1965403500.html" target="_self" class="nws-related" title="Fue una Laucha" target="_self" data-contentType="NWS" data-cid="OLENWS20180221_0060">
+									<span class="icon related-text"></span>
+									Fue una Laucha
+								</a>
+							</li>
+						
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/banfield/banfield-gonzalo-bettini-copa-libertadores_0_1964803597.html" target="_self" class="nws-related" title="&quot;Con mucha confianza&quot;" target="_self" data-contentType="NWS" data-cid="OLENWS20180220_0097">
+									<span class="icon related-text"></span>
+									"Con mucha confianza"
+								</a>
+							</li>
+						
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/futbol-internacional/paletta-china-jiangsu-suning_0_1965403455.html" target="_self" class="nws-related" title="El sexto argenchino" target="_self" data-contentType="NWS" data-cid="OLENWS20180221_0015">
+									<span class="icon related-text"></span>
+									El sexto argenchino
+								</a>
+							</li>
+						
+				
+	
+		
+	</ul>
+
+            </div>
+        </article>
+    </div>
+    
+
+
+
+
+
+
+  
+
+    <div class="bb-gt row opening66-33 stickContainer">
+    <div class="sticky-spacer" data-listeners="1">
+        <div class="bb-tu first-t col col_8" data-stick="stickContainer">
+            
+  
+
+    <div class="bb-gt opening33on66">
+    <div class="bb-tu first-t col col_4">
+        
+  
+
+    
+    <article id="modNot-33_mod_20181362834446" class="entry entry-box modNot-33 " data-bajadaTruncate="50" data-truncate="false" >
+        <figure class="entry-media">
+                
+                    <a target="" href="/futbol-internacional/america/offside-cicero-roja-amorebieta_0_1965403537.html">
+                        <img src="https://images.ole.com.ar/2018/02/15/ByctMsivf_320x210__1.jpg" width="" height="" alt="No era offside." />
+
+                        <div class="img-vid-opening-model0-2 iconoVideo"></div>
+                    </a>
+                
+                
+                
+
+            <span class="entry-label">RECOPA / INDEPENDIENTE - GREMIO</span>
+            
+            
+
+            
+        
+        
+    <div id="socialNativeShare_OLENWS20180221_0097_5a8e2bd9c22e5" class="entry-share">
+        <a href="#" onclick="javascript: OLE.Share('twitter','OLENWS20180221_0097','No había offside en la previa...','RECOPA / INDEPENDIENTE - GREMIO','En la jugada de la roja a Amorebieta, Cicero estaba adelantado pero sin incidencia en la jugada. Mirá la reacción de los jugadores en el túnel.','http://www.ole.com.ar/futbol-internacional/america/offside-cicero-roja-amorebieta_0_1965403537.html','https://images.ole.com.ar/2018/02/15/ByctMsivf_386x280__1.jpg' ,'vertical' ,'M','5a8e2bd9c22e5' ,'NWS', '', '', 'false');return false;" title="Compartir en Twitter" class="tw">
+          <span class="icon tw-small-white-sh"></span>
+        </a>
+        <a href="#" onclick="javascript: OLE.Share('facebook','OLENWS20180221_0097','No había offside en la previa...','RECOPA / INDEPENDIENTE - GREMIO','En la jugada de la roja a Amorebieta, Cicero estaba adelantado pero sin incidencia en la jugada. Mirá la reacción de los jugadores en el túnel.','http://www.ole.com.ar/futbol-internacional/america/offside-cicero-roja-amorebieta_0_1965403537.html','https://images.ole.com.ar/2018/02/15/ByctMsivf_386x280__1.jpg' ,'vertical' ,'M','5a8e2bd9c22e5' ,'NWS', '', '', 'false');return false;" title="Compartir en Facebook" class="fb">
+          <span class="icon fb-small-white-sh"></span>
+        </a>
+        <a class="eb" style="display:none;" onclick="javascript: OLE.Popup.open( 'popup-eb-share' );return false;"></a>
+        <a href="http://www.ole.com.ar/futbol-internacional/america/offside-cicero-roja-amorebieta_0_1965403537.html#shareGigyaNota" title="Compartir noticia">
+          <span class="icon share-medium"></span>
+        </a>
+    </div>
+ 
+
+<script type="text/javascript">
+    
+    var contentType = "NWS";
+    
+    if (contentType == "VID") {
+        //Inserto un cuarto boton para compartir el embedded
+        $('#socialNativeShare_OLENWS20180221_0097_5a8e2bd9c22e5 .eb').css('display','block');
+    }
+
+</script> 
+
+        </figure>
+
+        <div class="entry-data" data-infocontentid="OLENWS20180221_0097">
+            <h1 class="entry-title">
+                <a target="_self" href="/futbol-internacional/america/offside-cicero-roja-amorebieta_0_1965403537.html" title="No hab&iacute;a offside en la previa...">
+                   No hab&iacute;a offside en la previa...
+                </a>
+            </h1>
+            <div class="entry-excerpt">
+                <p>En la jugada de la roja a Amorebieta, Cicero estaba adelantado pero sin incidencia en la jugada. Mirá la reacción de los jugadores en el túnel.</p>
+            </div>
+
+            
+	<ul class="entry-related" id="1649976036">
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/independiente/Amorebieta-vio-roja-uso-VAR_3_1965433478.html" target="_self" class="nws-related" title="Amorebieta vio la roja con el uso del VAR" target="_self" data-contentType="VID" data-cid="OLEVID20180221_0041">
+									<span class="icon related-video"></span>
+									Amorebieta vio la roja con el uso del VAR
+								</a>
+							</li>
+						
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/independiente/amorebieta-independiente-gremio-recopa-vuelta-roja_0_1965403535.html" target="_self" class="nws-related" title="VAR y roja" target="_self" data-contentType="NWS" data-cid="OLENWS20180221_0095">
+									<span class="icon related-text"></span>
+									VAR y roja
+								</a>
+							</li>
+						
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/independiente/imagenes-independiente-gremio-recopa-holan_0_1965403533.html" target="_self" class="nws-related" title="A pura adrenalina" target="_self" data-contentType="NWS" data-cid="OLENWS20180221_0093">
+									<span class="icon related-text"></span>
+									A pura adrenalina
+								</a>
+							</li>
+						
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/independiente/amorebieta-salvo-linea-independiente-gremio-final_0_1965403532.html" target="_self" class="nws-related" title="Amorebieta salv&oacute; al Rojo" target="_self" data-contentType="NWS" data-cid="OLENWS20180221_0092">
+									<span class="icon related-text"></span>
+									Amorebieta salvó al Rojo
+								</a>
+							</li>
+						
+				
+	
+		
+	</ul>
+
+        </div>
+    </article>
+
+
+
+
+
+
+    </div>
+    <div class="bb-tu col col_4 last-col">
+        
+  
+
+    
+    <article id="modNot-33_mod_201813493542755" class="entry entry-box modNot-33 " data-bajadaTruncate="50" data-truncate="false" >
+        <figure class="entry-media">
+                
+                    <a target="" href="/lanus/lanus-carboni-sporting-cristal-sudamericana_0_1965403500.html">
+                        <img src="https://images.ole.com.ar/2018/02/21/rk8DutjwM_320x210__1.jpg" width="" height="" alt="Buenos Aires: Lautaro Acosta festeja su gol, el segundo a favor de la Lan&uacute;s, que supera a Sporting Cristal por 3 a 1, en el primer tiempo del partido de vuelta de la primera fase de la Copa Sudamericana. Foto: Alejandro Santa Cruz/T&eacute;lam/jcr 21/02/2018" />
+
+                        <div class="img-vid-opening-model0-2 iconoVideo"></div>
+                    </a>
+                
+                
+                
+
+            <span class="entry-label">SUDAMERICANA / LANUS 4 - SP. CRISTAL 2</span>
+            
+            
+
+            
+        
+        
+    <div id="socialNativeShare_OLENWS20180221_0060_5a8e2bd9e3365" class="entry-share">
+        <a href="#" onclick="javascript: OLE.Share('twitter','OLENWS20180221_0060','Fue una Laucha','SUDAMERICANA / LANUS - SP. CRISTAL','Lanús no la tuvo fácil con Sporting Cristal, pero finalmente se quedó con la victoria y con una diferencia que le da aire para el partido de vuelta. Se impuso 4-2, con un buen primer tiempo de Acosta. Vides, Lautaro, Silva y Di Renzo marcaron los goles para el Granate, y Herreda descontó en el visitante. ','http://www.ole.com.ar/lanus/lanus-carboni-sporting-cristal-sudamericana_0_1965403500.html','https://images.ole.com.ar/2018/02/21/rk8DutjwM_386x280__1.jpg' ,'vertical' ,'M','5a8e2bd9e3365' ,'NWS', '', '', 'false');return false;" title="Compartir en Twitter" class="tw">
+          <span class="icon tw-small-white-sh"></span>
+        </a>
+        <a href="#" onclick="javascript: OLE.Share('facebook','OLENWS20180221_0060','Fue una Laucha','SUDAMERICANA / LANUS - SP. CRISTAL','Lanús no la tuvo fácil con Sporting Cristal, pero finalmente se quedó con la victoria y con una diferencia que le da aire para el partido de vuelta. Se impuso 4-2, con un buen primer tiempo de Acosta. Vides, Lautaro, Silva y Di Renzo marcaron los goles para el Granate, y Herreda descontó en el visitante. ','http://www.ole.com.ar/lanus/lanus-carboni-sporting-cristal-sudamericana_0_1965403500.html','https://images.ole.com.ar/2018/02/21/rk8DutjwM_386x280__1.jpg' ,'vertical' ,'M','5a8e2bd9e3365' ,'NWS', '', '', 'false');return false;" title="Compartir en Facebook" class="fb">
+          <span class="icon fb-small-white-sh"></span>
+        </a>
+        <a class="eb" style="display:none;" onclick="javascript: OLE.Popup.open( 'popup-eb-share' );return false;"></a>
+        <a href="http://www.ole.com.ar/lanus/lanus-carboni-sporting-cristal-sudamericana_0_1965403500.html#shareGigyaNota" title="Compartir noticia">
+          <span class="icon share-medium"></span>
+        </a>
+    </div>
+ 
+
+<script type="text/javascript">
+    
+    var contentType = "NWS";
+    
+    if (contentType == "VID") {
+        //Inserto un cuarto boton para compartir el embedded
+        $('#socialNativeShare_OLENWS20180221_0060_5a8e2bd9e3365 .eb').css('display','block');
+    }
+
+</script> 
+
+        </figure>
+
+        <div class="entry-data" data-infocontentid="OLENWS20180221_0060">
+            <h1 class="entry-title">
+                <a target="_self" href="/lanus/lanus-carboni-sporting-cristal-sudamericana_0_1965403500.html" title="Fue una Laucha">
+                   Fue una Laucha
+                </a>
+            </h1>
+            <div class="entry-excerpt">
+                <p>Lanús no la tuvo fácil con Sporting Cristal, pero finalmente se quedó con la victoria y con una diferencia que le da aire para el partido de vuelta. Se impuso&nbsp;4-2, con un buen primer tiempo de Acosta. Vides, Lautaro, Silva y Di Renzo marcaron los goles para el Granate y Herreda descontó en el visitante.&nbsp;</p>
+            </div>
+
+            
+	<ul class="entry-related" id="1819879003">
+		 
+			
+
+			
+					<li class="fichaPartido">
+						<a href="/estadisticas/futbol/modal.html?fichaTournament=369&fichaSeason=2018&fichaId=966373" title="" onclick="return false;" id="ficha369" class="vModal" data-contentType="" data-cid="">
+							<span class="icon related-ficha"></span>
+							Ver Ficha
+						</a>
+					</li>
+					<script type="text/javascript">
+
+						if(!$("#bd-e").length > 0){
+							$("#ficha369.vModal").colorbox({transition:"none"});
+						}
+					</script>
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/futbol-internacional/Vides-puso-Lanus_3_1965433462.html" target="_self" class="nws-related" title="Vides puso el 1 a 0 para Lan&uacute;s" target="_self" data-contentType="VID" data-cid="OLEVID20180221_0025">
+									<span class="icon related-video"></span>
+									Vides puso el 1 a 0 para Lanús
+								</a>
+							</li>
+						
+				
+	
+		 
+			
+
+			
+					
+
+					
+							<li>
+								<a href="/futbol-internacional/Herrera-marco-empate-Sporting-Cristal_3_1965433463.html" target="_self" class="nws-related" title="Herrera marc&oacute; el empate para Sporting Cristal" target="_self" data-contentType="VID" data-cid="OLEVID20180221_0026">
+									<span class="icon related-video"></span>
+									Herrera marcó el empate para Sporting Cristal
+								</a>
+							</li>
+						
+				
+	
+		
+	</ul>
+
+        </div>
+    </article>
+
+
+
+
+
+
+    </div>
+</div> 
+
+
+
+
+
+        </div>
+    </div>   
+    <div class="sticky-spacer" data-listeners="1">
+        <div class="bb-tu col col_4" data-stick="stickContainer">
+            
+  
+
+    <div class="bb-md-adv7 banner">
+  <div class="bd">
+    
+
+
+    <div class="banner_center" id="sas_12952"></div>
+    <div id="bannerId_509">
+        <script type="text/javascript" async>
+            cX.callQueue.push(['invoke', function() {
+                sas.cmd.push(function() {
+                    sas.render(12952); //Right1 (300x250)
+                });
+            }]);
+        </script>
+    </div>
+
+
+  </div>
+</div>
+
+
+
+
+
+
+        </div>
+    </div>
+</div> 
+
+
+
+
+
+  
+
+    <!--CARCASA ID: 2113-->
+
+	
+	
+					<div class="bb-gt row opening100 autopromo">
+						<div class="col col_12">
+					    	
+  
+
+    
+	
+		<article  class="esp esp-25 esp-inner esp-invert esp-img">
+			<a href="/agenda-deportiva/" title="" target="_self">
+				
+				
+				
+						<img src="https://images.ole.com.ar/bbtfile/5014_20180221UR5dxq.jpg" width="247" height="189" border="0"/>
+				    
+
+			</a>
+		</article>
+	
+
+	
+
+	
+	
+	
+
+
+
+
+
+
+  
+
+    
+	
+		<article  class="esp esp-25 esp-inner esp-invert esp-img">
+			<a href="https://www.ole.com.ar/fuera-de-juego/adidas-tangoleague-messi_0_1958804162.html" title="" target="_self">
+				
+				
+				
+						<img src="https://images.ole.com.ar/bbtfile/5014_201802107J2wRD.jpg" width="247" height="189" border="0"/>
+				    
+
+			</a>
+		</article>
+	
+
+	
+
+	
+	
+	
+
+
+
+
+
+
+  
+
+    
+	
+		<article  class="esp esp-25 esp-inner esp-invert esp-img">
+			<a href="https://www.ole.com.ar/voley/" title="" target="_blank">
+				
+				
+				
+						<img src="https://images.ole.com.ar/bbtfile/5014_20171106kMm1Az.jpg" width="247" height="189" border="0"/>
+				    
+
+			</a>
+		</article>
+	
+
+	
+
+	
+	
+	
+
+
+
+
+
+
+  
+
+    
+	
+		<article  class="esp esp-25 esp-inner esp-invert esp-img">
+			<a href="https://www.ole.com.ar/ciudad-buenos-aires-juegos-olimpicos-juventud-2018/" title="" target="_blank">
+				
+				
+				
+						<img src="https://images.ole.com.ar/bbtfile/5014_20171006qhdxhy.jpg" width="247" height="189" border="0"/>
+				    
+
+			</a>
+		</article>
+	
+
+	
+
+	
+	
+	
+
+
+
+
+
+
+						</div> 
+					</div> 
+
+		        
+
+
+
+
+
+
+
+</div> 
+
+
+
+
+
+
+  
+
+    <div class="bb-gt row opening100">
+        
+  
+
+    
+
+
+
+    <iframe src="https://www.ole.com.ar/filer/index.html" width="100%" style="margin: 0 auto;position:relative;" frameborder="0" scrolling="no" height="230px"></iframe>
+
+
+
+
+
+
+</div> 
+
+
+
+
+
+
+  
+
+    <div class="bb-gt opCr_mod_201815266257508 openingCross crossCCBlanco cc-titulo-black cc-txt-black" style="background-image:url(https://images.ole.com.ar/bbtfile/6001_20180103vMQ4iV.jpg); background-repeat: no-repeat; background-position: center 0;">
+    
+  
+
+    <!--CARCASA ID: 2115-->
+
+
+
+            <div class="bb-gt borra-back openingCross">
+                
+  
+
+    <div class="bb-gt opCr_mod_201654534898823 openingCross crossCCBlanco cc-titulo-white cc-txt-white" style="background-image:url(https://images.ole.com.ar/bbtfile/6001_20180103vMQ4iV.jpg); background-repeat: no-repeat; background-position: center 0;">
+    
+  
+
+    
+    <section class="bb-md-ole_teve mod mod-oletv mod-oletvGen defaultBack" id="oleteve_mod_201654820577632">
+    
+        
+
+        <div class="ui-tabs-panel" id="tabs-videoleg">
+            <div class="row">
+                <div class="col col_8">
+                    <div class="video-loaded">
+                        <article class="entry entry-box entry-auto active generated" data-id="1">
+                        <figure class="entry-media">
+                                <div class="mg video_player" style="height:371px;">
+                                    <div class="imgloader" style="padding: 172px 312px;">
+                                        <img src="/static/OLEOle/images/loader.gif"/>
+                                    </div>
+                                    <span class="load" style="display:none;">true</span>
+                                </div>
+                                <span class="entry-label sectionNameTop"></span>
+                                <span class="icon video-big jw-player-pre"></span>
+                        </figure>
+                            <div class="entry-data ft">
+                                <h1 class="entry-title">
+                                    <a href="#" ><span class="_title"></span></a>
+                                </h1>
+                                <div class="entry-excerpt entradillaTop">
+                                </div>
+                            </div>
+
+                        </article>
+                    </div>
+                </div>
+                <div class="col col_4">
+                    <div class="entry destacadaLogo">
+                        <div class="sumarioTitle" id="linkImagemod_201654820577632">
+                            
+  				
+  				
+    
+    
+        
+        
+                <a href="https://www.ole.com.ar/oleteve/" title="OléTeVé" target="_blank">
+                    <img src="https://images.ole.com.ar/bbtfile/5080_20170523TnQ7oa.png"/>
+                </a>
+            
+    
+
+     
+
+
+			
+			
+                            <div class="entry-related clearfix">
+                                
+                            </div>
+                        </div>
+                    </div>
+                    
+  				
+  				<div class="bb-md-adv7 banner">
+  <div class="bd">
+    
+
+
+    <div class="banner_center" id="sas_12953"></div>
+    <div id="bannerId_899">
+        <script type="text/javascript" async>
+            cX.callQueue.push(['invoke', function() {
+                sas.cmd.push(function() {
+                    sas.render(12953); //Right2 (300x250)
+                });
+            }]);
+        </script>
+    </div>
+
+
+  </div>
+</div>
+
+			
+			
+                </div> 
+            </div>
+            <div class="slider">
+                <div class="desScrollable">
+                    <div class="prevPage">
+                        <span class="icon arr-big-white-left"></span>
+                    </div>
+                    <div class="nextPage">
+                        <span class="icon arr-big-white-right"></span>
+                    </div>
+                    <div class="items" id="scrollable_videoleg_mr">
+                        
+    <div class="swiper-slide" data-index="0">
+        <article class="entry entry-box item item_0" data-id="0">
+
+                <figure class="entry-media">
+                    <a href="/futbol-internacional/libertadores/penal-Banfield_3_1965433481.html" class="load_vid contentId_OLEVID20180221_0044 vid_0" data-url-clipping="https://thumbs.vodgc.net/4-246-API-H1B15oswf-MIVYJL1519266273.jpg?527509" onclick="return false;" id="videoOLEVID20180221_0044">
+                        <img src="https://thumbs.vodgc.net/4-246-API-H1B15oswf-MIVYJL1519266273.jpg?527509" width="184" height="122" alt="OLEOleV2OleTeveBMO Thumbnail">
+                        <span class="entry-label">Libertadores</span>
+                        <span class="icon video-small"></span>
+                        <span class="video-duration originPos">00:10</span>
+                    </a>
+                </figure>
+
+                <div class="entry-data">
+                     <h1 class="entry-title">
+                        <a href="/futbol-internacional/libertadores/penal-Banfield_3_1965433481.html" class="load_vid contentId_OLEVID20180221_0044 vid_0 title" data-url-clipping="https://thumbs.vodgc.net/4-246-API-H1B15oswf-MIVYJL1519266273.jpg?527509" onclick="return false;" title='¿Era o no penal para Banfield?'><span class="_title">&iquest;Era o no penal para Banfield?</span></a>
+                    </h1>
+                    <div class="entry-excerpt entradilla" >
+                        <p><p>Nacional 0 - Banfield 0. Copa Libertadores 2018. Fuente: FoxSports. </p>
+</p>
+                    </div>
+                </div>
+        </article>
+    </div>
+
+    <div class="swiper-slide" data-index="1">
+        <article class="entry entry-box item item_1" data-id="1">
+
+                <figure class="entry-media">
+                    <a href="/futbol-internacional/libertadores/Banfield-cerca-primero_3_1965433480.html" class="load_vid contentId_OLEVID20180221_0043 vid_1" data-url-clipping="https://thumbs.vodgc.net/4-246-API-ryIGIiswM-YL37K81519265298.jpg?268693" onclick="return false;" id="videoOLEVID20180221_0043">
+                        <img src="https://thumbs.vodgc.net/4-246-API-ryIGIiswM-YL37K81519265298.jpg?268693" width="184" height="122" alt="OLEOleV2OleTeveBMO Thumbnail">
+                        <span class="entry-label">Libertadores</span>
+                        <span class="icon video-small"></span>
+                        <span class="video-duration originPos">00:09</span>
+                    </a>
+                </figure>
+
+                <div class="entry-data">
+                     <h1 class="entry-title">
+                        <a href="/futbol-internacional/libertadores/Banfield-cerca-primero_3_1965433480.html" class="load_vid contentId_OLEVID20180221_0043 vid_1 title" data-url-clipping="https://thumbs.vodgc.net/4-246-API-ryIGIiswM-YL37K81519265298.jpg?268693" onclick="return false;" title='Banfield estuvo muy cerca del primero'><span class="_title">Banfield estuvo muy cerca del primero</span></a>
+                    </h1>
+                    <div class="entry-excerpt entradilla" >
+                        <p><p>Nacional 0 - Banfield 0. Copa Libertadores 2018. Fuente: FoxSports. </p>
+</p>
+                    </div>
+                </div>
+        </article>
+    </div>
+
+    <div class="swiper-slide" data-index="2">
+        <article class="entry entry-box item item_2" data-id="2">
+
+                <figure class="entry-media">
+                    <a href="/futbol-internacional/Gran-tapada-Campana_3_1965433479.html" class="load_vid contentId_OLEVID20180221_0042 vid_2" data-url-clipping="https://thumbs.vodgc.net/4-246-API-r1hL4iovG-48LOPY1519264855.jpg?302983" onclick="return false;" id="videoOLEVID20180221_0042">
+                        <img src="https://thumbs.vodgc.net/4-246-API-r1hL4iovG-48LOPY1519264855.jpg?302983" width="184" height="122" alt="OLEOleV2OleTeveBMO Thumbnail">
+                        <span class="entry-label">Internacional</span>
+                        <span class="icon video-small"></span>
+                        <span class="video-duration originPos">00:09</span>
+                    </a>
+                </figure>
+
+                <div class="entry-data">
+                     <h1 class="entry-title">
+                        <a href="/futbol-internacional/Gran-tapada-Campana_3_1965433479.html" class="load_vid contentId_OLEVID20180221_0042 vid_2 title" data-url-clipping="https://thumbs.vodgc.net/4-246-API-r1hL4iovG-48LOPY1519264855.jpg?302983" onclick="return false;" title='Gran tapada de Campaña'><span class="_title">Gran tapada de Campa&ntilde;a</span></a>
+                    </h1>
+                    <div class="entry-excerpt entradilla" >
+                        <p><p>Gremio 0 - Independiente 0. Final. Recopa Sudamericana 2018</p>
+</p>
+                    </div>
+                </div>
+        </article>
+    </div>
+
+    <div class="swiper-slide" data-index="3">
+        <article class="entry entry-box item item_3" data-id="3">
+
+                <figure class="entry-media">
+                    <a href="/independiente/Amorebieta-vio-roja-uso-VAR_3_1965433478.html" class="load_vid contentId_OLEVID20180221_0041 vid_3" data-url-clipping="https://thumbs.vodgc.net/4-246-API-Bym@@gooPf-E59VH21519263743.jpg?924111" onclick="return false;" id="videoOLEVID20180221_0041">
+                        <img src="https://thumbs.vodgc.net/4-246-API-Bym@@gooPf-E59VH21519263743.jpg?924111" width="184" height="122" alt="OLEOleV2OleTeveBMO Thumbnail">
+                        <span class="entry-label">Independiente</span>
+                        <span class="icon video-small"></span>
+                        <span class="video-duration originPos">00:40</span>
+                    </a>
+                </figure>
+
+                <div class="entry-data">
+                     <h1 class="entry-title">
+                        <a href="/independiente/Amorebieta-vio-roja-uso-VAR_3_1965433478.html" class="load_vid contentId_OLEVID20180221_0041 vid_3 title" data-url-clipping="https://thumbs.vodgc.net/4-246-API-Bym@@gooPf-E59VH21519263743.jpg?924111" onclick="return false;" title='Amorebieta vio la roja con el uso del VAR'><span class="_title">Amorebieta vio la roja con el uso ...</span></a>
+                    </h1>
+                    <div class="entry-excerpt entradilla" >
+                        <p><p>Gremio 0 - Independiente 0. Final. Recopa Sudamericana 2018 (Fuente: FOX)</p>
+</p>
+                    </div>
+                </div>
+        </article>
+    </div>
+
+    <div class="swiper-slide" data-index="4">
+        <article class="entry entry-box item item_4" data-id="4">
+
+                <figure class="entry-media">
+                    <a href="/futbol-internacional/Luan-primero-Gremio_3_1965433477.html" class="load_vid contentId_OLEVID20180221_0040 vid_4" data-url-clipping="https://thumbs.vodgc.net/4-246-API-rk4KaqsPf-E696R01519263104.jpg?244421" onclick="return false;" id="videoOLEVID20180221_0040">
+                        <img src="https://thumbs.vodgc.net/4-246-API-rk4KaqsPf-E696R01519263104.jpg?244421" width="184" height="122" alt="OLEOleV2OleTeveBMO Thumbnail">
+                        <span class="entry-label">Internacional</span>
+                        <span class="icon video-small"></span>
+                        <span class="video-duration originPos">00:13</span>
+                    </a>
+                </figure>
+
+                <div class="entry-data">
+                     <h1 class="entry-title">
+                        <a href="/futbol-internacional/Luan-primero-Gremio_3_1965433477.html" class="load_vid contentId_OLEVID20180221_0040 vid_4 title" data-url-clipping="https://thumbs.vodgc.net/4-246-API-rk4KaqsPf-E696R01519263104.jpg?244421" onclick="return false;" title='Luan tuvo el primero de Gremio'><span class="_title">Luan tuvo el primero de Gremio</span></a>
+                    </h1>
+                    <div class="entry-excerpt entradilla" >
+                        <p><p>Gremio 0 - Independiente 0. Final. Recopa Sudamericana 2018 (Fuente: FOX)</p>
+</p>
+                    </div>
+                </div>
+        </article>
+    </div>
+
+    <div class="swiper-slide" data-index="5">
+        <article class="entry entry-box item item_5" data-id="5">
+
+                <figure class="entry-media">
+                    <a href="/independiente/Fernandez-chance_3_1965433476.html" class="load_vid contentId_OLEVID20180221_0039 vid_5" data-url-clipping="https://thumbs.vodgc.net/4-246-API-S1yAn9sPz-RDTZWC1519262922.jpg?178932" onclick="return false;" id="videoOLEVID20180221_0039">
+                        <img src="https://thumbs.vodgc.net/4-246-API-S1yAn9sPz-RDTZWC1519262922.jpg?178932" width="184" height="122" alt="OLEOleV2OleTeveBMO Thumbnail">
+                        <span class="entry-label">Independiente</span>
+                        <span class="icon video-small"></span>
+                        <span class="video-duration originPos">00:15</span>
+                    </a>
+                </figure>
+
+                <div class="entry-data">
+                     <h1 class="entry-title">
+                        <a href="/independiente/Fernandez-chance_3_1965433476.html" class="load_vid contentId_OLEVID20180221_0039 vid_5 title" data-url-clipping="https://thumbs.vodgc.net/4-246-API-S1yAn9sPz-RDTZWC1519262922.jpg?178932" onclick="return false;" title='Fernández tuvo su chance'><span class="_title">Fern&aacute;ndez tuvo su chance</span></a>
+                    </h1>
+                    <div class="entry-excerpt entradilla" >
+                        <p><p>Gremio 0 - Independiente 0. Final. Recopa Sudamericana 2018 (Fuente: FOX)</p>
+</p>
+                    </div>
+                </div>
+        </article>
+    </div>
+
+    <div class="swiper-slide" data-index="6">
+        <article class="entry entry-box item item_6" data-id="6">
+
+                <figure class="entry-media">
+                    <a href="/futbol-internacional/libertadores/Increible-perdio-Cvitanich_3_1965433475.html" class="load_vid contentId_OLEVID20180221_0038 vid_6" data-url-clipping="https://thumbs.vodgc.net/4-246-API-HyWns5jDf-DH4FQ61519262636.jpg?886571" onclick="return false;" id="videoOLEVID20180221_0038">
+                        <img src="https://thumbs.vodgc.net/4-246-API-HyWns5jDf-DH4FQ61519262636.jpg?886571" width="184" height="122" alt="OLEOleV2OleTeveBMO Thumbnail">
+                        <span class="entry-label">Libertadores</span>
+                        <span class="icon video-small"></span>
+                        <span class="video-duration originPos">00:10</span>
+                    </a>
+                </figure>
+
+                <div class="entry-data">
+                     <h1 class="entry-title">
+                        <a href="/futbol-internacional/libertadores/Increible-perdio-Cvitanich_3_1965433475.html" class="load_vid contentId_OLEVID20180221_0038 vid_6 title" data-url-clipping="https://thumbs.vodgc.net/4-246-API-HyWns5jDf-DH4FQ61519262636.jpg?886571" onclick="return false;" title='Increíble lo que se perdió Cvitanich'><span class="_title">Incre&iacute;ble lo que se perdi&oacute; Cvitanich</span></a>
+                    </h1>
+                    <div class="entry-excerpt entradilla" >
+                        <p><p>Nacional 0 - Banfield 0. Fecha 6. Copa Libertadores 2018. Fuente: FoxSports. </p>
+</p>
+                    </div>
+                </div>
+        </article>
+    </div>
+
+    <div class="swiper-slide" data-index="7">
+        <article class="entry entry-box item item_7" data-id="7">
+
+                <figure class="entry-media">
+                    <a href="/futbol-internacional/libertadores/arquero-salvo-Banfield_3_1965433474.html" class="load_vid contentId_OLEVID20180221_0037 vid_7" data-url-clipping="https://thumbs.vodgc.net/4-246-API-S1pbDqoPz-9RKHJ21519261447.jpg?471380" onclick="return false;" id="videoOLEVID20180221_0037">
+                        <img src="https://thumbs.vodgc.net/4-246-API-S1pbDqoPz-9RKHJ21519261447.jpg?471380" width="184" height="122" alt="OLEOleV2OleTeveBMO Thumbnail">
+                        <span class="entry-label">Libertadores</span>
+                        <span class="icon video-small"></span>
+                        <span class="video-duration originPos">00:08</span>
+                    </a>
+                </figure>
+
+                <div class="entry-data">
+                     <h1 class="entry-title">
+                        <a href="/futbol-internacional/libertadores/arquero-salvo-Banfield_3_1965433474.html" class="load_vid contentId_OLEVID20180221_0037 vid_7 title" data-url-clipping="https://thumbs.vodgc.net/4-246-API-S1pbDqoPz-9RKHJ21519261447.jpg?471380" onclick="return false;" title='El arquero salvó a Banfield'><span class="_title">El arquero salv&oacute; a Banfield</span></a>
+                    </h1>
+                    <div class="entry-excerpt entradilla" >
+                        <p><p>Nacional 0 - Banfield 0. Fecha 6. Copa Libertadores 2018. Fuente: FoxSports. </p>
+</p>
+                    </div>
+                </div>
+        </article>
+    </div>
+
+    <div class="swiper-slide" data-index="8">
+        <article class="entry entry-box item item_8" data-id="8">
+
+                <figure class="entry-media">
+                    <a href="/futbol-internacional/Amorebieta-salvo-Rojo_3_1965433473.html" class="load_vid contentId_OLEVID20180221_0036 vid_8" data-url-clipping="https://thumbs.vodgc.net/4-246-API-S1aRBcswz-D09SN71519261145.jpg?140846" onclick="return false;" id="videoOLEVID20180221_0036">
+                        <img src="https://thumbs.vodgc.net/4-246-API-S1aRBcswz-D09SN71519261145.jpg?140846" width="184" height="122" alt="OLEOleV2OleTeveBMO Thumbnail">
+                        <span class="entry-label">Internacional</span>
+                        <span class="icon video-small"></span>
+                        <span class="video-duration originPos">00:19</span>
+                    </a>
+                </figure>
+
+                <div class="entry-data">
+                     <h1 class="entry-title">
+                        <a href="/futbol-internacional/Amorebieta-salvo-Rojo_3_1965433473.html" class="load_vid contentId_OLEVID20180221_0036 vid_8 title" data-url-clipping="https://thumbs.vodgc.net/4-246-API-S1aRBcswz-D09SN71519261145.jpg?140846" onclick="return false;" title='Amorebieta salvó al Rojo'><span class="_title">Amorebieta salv&oacute; al Rojo</span></a>
+                    </h1>
+                    <div class="entry-excerpt entradilla" >
+                        <p><p>Gremio 0 - Independiente 0. Final. Recopa Sudamericana 2018 (Fuente: FOX)</p>
+</p>
+                    </div>
+                </div>
+        </article>
+    </div>
+
+    <div class="swiper-slide" data-index="9">
+        <article class="entry entry-box item item_9" data-id="9">
+
+                <figure class="entry-media">
+                    <a href="/futbol-internacional/gente-Rojo-cantando-Porto-Alegre_3_1965433472.html" class="load_vid contentId_OLEVID20180221_0035 vid_9" data-url-clipping="https://thumbs.vodgc.net/4-246-API-rkWak5jPG-1LRA921519259580.jpg?115533" onclick="return false;" id="videoOLEVID20180221_0035">
+                        <img src="https://thumbs.vodgc.net/4-246-API-rkWak5jPG-1LRA921519259580.jpg?115533" width="184" height="122" alt="OLEOleV2OleTeveBMO Thumbnail">
+                        <span class="entry-label">Internacional</span>
+                        <span class="icon video-small"></span>
+                        <span class="video-duration originPos">00:15</span>
+                    </a>
+                </figure>
+
+                <div class="entry-data">
+                     <h1 class="entry-title">
+                        <a href="/futbol-internacional/gente-Rojo-cantando-Porto-Alegre_3_1965433472.html" class="load_vid contentId_OLEVID20180221_0035 vid_9 title" data-url-clipping="https://thumbs.vodgc.net/4-246-API-rkWak5jPG-1LRA921519259580.jpg?115533" onclick="return false;" title='La gente del Rojo cantando en Porto Alegre'><span class="_title">La gente del Rojo cantando en Porto ...</span></a>
+                    </h1>
+                    <div class="entry-excerpt entradilla" >
+                        <p><p>La hinchada de Independiente en la previa de la final (Fuente: CAI)</p>
+</p>
+                    </div>
+                </div>
+        </article>
+    </div>
+
+
+ 
+                    </div>
+                </div>
+            </div>
+        </div>
+              
+        <!--googleoff: all-->
+        <script type="text/javascript">
+
+            $(document).ready(function(){
+                var moveItems = 3;
+                var limitGetVids = 12;
+                $('#oleteve_mod_201654820577632 .slider .desScrollable').desScrollable({
+                    size:1,
+                    speed: 400,
+                    desNavi  : true,
+                    loop     : false , //activa o desactiva la accion de loop del sliderS
+                    vertical : false, //muestra slider en forma vertical o horizontal.
+                    keyboard : false , //cambio slider con fechas teclado
+                    clickable : false, //cambio slider con mouse
+                    moveItems: moveItems,
+                });
+
+                var positionSlice = 5;
+                var sectionId = "all";
+                var cantVids = $("#oleteve_mod_201654820577632 .slider .item").length;
+                var autoplay_mod_201654820577632 = true;
+
+                $('#oleteve_mod_201654820577632 .nextPage').click(function(){
+                    positionSlice = positionSlice + moveItems;
+                    if(positionSlice >= (cantVids - 10) ){
+                        try {
+                            var pag = '/oleteveV2/OleTeveVids.json?start='+ cantVids + '&sectionId=' + sectionId + '&limit='+limitGetVids+'&tpl=_sumario.tpl';
+                            jQuery.get( pag ,function(_response){
+                            var response = BBT.fixJson(_response);
+                                if (response['data'] != false){
+                                    $('#oleteve_mod_201654820577632 .slider .items').append(response['data']);
+                                    cantVids += limitGetVids;
+
+                                    $("#oleteve_mod_201654820577632").find('.swiper-slide .entry .entry-media').click(function() {
+                                        clickEventOleteve($(this),'mod_201654820577632','Player','all',"oleteve_v2_sumario",autoplay_mod_201654820577632);
+                                        autoplay_mod_201654820577632 = true;
+                                    });
+                                    $("#oleteve_mod_201654820577632").find('.swiper-slide .entry .entry-data').click(function() {
+                                        clickEventOleteve($(this),'mod_201654820577632','Player','all',"oleteve_v2_sumario",autoplay_mod_201654820577632);
+                                        autoplay_mod_201654820577632 = true;
+                                    });
+                                    OLE.Modules.initialize();
+                                }
+                            });
+                        } catch(err) {
+                            console.log('PhotoGallery_ERR: '+err.message);
+                        }
+                    }
+                });
+                $('#oleteve_mod_201654820577632 .prevPage').click(function(){
+                    positionSlice = positionSlice - moveItems;
+                });
+
+                $("#oleteve_mod_201654820577632").find('.swiper-slide .entry .entry-media').click(function() {
+                    clickEventOleteve($(this),'mod_201654820577632','Player','all',"oleteve_v2_sumario",autoplay_mod_201654820577632);
+                    autoplay_mod_201654820577632 = true;
+                });
+                $("#oleteve_mod_201654820577632").find('.swiper-slide .entry .entry-data').click(function() {
+                    $(this).prev().click();
+                });
+
+                firstClick = true;
+
+                $("#oleteve_mod_201654820577632 .video-loaded .load_vid").click(function(){
+                    firstClick = false;
+                    autoplay_mod_201654820577632 = true;
+                    $(".item:eq(1) .entry-title a").click();
+                });
+            });
+        </script>
+        <!--googleon: all-->
+    </section>
+
+
+
+
+
+
+</div> 
+
+
+
+
+
+
+
+            </div> 
+
+        
+
+
+
+
+
+
+</div> 
+
+
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+  
+
+
+    <div class="on-demand" data-src="/ondemand/eyJtYyI6Ik9MRU9sZUNvbnRhaW5lckJNTyIsImNpZCI6ImNvbnRhaW5lcl9ob21lXzAiLCJtaWQiOiJtb2RfMjAxNzU0NjI0OTU3MTIxIiwiYmlkIjoiMSIsImJ2aWQiOiIyMDE4MDIyMV8wMDg1IiwibiI6IjEifQ==.json"></div>
+
+
+
+
+  
+
+
+    <div class="on-demand" data-src="/ondemand/eyJtYyI6Ik9MRU9sZUNvbnRhaW5lckJNTyIsImNpZCI6ImNvbnRhaW5lcl9ob21lXzAiLCJtaWQiOiJtb2RfMjAxNzM1NDE2OTI3NzU0IiwiYmlkIjoiMSIsImJ2aWQiOiIyMDE4MDIyMV8wMDg1IiwibiI6IjIifQ==.json"></div>
+
+
+
+
+  
+
+
+    <div class="on-demand" data-src="/ondemand/eyJtYyI6Ik9MRU9sZUNvbnRhaW5lckJNTyIsImNpZCI6ImNvbnRhaW5lcl9ob21lXzAiLCJtaWQiOiJtb2RfMjAxNjU0ODI4NjgzMjI2IiwiYmlkIjoiMSIsImJ2aWQiOiIyMDE4MDIyMV8wMDg1IiwibiI6IjMifQ==.json"></div>
+
+
+
+
+                        </div>
+                    </div>
+
+    
+
+    
+    
+            <script type="text/javascript">
+                $(window).on("keydown", function(e) {
+                    if (e.which == 27) {
+                        $('.popup-close').click();
+                    }
+                });
+                var lastElement = $(".on-demand").last().index();
+                var el = $(".on-demand").first();
+                // "false" - El funcionamiento de la pagina es scroll a demanda del usuario.
+                // "true" -  Los scroll se cargan automaticamente.
+                var autoLoadScroll = false;
+
+                $(document).ready(function(){
+                    if(lastElement != -1) {
+                        $('footer').hide();
+                    }
+                });
+
+                function getOnDemandNumber(){
+                    var cantidad_total = $(".on-demand").length;
+                    $(".on-demand").each(function(index){
+                        if ($(this).html() == '') {
+                            cantidad_total--;
+                        }
+                    });  
+                    return cantidad_total + 1;                  
+                }
+
+                var updateOnDemand = function(e) {
+                    $(window).unbind("scroll.OnDemand");
+                    var index_scroll = getOnDemandNumber();
+                    uid_call("web.home.scroll-on-demand."+index_scroll, "event");
+                    try{
+                        $.ajax({
+                            type: 'GET',
+                            url: e.data("src"),
+                            beforeSend: function(){
+                                e.html('<div class="demand-loading"><div class=centerLoading><img src="/static/OLEOleV2/images/loading.gif"><p>Cargando...</p></div></div>');
+                            },
+                            complete: function(_response){
+
+                                if (typeof BBT == "undefined"){return;}
+                                response = BBT.fixJson(_response['responseText']);
+                                if(!response){
+                                    return;
+                                }
+                                if (response.error == 0) {
+                                    e.html(response.data);
+                                    e.find(".sticky-spacer > [data-stick]").stickAll();
+                                    if(lastElement!=-1){
+                                        if ( e.index() != lastElement ) {
+                                            el = e.next(".on-demand");
+                                            updateBody();
+                                        }else{
+                                            $('footer').show();
+                                        }
+                                    }else{
+                                        $('footer').show();
+                                    }
+                                    
+                                    OLE.Modules.initialize();
+                                }
+                            }
+                        });
+                    }catch(err){
+                        console.log("on demand Error: "+err);
+                    }   
+                }
+
+               
+                function checkScroll(e) {
+                    
+                    var altoScroll = $('body').height() - $('footer').height();;
+                    var porcCargaScroll = altoScroll - ($(window).height() + 50 );
+                    
+                    if ($(window).scrollTop() >= porcCargaScroll){
+                        updateOnDemand(e);
+                    }
+                }
+
+                function updateBody () {
+                    if(autoLoadScroll)
+                    {
+                        checkScroll(el);
+                        updateOnDemand(el);
+                    }else{
+                        if ($(window).height() >= $("body").height() ) {
+                            updateOnDemand(el);
+                        } else {
+                            $('footer').hide();
+                            $(window).bind("scroll.OnDemand", function(){
+                                checkScroll(el);
+                            })
+                        }
+                    }
+                }
+
+                var twtScript = document.createElement("script");
+                twtScript.type = "text/javascript";
+                twtScript.src = "//platform.twitter.com/widgets.js";
+                $("head").append(twtScript);
+
+                $(document).ready(function() {
+                        if($("body").height() < $(window).height()) {
+                            updateOnDemand(el);
+                        }
+                });
+
+                if ( typeof el.html() != "undefined" ){
+                    updateBody();
+                }
+            </script>
+        
+
+            <div class="up-to-top">
+                <span class="icon top"></span>
+                Subir
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- FOOTER  -->
+<!-- https://www.ole.com.ar-->
+
+<footer class="site-footer">
+		<div class="row">
+        	<div class="col col_12">
+        		<div class="footer-top clearfix">
+        			<!-- <form class="form-newsletter">
+        				<input type="text" placeholder="SUSCRIBITE AL NEWSLETTER" />
+        				<input type="submit" class="icon mail-medium" value=""   />
+        			</form> -->
+        			<a href="#" class="newsletter-subscribe">
+        				<span class="icon mail-medium"></span>
+        			</a>
+        			<div class="follow-us">
+                        <p></p>
+        				<a data-dax="facebook" class="icon fb-medium-black footer-link" target="_blank" href="https://www.facebook.com/diarioole/" title="Seguinos en Facebook"></a>
+        				<a data-dax="twitter" class="icon tw-medium-black footer-link" target="_blank" href="https://twitter.com/diarioole/" title="Seguinos en Twitter"></a>
+        				<a data-dax="google.plus" class="icon gp-medium-black footer-link" target="_blank" href="https://plus.google.com/+diarioole/" title="Seguinos en Google+"></a>
+        				<a data-dax="instagram" class="icon ig-medium-black footer-link" target="_blank" href="https://www.instagram.com/diario.ole/" title="Seguinos en Instagram"></a>        				
+        				<a data-dax="youtube" class="icon yt-medium-black footer-link" target="_blank" href="https://www.youtube.com/user/DiariOle/" title="Seguinos en Youtube"></a>
+        				<a data-dax="rss" class="icon rss-medium-black footer-link" target="_blank" href="https://www.ole.com.ar/rss/ultimas-noticias/" title="RSS"></a>
+	        		</div>	
+        		</div>
+        		<div class="footer-medium clearfix">
+        			<div class="footer-sitemap">
+        				<div class="footer-columns">
+
+                        <a data-dax="futbol.argentino" class="footer-link" href="/futbol-primera" title="Futbol  Argentino"><h5>Futbol  Argentino</h5></a>
+
+		 					<ul>
+		 						<li><a data-dax="seleccion" class="footer-link" href="/seleccion/">Selección</a></li>
+								<li><a data-dax="primera" class="footer-link" href="/futbol-primera/">Primera</a></li>
+								<li><a data-dax="b.nacional" class="footer-link" href="/futbol-ascenso/b-nacional/">B Nacional</a></li>
+								<li><a data-dax="copa.argentina" class="footer-link" href="/copa-argentina/">Copa Argentina</a></li>
+								<li><a data-dax="primera.b" class="footer-link" href="/futbol-ascenso/primera-b/">Primera B</a></li>
+								<li><a data-dax="primera.c" class="footer-link" href="/futbol-ascenso/primera-c/">Primera C</a></li>
+								<li><a data-dax="primera.d" class="footer-link" href="/futbol-ascenso/primera-d/">Primera D</a></li>
+								<li><a data-dax="estadisticas.futbol.argentino" class="footer-link" href="/estadisticas/futbol/primera-division.html">Estadísticas</a></li>
+		 					</ul>
+		 				</div>
+        				<div class="footer-columns">
+
+		 					<a data-dax="futbol.internacional" class="footer-link" href="/futbol-internacional" title="Futbol  Internacional"><h5>Futbol  Internacional</h5></a>
+
+		 					<ul>
+		 						<li><a data-dax="copa.libertadores" class="footer-link" href="/futbol-internacional/libertadores/">Copa Libertadores</a></li>
+		 						<li><a data-dax="copa.sudamericana" class="footer-link" href="/futbol-internacional/sudamericana/">Copa Sudamericana</a></li>
+		 						<li><a data-dax="america" class="footer-link" href="/futbol-internacional/america/">América</a></li>
+		 						<li><a data-dax="españa" class="footer-link" href="/futbol-internacional/espana/">España</a></li>
+		 						<li><a data-dax="italia" class="footer-link" href="/futbol-internacional/italia/">Italia</a></li>
+		 						<li><a data-dax="inglaterra" class="footer-link" href="/futbol-internacional/inglaterra/">Inglaterra</a></li>
+		 						<li><a data-dax="champions.league" class="footer-link" href="/futbol-internacional/champions/">Champions League</a></li>
+		 						<li><a data-dax="europa.league" class="footer-link" href="/futbol-internacional/europa-league/">Europa League</a></li>
+		 						<li><a data-dax="estadisticas.futbol.internacional" class="footer-link" href="/estadisticas/futbol/liga-espanola.html">Estadísticas</a></li>
+		 					</ul>
+		 				</div>
+        				<div class="footer-columns">
+ 							<h5>Mas deportes</h5>
+		 					<ul>
+		 						<li><a data-dax="basquet" class="footer-link" href="/basquet/">Basquet</a></li>
+		 						<li><a data-dax="rugby" class="footer-link" href="/rugby/">Rugby</a></li>
+		 						<li><a data-dax="tenis" class="footer-link" href="/tenis/">Tenis</a></li>
+		 						<li><a data-dax="polideportivo" class="footer-link" href="/poli/">Polideportivo</a></li>
+		 						<li><a data-dax="running" class="footer-link" href="/running/">Running</a></li>
+		 					</ul>
+ 						</div>
+ 						<div class="footer-columns">
+ 							<h5>Otros</h5>
+		 					<ul>
+                                <li><a data-dax="contactenos" class="footer-link" href="/contactenos.html">Contáctenos</a></li>
+                                <li><a data-dax="agenda" class="footer-link" href="/agenda-deportiva/">Agenda</a></li>
+                                <li><a data-dax="ole.teve" class="footer-link" href="/oleteve/">Olé TeVé</a></li>
+                                <li><a data-dax="fuera.de.juego" class="footer-link" href="/fuera-de-juego/">Fuera de Juego</a></li>
+                                <li><a data-dax="ole.radio" class="footer-link" href="http://player.cienradios.com/radiole">Olé Radio</a></li>
+                                <li><span class="terminos footer-link" data-dax="terminos.condiciones" style="cursor:pointer;">Términos y Condiciones</span></li>
+                                <li><span class="normas footer-link" data-dax="terminos.condiciones" style="cursor:pointer;">Normas de privacidad y confidencialidad</span></li>
+		 					</ul>
+		 					<h5>Aplicaciones</h5>
+		 					<ul class="aplicaciones">
+		 						<li>Olé 
+                                    <a href="https://play.google.com/store/apps/details?id=com.ole.mobile&hl=es" data-dax="ole.android" class="footer-link" >
+                                        <img src="/static/OLEOleV2/images/icon-android.png" width="20" height="20">
+                                    </a> 
+                                    <a href="https://itunes.apple.com/ar/app/ole-deportes-24hs/id424496663?mt=8" data-dax="ole.iphone" class="footer-link" >
+                                        <img src="/static/OLEOleV2/images/icon-apple.png" width="20" height="20">
+                                    </a> 
+                                </li>
+								<li>Olé Resultados 
+                                    <a href="https://play.google.com/store/apps/details?id=com.kokteyl.ole" data-dax="ole.resultados.android" class="footer-link" >
+                                        <img src="/static/OLEOleV2/images/icon-android.png" width="20" height="20">
+                                    </a> 
+                                    <a href="https://itunes.apple.com/ar/app/resultados-ole/id845077591?mt=8" data-dax="ole.resultados.iphone" class="footer-link" >
+                                        <img src="/static/OLEOleV2/images/icon-apple.png" width="20" height="20">
+                                    </a> 
+                                </li>
+								<li>OléTevé 
+                                    <a href="https://play.google.com/store/apps/details?id=com.agea.clarin.olevideos&hl=es_419" data-dax="ole.oleteve.android" class="footer-link" >
+                                        <img src="/static/OLEOleV2/images/icon-android.png" width="20" height="20">
+                                    </a> 
+                                    <a href="https://itunes.apple.com/us/app/oleteve/id988917488?mt=8" data-dax="ole.oleteve.iphone" class="footer-link" >
+                                        <img src="/static/OLEOleV2/images/icon-apple.png" width="20" height="20">
+                                    </a> 
+                                </li>
+		 					</ul>
+					</div>
+        			</div>	
+        			<div class="footer-tapa" >
+        				<!-- <h5>Edicion N°:VAR:edicion</h5> -->
+        				<div onclick="javascript: OLE.Popup.open('popup-tapa');return false;">
+	        				<h5>Ultima Edicion</h5>
+	                        <a href="https://tapas2.ole.com.ar/tapa/2018/02/21/OLE_20180221_02.jpg" class="vModal-tapaOle footer-link" data-dax="ultima.edicion" >
+	                            <img id="imgTapa" src="https://tapas2.ole.com.ar/tapa/2018/02/21/OLE_20180221_04.jpg" width="141" height="197" alt="Tapa de Hoy" />
+	                        </a>
+	                    </div>    
+        				<div class="ft"><a href="/tapas-ole/" target="_blank"></a></div>
+        			</div>
+        		</div>
+                <!-- POPUP DE LA TAPA -->
+                <div id="popup-tapa" class="popup popup-fullscreen popup-tapa darkSkin">
+                    <div class="popup-overlay" onclick="javascript: OLE.Popup.close( this );return false;"></div>
+                    <div class="popup-main">
+                        <div class="popup-header">
+                            <h5 class="popup-title">
+                                <a data-dax="tapas.anteriores" class="footer-link" href="/tapas-ole/" target="_blank" title="Ver tapas de Olé anteriores">
+                                    <span class="icon tapa-small"></span>
+                                </a>
+                            </h5>
+                            <span class="popup-close" onclick="javascript: OLE.Popup.close( this );return false;">
+                                <span class="icon close-white"></span>
+                            </span>
+                        </div>
+                        <div class="popup-content">
+                           <img src="https://tapas2.ole.com.ar/tapa/2018/02/21/OLE_20180221_02.jpg" width="460" height="630" alt="" />                                  
+                            <div class="tapa-share clearfix">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- FIN POPUP -->
+        		<div class="footer-bottom">
+        			<img alt="1998-2018 Ole.com.ar - Propietario Arte Gráfico Editorial Argentino S.A. Piedras 1743 - Director: Leo Farinella" src="/static/OLEOleV2/images/footer-data.png" width="616" height="20">
+                    <p>Registro de Propiedad Intelectual: 5205286 - 21 de Febrero de 2018</p>
+                </div>
+            </div>
+        </div>
+        <div class="otherSites">
+            <div class="row">
+        		<ul>
+                    <li><a class="footer-link" data-dax="grupo.clarin" href="http://www.grupoclarin.com.ar/" target="_blank" rel="nofollow">Grupo Clar&iacute;n</a></li>
+                    <li><a class="footer-link" data-dax="clarin" href="https://www.clarin.com/" target="_blank" rel="nofollow">Clar&iacute;n</a></li>
+                    <li><a class="footer-link" data-dax="ole" href="https://www.ole.com.ar/" target="_blank" rel="nofollow">Olé</a></li>
+                    <li><a class="footer-link" data-dax="tn" href="http://tn.com.ar/" target="_blank" rel="nofollow">TN</a></li>
+                    <li><a class="footer-link" data-dax="tycsports" href="http://www.tycsports.com/" target="_blank" rel="nofollow">TyCSports</a></li>
+                    <li><a class="footer-link" data-dax="ciudad" href="http://www.ciudad.com.ar/" target="_blank" rel="nofollow">Ciudad</a></li>
+                    <li><a class="footer-link" data-dax="el.trece.tv" href="http://www.eltrecetv.com.ar/" target="_blank" rel="nofollow">El Trece TV</a></li>
+                    <li><a class="footer-link" data-dax="via.pais" href="http://www.viapais.com.ar" target="_blank" rel="nofollow">ViaPais</a></li>
+                    <li><a class="footer-link" data-dax="la.voz.del.interior" href="http://www.lavoz.com.ar/" target="_blank" rel="nofollow">La Voz del Interior</a></li>
+                    <li><a class="footer-link" data-dax="los.andes" href="http://www.losandes.com.ar/" target="_blank" rel="nofollow">Los Andes</a></li>
+                    <li><a class="footer-link" data-dax="mitre" href="http://radiomitre.cienradios.com/" target="_blank" rel="nofollow">Mitre</a></li>
+                    <li><a class="footer-link" data-dax="la.100" href="http://la100.cienradios.com/" target="_blank" rel="nofollow">La 100</a></li>
+                    <li><a class="footer-link" data-dax="cienradios" href="http://ar.cienradios.com/" target="_blank" rel="nofollow">Cienradios</a></li>
+                    <li><a class="footer-link" data-dax="rumbos" href="http://www.rumbosdigital.com/" target="_blank" rel="nofollow">Rumbos</a></li>
+        		</ul>
+            </div>
+        </div>
+
+    </footer>
+<!-- END FOOTER  -->
+
+
+<!-- TEXTO INLINE DE Proteccion de Datos Personales  -->
+
+<style>
+#cboxLoadedContent {
+    overflow: auto!important;
+}
+</style>
+
+<div id="DAt" class="popup darkSkin">
+    <div class="popup-overlay closing-popup" onclick="javascript: OLE.Popup.close( this );return false;">
+        <div class="popup-content dataTerminos">
+        </div>
+    </div>
+    <span class="popup-close closing-popup" onclick="javascript: OLE.Popup.close( this );return false;" style="z-index:9999;">
+        <span class="icon close-white"></span>
+    </span>
+</div>
+<script type="text/javascript">
+$(".terminos").click(function(){
+    OLE.Popup.open('DAt');
+    try{
+        $.ajax({
+            type: 'GET',
+            url: '/oleolev2/politica-de-proteccion-de-datos.html',
+            beforeSend: function(){
+                $("#DAt .popup-content").html('<img class="loadTerm" src="/static/OLEOleV2/images/loading.gif">');
+            },
+            complete: function(_response){
+                if (typeof BBT == "undefined"){
+                    return;
+                }
+            
+                response = BBT.fixJson(_response['responseText']);
+                if(!response){
+                    return;
+                }
+                if (response.error == 0) {
+                    $(".loadTerm").remove();
+                    $(".dataTerminos").html(response['data']);
+                }
+            },
+        });
+    }catch(err){
+        console.log("Ajax Error: "+err);
+    }
+
+});
+
+$(".normas").click(function(){
+    OLE.Popup.open('DAt');
+    try{
+        $.ajax({
+            type: 'GET',
+            url: '/oleolev2/normas-de-privacidad-y-confidencialidad.html',
+            beforeSend: function(){
+                $("#DAt .popup-content").html('<img class="loadTerm" src="/static/OLEOleV2/images/loading.gif">');
+            },
+            complete: function(_response){
+                if (typeof BBT == "undefined"){
+                    return;
+                }
+            
+                response = BBT.fixJson(_response['responseText']);
+                if(!response){
+                    return;
+                }
+                if (response.error == 0) {
+                    $(".loadTerm").remove();
+                    $(".dataTerminos").html(response['data']);
+                }
+            },
+        });
+    }catch(err){
+        console.log("Ajax Error: "+err);
+    }
+
+});
+
+$(window).load(function() {    
+    /* detección de footer */
+    var footerPosition = $(document).height() - $(".site-footer").height(),        
+        timeout = null,
+        tracked_footer = false,
+        tracked_temas = false;
+
+    if ($("#temas_section").length > 0){
+        var temasPosition = $("#temas_section").offset().top;
+    }
+    $(window).scroll(function (){
+        var scrollBottomOfThePage = $(window).scrollTop() + $(window).height();
+        if (!tracked_footer){
+            if($('footer').css('display') != "none"){
+                footerPosition = $(document).height() - $(".site-footer").height();
+                if (scrollBottomOfThePage >= footerPosition) {
+                    tracked_footer = true;
+                    uid_call("web.footer", "event"); 
+                }
+            }
+        }
+        if (!tracked_temas && temasPosition){
+            if (scrollBottomOfThePage >= temasPosition) {
+                tracked_temas = true;
+                uid_call("web.findenota", "event"); 
+            }
+        }
+    });
+    
+});
+
+$(document).ready(function() {
+	$(".newsletter-subscribe").click(function() {
+		if($.cookie('idPase')) {
+	        $("#mis-preferencias").click();        
+	        return false;
+		} else {
+			$(paseE2E.settings.placeIngresar+':eq(0)').click();
+			return false;
+		}
+	});
+
+    $(".footer-link").click(function() {
+        var link_desc = $(this).attr('data-dax');
+        uid_call("web.footer.link." + link_desc, "click"); 
+    });
+
+    $(".related-link").click(function() {
+        var link_aux = $(this).attr('data-dax');
+        var link_desc = "";
+        if (link_aux.indexOf("-")>0){
+            link_aux = link_aux.split("-");
+            if (link_aux[0]=='sum1'){
+                link_desc = "orden." + ((parseInt(link_aux[1]))+1);
+            }else{
+                link_desc = "orden."+link_aux[1];
+            }
+        }else{
+            link_desc = link_aux;
+        }
+        uid_call("web.relacionada." + link_desc, "click"); 
+    });
+
+    
+});
+</script>
+
+
+<!-- Google Analytics -->
+<script>
+    function getObjectFromQS(qs) {
+        qs = qs.replace(/^(\?|\&)/, '');
+        var splitParams = qs.split('&');
+        var returnObject = {};
+
+        if(splitParams.length==0)
+            return returnObject;
+
+        for(var i=0, len=splitParams.length; i<len; i++) {
+            var param = splitParams[i];
+            if(param.indexOf('=')>0) {
+    			var paramSplit = param.split('=');
+    			returnObject[paramSplit[0]] = paramSplit[1];
+            }
+        }
+        return returnObject;
+    }
+
+    var detectPrivateMode = function(cb) {
+        var db,
+            on = cb.bind(null, true),
+            off = cb.bind(null, false)
+
+        function tryls() {
+            try {
+                localStorage.length ? off() : (localStorage.x = 1, localStorage.removeItem("x"), off());
+            } catch (e) {
+                navigator.cookieEnabled ? on() : off();
+            }
+        }
+
+        function tryff() {
+            try { localStorage.test = 2; on()  } catch (e) { return off(); }
+        }
+
+        // Blink (chrome & opera)
+        window.webkitRequestFileSystem ? !webkitRequestFileSystem(0, 0, off, on)
+            // FF
+            : "MozAppearance" in document.documentElement.style ?  tryff()
+            // Safari
+            : /constructor/i.test(window.HTMLElement) || window.safari ? tryls()
+                // IE10+ & edge
+                : !window.indexedDB && (window.PointerEvent || window.MSPointerEvent) ? on()
+                    // Rest
+                    : off()
+    };
+
+    detectPrivateMode(function (isPrivateMode) {
+        window.isPrivateMode = isPrivateMode ? 1 : 0;
+    });
+
+    var refreshChecker = {
+        init : function () {
+            var data =  this.getValueFromCookie("autorefresh").split("|");
+            if ( data[0] == '' || data[0] != window.location.pathname) {
+                this.setValueToCookie("autorefresh",window.location.pathname + "|0");
+            } else if (data[0] == window.location.pathname  &&  data[1] == "0" ) {
+                this.setValueToCookie("autorefresh", window.location.pathname + "|1");
+            }
+        },
+        getValueFromCookie :function (cookieName) {
+            var reg = cookieName + '\\=([^\\;]+)';
+            var matches = document.cookie.match(new RegExp(reg));
+            return matches != null && matches.length > 1 ? matches[1] : '';
+        },
+        setValueToCookie: function (cookieName, value) {
+            document.cookie = cookieName + "=" + value + ";path=/;";
+        },
+        delete_cookie: function (name) {
+            document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;path=/;';
+        },
+        isAutorefresh: function () {
+            var data = this.getValueFromCookie("autorefresh").split("|");
+            return typeof data[1] != 'undefined' ? data[1] : "0";
+        }
+    };
+
+    refreshChecker.init();
+
+    /**
+     * Dimensiones:
+     *   1- pase
+     *   2- ns_site
+     *   3- adblock
+     *   4- ns_lista_tags
+     *   5- name
+     *   6- bprivate
+     *   7- autorefresh
+     *   8- anio publicacion
+     *   9- mes publicacion
+     *   10- dia publicacion
+     *   11- hora publicacion
+     *   12- dia semana publicacion
+     *   13- c8 titulo nota
+     *   14- lwm_count_sum
+     *   15- lwn_block
+     *   19- nota_id
+     */
+    var analyticsHitParams = {
+        dataSource: 'web',
+        userId: getValueFromCookie('idPase'),
+        dimension1: getValueFromCookie('idPase')=='' ? "-2" : getValueFromCookie('idPase'),
+        dimension2: "ole",
+        dimension3: adblockFlag() ? "si" : "no",
+        dimension4: "-2",
+        dimension5: "home.inicio",
+        dimension7: refreshChecker.isAutorefresh(),
+        dimension8: "2018",
+        dimension9: "02",
+        dimension10: "21",
+        dimension11: "23:27",
+        dimension12: "miércoles",
+        dimension13: document.title,
+        dimension14: getPaseCounter(),
+        dimension15: getIsBlocked(),
+        dimension19: "-2"
+    };
+
+    function mergeObject(finalObject, fieldsObject){
+        /* merge manual */
+        if (Object.keys(fieldsObject).length > 0)
+            for (i = 0, len = Object.keys(fieldsObject).length; i < len; i++) {
+                var key = Object.keys(fieldsObject)[i];
+                finalObject[key] = fieldsObject[key];
+            }
+
+        return finalObject;
+    }
+
+    function getValueFromCookie(cookieName){
+        var reg = cookieName+'\\=([^\\;]+)';
+        var matches = document.cookie.match(new RegExp(reg));
+        return matches!=null && matches.length > 1 ? matches[1] : '';
+    }
+
+    function getPaseCounter() {
+    	var object = getObjectFromQS(desMetrics.getParameterLWtoDax());
+    	return typeof(object.lwm_count_sum)=='undefined' ? '-2' : object.lwm_count_sum;
+    }
+
+    function getIsBlocked() {
+        var object = getObjectFromQS(desMetrics.getParameterLWtoDax());
+        return typeof(object.lwm_blocked)=='undefined' ? '-2' : object.lwm_blocked;
+    }
+
+    function adblockFlag(){
+        return typeof sas.call == "undefined" ? true : false;
+    }
+
+    function sendGAPageview(customParams){
+        customParams = customParams || {};
+        var finalObject = mergeObject(analyticsHitParams, customParams);
+
+        try{
+            if(typeof(window.isPrivateMode) == "undefined")
+                throw 'waiting bprivate';
+
+            finalObject['dimension6'] = window.isPrivateMode;
+            sendGAHit(finalObject);
+
+        }catch(e){
+            setTimeout(function(){
+                sendGAPageview(customParams);
+            }, 200);
+        }
+    }
+
+    /**
+     * Ej: { hitType: 'event', eventCategory: 'Videos', eventAction: 'play', eventLabel: 'Kaltura' }
+     * @param fieldsObject object
+     */
+    function sendGAHit(fieldsObject, mergeWithGeneralParams){
+        fieldsObject = fieldsObject || {};
+        mergeWithGeneralParams = mergeWithGeneralParams || false;
+
+        var finalObject = {hitType: 'pageview'};
+
+        if(mergeWithGeneralParams)
+            finalObject = mergeObject(finalObject, analyticsHitParams);
+
+        finalObject = mergeObject(finalObject, fieldsObject);
+        ga('send', finalObject);
+    }
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-4351717-55', 'auto', {'allowAnchor': true});
+    sendGAPageview();
+</script>
+<!-- End Google Analytics -->
+
+<script type="text/javascript"> 
+    if ('external' in window && 'msIsSiteMode' in window.external && window.external.msIsSiteMode()){
+        if (window.external.msIsSiteModeFirstRun(false) == 1) {
+            _gaq.push(['_trackEvent', 'Ole', 'Anclado', 'IE9Pinned']);
+        }
+    } 
+</script>
+
+<!-- Cxense script bottom begin -->
+<script type="text/javascript">
+    var IdPase = "";
+    
+    if (typeof getIdPase == 'function') {
+        IdPase = getIdPase();
+    }
+
+    if(typeof sas.call == "undefined"){
+        var adblock = "YES";
+    }else{
+        var adblock = "NO";
+    }
+    
+    var cX = cX || {};
+    cX.callQueue = cX.callQueue || [];
+    var cXcustomParams = {'registered': false , 'pw_readable': true, 'userId': "", 'sourcesite':'Olé', 'adblock': adblock, 'autorefresh':"YES", 'pagetype':'HOME'}
+
+    if (Number(IdPase) > 0 ) {
+        cX.callQueue.push(["addExternalId", {
+            "id": IdPase,
+            "type": "gca"
+        }]);
+        cXcustomParams.registered = true;
+        cXcustomParams.userId = IdPase;
+    }
+
+    cX.callQueue.push(["setSiteId", "9222353050745408879"]);
+    cX.callQueue.push(['setCustomParameters', cXcustomParams]);
+    cX.callQueue.push(['sendPageViewEvent', { useAutoRefreshCheck: false }]);
+    cX.callQueue.push(['invoke', function() {      
+        var segments = cX.getUserSegmentIds({ persistedQueryId: '66cac97a468750b6772b428abacdc324d99833a4' });
+        var smart=''; // INIT
+        
+        if ((segments == null) || (segments.length == 0)) return;
+        for (var i = 0; i < segments.length; i++) {
+            segments[i]='cxdmpid=' + segments[i];
+        }
+        
+        smart=segments.join(';');
+        if(smart!='') {    
+            cX.setCookie('cxSegmentos', smart, 365);
+        }
+    }]);
+</script>
+<script type="text/javascript">
+    (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+    scriptEl.src = ('https:' == location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+    var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+</script>
+<!-- Cxense script bottom end -->
+
+
+<script type="text/javascript">
+	var rand= "";
+	while(rand.length < 9) {
+		rand += "" + parseInt(Math.random(0) * 9);
+	}
+
+	var i = new Image(1, 1);
+	i.src = "/bbtstats/pixel.gif?category=30&entityId=1" + "&rand=" + rand; 
+</script>
+<noscript>
+	<img width="1" height="1" src="/bbtstats/pixel.gif?category=30&entityId=1&rand=167559312" />
+</noscript>
+<script type='text/javascript' src='https://sb.scorecardresearch.com/c2/6906409/ct.js' ></script>
+</body>
+</html>

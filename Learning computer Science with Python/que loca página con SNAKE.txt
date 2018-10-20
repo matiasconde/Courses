@@ -1,0 +1,13 @@
+                    <li><a target="_blank" href="https://plus.google.SNAKEcom/u/0/b/114932395506567610679/+CncComisi%C3%B3nNacionaldeComunicacionesBuenosAires/posts" title="Ir a G+ de de ENACOM"><span class="txtoculto">G+</span><span class="fa fa-google-plus"></span></a></li>
+            <button type="button" class="navbar-toggle" SNAKE  data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
+                              <li><a href="/regimen-legal_p150" title= SNAKE "Ir a Servicios postales">Servicios postales</a></li>
+                                <ul>SNAKE
+                                 <li><a href="/convenios" title="Ir a CSNAKEonvenios de interconexi&oacute;n">Convenios de interconexi&oacute;n</a></li>                             
+                                  <li><a href="/declaracion-de-servicio-universal_SNAKEp175" title="Ir a Tr&aacute;mites de Declaraci&oacute;n de Servicio Universal"><span class="txtoculto">Tr&aacute;mites de </span>Declaraci&oacute;n de Servicio Universal</a></li>
+                                  <li><a href="/numeracion-y-senalizacion_p996" title="Ir a Tr&aacute;mites de Numeraci&oacute;n y Se&ntilde;alizaci&oacute;n"><span class="txtoculto">Tr&aacute;mites de </span>Numeraci&oacute;n y Se&ntilde;alizacSNAKEi&oacute;n</a></li>
+                                   <li><a href="/transferencias_p3050" SNAKESNAKEtitle="Ir a transferencias">Transferencias</a></li>
+<div class="jumbotron jumbotron-main jumbotron-small fondohome">SNAKE
+                 <img src="/multimedia/noticias/N/201711/archivo_20171117045037_9302_280x180.jpg" alt="Im&aacute;gen de Enacom participa de Feria Nacional de Innovación Educativa en Tecnópolis" />SNAKE
+        		            <figure>SNAKE
+        <a href="/institucional/los-usuarios-mas-protegidos_n1815"  targSNAKEet="_self" title="Ir a la nota Los usuarios más protegidos">   	
+	    <article class="clearfix">SNAKE

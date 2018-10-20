@@ -1,0 +1,202 @@
+   0 import string
+   1 """
+   2 #exaple of tuples
+   3 
+   4 import math
+   5 
+   6 def multivariable(a,b):
+   7     dist1 = math.sqrt((a[0]-b[0])**2+(a[1]-b[1])**2)
+   8     dist2 = a+b
+   9     return dist1,dist2
+  10 
+  11 a = (1,2)
+  12 b = (2,4)
+  13 
+  14 print(multivariable(a,b))
+  15 """
+  16 """ #listas anidadas
+  17 students = [
+  18 ("John", ["CompSci", "Physics"]),
+  19 ("Vusi", ["Maths", "CompSci", "Stats"]),
+  20 ("Jess", ["CompSci", "Accounting", "Economics",
+  21 "Management"]),
+  22 ("Sarah", ["InfSys", "Accounting", "Economics", "CommLaw"]),
+  23 ("Zuki", ["Sociology", "Economics", "Law", "Stats","Music"])]
+  24 
+  25 cont = 0
+  26 
+  27 for name,subject in students:
+  28     if "CompSci" in subject:
+  29         cont +=1
+  30 print(cont)
+  31 """
+  32 #1
+  33 """
+  34 >>> list(range(10,0,-2))
+  35 [10, 8, 6, 4, 2]
+  36 >>> list(range(0,10,-2))
+  37 []
+  38 >>> list(range(0,10,2))
+  39 [0, 2, 4, 6, 8]
+  40 >>> range(start,stop,step) si start<stop para que no sea vacia debe ser step>0
+  41 si stop<start  para que no sea vacia debe ser step<0
+  42 """
+  43 
+  44 #2 Creo que al hacer una asignación a alex desde tess, ambos son
+  45 # la misma tortuga, es decir, apuntan al mismo objeto, luego si cambio
+  46 # el color de alex, tess va a tener el mismo color
+  47 # esto que acabo de escribir está probado
+  48 
+  49 #3
+  50 """
+  51 >>> a = [1,2,3]
+  52 >>> b = a[:]
+  53 >>> b[0]=5
+  54 >>> a
+  55 [1, 2, 3]
+  56 >>> b
+  57 [5, 2, 3]
+  58 >>>
+  59 """
+  60 """
+  61 #4
+  62 this = ["I", "am", "not", "a", "crook"]
+  63 that = ["I", "am", "not", "a", "crook"]
+  64 print("Test 1: {0}".format(this is that))
+  65 that = this
+  66 print("Test 2: {0}".format(this is that))
+  67 
+  68 #en el Test 1 tengo dos objetos distintos
+  69 # en el Test 2 le asigne a un value el objeto del otro, con lo cual apuntan al mismo
+  70 
+  71 
+  72 
+  73 #5
+  74 # se creó el archivo "vectors.py"
+  75 
+  76 #ejercicios 6 a 8 están en el archivo "vectors.py" ya que forman parte de algo que se v a usar después
+  77 
+  78 
+  79 #9
+  80 song = "The rain in Spain..."
+  81 song2 = " ".join(song.split())
+  82 
+  83 song3 = "The       raininSpain..." #en este caso son diferentes
+  84 song4 = " ".join(song3.split())    #porque split ignora cualquier cantidad de espacios
+  85 # pero join esta seteado para juntarlos con un solo espacio.
+  86 
+  87 print(song)
+  88 print(song2)
+  89 
+  90 print(song3)
+  91 print(song4)
+  92 
+  93 #10
+  94 def replace(s,old,new):
+  95     a = s.split(old)
+  96     return new.join(a)
+  97 
+  98 print(replace("Mississippi", "i", "I"))
+  99 
+ 100 song5 = "I love spom! Spom is my favorite food. Spom, spom, yum!"
+ 101 print(replace(song5, "om", "am"))
+ 102 
+ 103 print(replace(song5, "o", "a"))
+ 104 
+ 105 #1
+ 106 import string
+ 107 
+ 108 a = str(input("ingrese palabra o texto: ",))
+ 109 
+ 110 a_lower = a.lower()
+ 111 b = list(a_lower)
+ 112 b.sort()
+ 113 inventory_of_letters = {}
+ 114 
+ 115 for letter in b:
+ 116     inventory_of_letters[letter] = inventory_of_letters.get(letter,0)+1
+ 117 
+ 118 for key in inventory_of_letters:
+ 119     print("{0:>5} {1:>5}".format(key,inventory_of_letters[key]))
+ 120 
+ 121 """
+ 122 """
+ 123 #1
+ 124 import string
+ 125 
+ 126 a = str(input("ingrese palabra o texto: ",))
+ 127 
+ 128 a_lower = a.lower()
+ 129 b = list(a_lower)
+ 130 b.sort()
+ 131 inventory_of_letters = {}
+ 132 
+ 133 for letter in b:
+ 134     inventory_of_letters[letter] = inventory_of_letters.get(letter,0)+1
+ 135 
+ 136 for key in inventory_of_letters:
+ 137     print("{0:>5} {1:>5}".format(key,inventory_of_letters[key]))
+ 138 
+ 139 
+ 140 
+ 141 #2
+ 142 
+ 143 def add_fruit(new_inventory,fruit,q = 0):
+ 144     new_inventory[fruit] = q
+ 145     return new_inventory
+ 146 
+ 147 new_inventory = {}
+ 148 add_fruit(new_inventory, "strawberries", 10)
+ 149 print(new_inventory)
+ 150 print(("strawberries" in new_inventory))
+ 151 print(new_inventory["strawberries"] == 10)
+ 152 add_fruit(new_inventory, "strawberries", 25)
+ 153 print(new_inventory["strawberries"] == 35)
+ 154 
+ 155 """
+ 156 
+ 157 #3
+ 158 import time
+ 159 import string
+ 160 
+ 161 t0 = time.clock()
+ 162 
+ 163 with open("Alice_wonder_lands.txt") as libro:
+ 164 
+ 165     contenido = libro.read()
+ 166 
+ 167 
+ 168 contenido1 = contenido.lower()
+ 169 contenido2 = ""
+ 170 for letter in contenido1:
+ 171     if letter not in string.punctuation:
+ 172         contenido2 += letter
+ 173 
+ 174 words = contenido2.split()
+ 175 inventory_words = {}
+ 176 words.sort()
+ 177 print(words)
+ 178 
+ 179 for word in words:
+ 180     inventory_words[word] = inventory_words.get(word,0)+1
+ 181 
+ 182 
+ 183 
+ 184 print("{0:<20}{1:<20}".format("Word","Count"))
+ 185 print("=========================")
+ 186 for key in inventory_words.keys():
+ 187     print("{0:<20}{1:<20}".format(key,inventory_words[key]))
+ 188 
+ 189 t1 = time.clock()
+ 190 
+ 191 print(t0,t1,t1-t0)
+ 192 print(inventory_words)
+ 193 
+ 194 print("the word alice occurs ",inventory_words["alice"]," in the book")
+ 195 
+ 196 max = "a"
+ 197 
+ 198 for key in inventory_words.keys():
+ 199     if len(key)>len(max):
+ 200         max = key
+ 201 print("la palabra mas larga es: ",max,"cuya longitud es: ",len(max))

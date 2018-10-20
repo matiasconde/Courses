@@ -1,0 +1,2470 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clarín: Últimas noticias de Argentina y el mundo – clarin.com</title>
+
+    <link rel="preconnect" href="https://images.clarin.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <meta http-equiv="Content-Language" content="es" />
+
+
+    <meta name="LANGUAGE" content="es" />
+
+    <meta name="DISTRIBUTION" content="Global" />
+
+    <meta name="ROBOTS" content="all" />
+
+    <meta name="AUTHOR" content="Clarin.com" />
+
+    <meta name="classification" content="noticias, información, videos, diario, newspaper" />
+
+    <meta name="Googlebot" content="all" />
+
+    <meta name="GENERATOR" content="Clarin.com | Diario Clarin" />
+
+    <meta name="SUBJECT" content="Clarin.com | Diario Clarin" />
+
+    <meta name="DESCRIPTION" content="Clarin.com. Noticias de la Argentina y el mundo. Información actualizada las 24 horas y en español. Informate ya" />
+
+    <meta name="ABSTRACT" content="Clarin.com noticias de la Argentina y el mundo actualizadas las 24 horas" />
+
+    <meta name="KEYWORDS" content="noticias, política, deportes, economía, internacionales, mundo, espectáculos, Argentina, sociedad, ciudades, policiales, internet, tecnología, infografías, fotos, videos, audios, multimedia, clima, claringrilla, humor, blogs, mapas, archivo, edición impresa" />
+
+    <meta name="msApplication-ID" content="App" />
+
+    <meta name="msApplication-PackageFamilyName" content="AGEA.MOBILE.Clarin.com_q59wyq0q7cm24" />
+
+    <meta name="msvalidate.01" content="CE3C588E6E296E3426712C2530D6922F" />
+
+
+    <meta property="og:url" content="www.clarin.com"/>
+
+    <meta property="og:title" content="Clarin.com"/>
+
+    <meta property="og:image" content="https://www.clarin.com/static/CLAClarin/images/Clarin-sahreing-fbk.jpg"/>
+
+    <meta property="og:site_name" content="Clarin.com"/>
+
+    <meta property="og:type" content="website"/>
+
+    <meta property="og:description" content="Noticias de la Argentina y el mundo. Información actualizada las 24 horas y en español. Informate ya"/>
+
+    <meta name="twitter:card" content="summary_large_image"/>
+
+    <meta name="twitter:title" content="Clarin.com"/>
+
+    <meta name="twitter:description" content="Noticias de la Argentina y el mundo. Información actualizada las 24 horas y en español. Informate ya"/>
+
+    <meta name="twitter:image:src" content="https://www.clarin.com/static/CLAClarin/images/Clarin-sahreing-fbk.jpg"/>
+
+    <meta name="twitter:image:alt" content="clarin.com"/>
+
+    <meta name="twitter:creator" content="@clarincom"/>
+
+    <meta name="twitter:site" content="@clarincom"/>
+
+    <meta name="twitter:domain" content="clarin.com"/>
+
+    <meta property="fb:pages" content="156057357762712,411588568884731,349870921749715"/>
+
+    <meta property="fb:app_id" content="437491989970687"/>
+
+    <meta name="cXenseParse:pageclass" content="frontpage"/>
+
+    <meta name="viewport" content="width=device-width, maximum-scale=1, user-scalable=no">
+
+    <meta name="application-name" content="Clarin.com">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.clarin.com/apple-icon-57x57.png">
+
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+
+    <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+    <link rel="manifest" href="/manifest.json">
+
+    <meta name="msapplication-TileColor" content="#ffffff">
+
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+
+    <meta name="theme-color" content="#ffffff">
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet" type="text/css" rel='preload' as='style'/>
+<link href="/static/CLAClarin/css/comprimido-home/comprimido-home.css?hash=523cda3115b0669b8ab67572c015bb63" rel="stylesheet" type="text/css" rel='preload' as='style'/>
+
+<script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-3.min.js" data-apikey="c690b265e9173172077193e44a685f66" async ></script>
+<script type="text/javascript" src="https://www.clarin.com/apw.js?v=2" async ></script>
+<script type="text/javascript" src="https://www.clarin.com/apw.js?f=mod&v=3" async ></script>
+<script type="text/javascript" src="/static/CLAClarin/js/clarin.js?hash=73a5512b75adeb3390434250cdd16e41"  ></script>
+
+
+
+<script type="application/ld+json">{"@context": "http://schema.org","@type": "Organization","url": "https://www.clarin.com/","name": "Clarin","sameAs": ["https://www.facebook.com/clarincom/", "https://twitter.com/clarincom"],"foundingDate": "1945-08-28","logo": "https://www.clarin.com/static/CLAClarin/images/logo_clarin.svg","description": "Clarín es el diario de referencia de la sociedad argentina. Desde 1945, sus páginas reflejan la realidad local e internacional con un registro intransferible. Su redacción cuenta con el mayor equipo de periodistas del país, reconocido por sus estándares de calidad y rigor profesional."}</script>
+</head><!-- t = 1513352391 -->
+<body>
+
+<!--[if lt IE 9]>
+    <script src="/static/DESGenerico/js/html5shiv.js"></script>
+<![endif]-->
+<!-- layer tripleImpact -->
+<div id="bannerTI" > 
+    <div >
+    <div class="cla-ad" id="sas_13955" data-render="false"></div>
+    <div id="bannerId_533">
+        <!-- 1513352390 S -->
+    </div>
+</div>
+
+</div>
+<!-- layer dhtml -->
+<div >
+    <div class="cla-ad" id="sas_12724" data-render="false"></div>
+    <div id="bannerId_1015">
+        <!-- 1513352390 S -->
+    </div>
+</div>
+ 
+<!-- layer dhtml -->
+<div >
+    <div class="cla-ad" id="sas_26260" data-render="false"></div>
+    <div id="bannerId_957">
+        <!-- 1513352390 S -->
+    </div>
+</div>
+
+<div class="wrapper board-home portada">
+    <header>
+        <div class="menu-overlay"></div>
+<div class="header-content" itemscope itemtype="https://schema.org/WPHeader">
+     <nav>
+        <div class="nav-content container">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown"><span class="icon-menu fa fa-bars"></span><span class="menu-name">SECCIONES</span></a>
+                    <div class="dropdown-menu dropdown">
+                         <div class="container-submenu">
+                            <span class="close">x</span>
+                             
+                             <div class="columna">
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/ultimas-noticias">Últimas Noticias</a>
+                                        <span class="toggle-icon section-clarincomultimas-noticias"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/noticias-mas-leidas">Las más leídas</a>
+                                        <span class="toggle-icon section-clarincomnoticias-mas-leidas"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/videos/">Videos</a>
+                                        <span class="toggle-icon section-clarincomvideos"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_blank" href="http://hd.clarin.com/tagged/actualidad">Fotogalerías</a>
+                                        <span class="toggle-icon section-http:hdclarincomtaggedactualidad"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/politica/">Política</a>
+                                        <span class="toggle-icon section-clarincompolitica"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        <ul class="subsections-col section-clarincompolitica">
+                                                
+                                                    <li><a target="_self" href="//clarin.com/tema/mauricio_macri.html">Mauricio Macri</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/tema/elecciones_2017.html">Elecciones 2017</a></li>
+                                                
+                                        </ul>
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/economia/">Economía</a>
+                                        <span class="toggle-icon section-clarincomeconomia"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/rural/">Rural</a>
+                                        <span class="toggle-icon section-clarincomrural"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/mundo/">Mundo</a>
+                                        <span class="toggle-icon section-clarincommundo"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        <ul class="subsections-col section-clarincommundo">
+                                                
+                                                    <li><a target="_self" href="//clarin.com/tema/donald_trump.html">Donald Trump</a></li>
+                                                
+                                        </ul>
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/opinion/">Opinión</a>
+                                        <span class="toggle-icon section-clarincomopinion"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        <ul class="subsections-col section-clarincomopinion">
+                                                
+                                                    <li><a target="_self" href="//clarin.com/cartas_al_pais/">Cartas al País</a></li>
+                                                
+                                        </ul>
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/ciudades/">Ciudades</a>
+                                        <span class="toggle-icon section-clarincomciudades"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                             </div>
+                             
+                             <div class="columna">
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/policiales/">Policiales</a>
+                                        <span class="toggle-icon section-clarincompoliciales"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        <ul class="subsections-col section-clarincompoliciales">
+                                                
+                                                    <li><a target="_self" href="//clarin.com/tema/narcotrafico.html">Narcotráfico</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/tema/inseguridad.html">Inseguridad</a></li>
+                                                
+                                        </ul>
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/sociedad/">Sociedad</a>
+                                        <span class="toggle-icon section-clarincomsociedad"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        <ul class="subsections-col section-clarincomsociedad">
+                                                
+                                                    <li><a target="_self" href="//clarin.com/tema/videos_virales.html">Virales</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/tema/salud.html">Salud</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/tema/educacion.html">Educación</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/buena-vida/">Buena Vida</a></li>
+                                                
+                                        </ul>
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/tecnologia/">Tecnología</a>
+                                        <span class="toggle-icon section-clarincomtecnologia"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/cultura/">Cultura</a>
+                                        <span class="toggle-icon section-clarincomcultura"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/espectaculos/">Espectáculos</a>
+                                        <span class="toggle-icon section-clarincomespectaculos"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        <ul class="subsections-col section-clarincomespectaculos">
+                                                
+                                                    <li><a target="_self" href="//clarin.com/espectaculos/fama/">Fama</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/espectaculos/tv/">TV</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/espectaculos/cine/">Cine</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/tema/series_de_tv.html">Series</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/espectaculos/musica/">Música</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/espectaculos/teatro/">Teatro</a></li>
+                                                
+                                        </ul>
+                                        </li>
+                                    </ul>
+                                
+                             </div>
+                             
+                             <div class="columna">
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/deportes/">Deportes</a>
+                                        <span class="toggle-icon section-clarincomdeportes"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        <ul class="subsections-col section-clarincomdeportes">
+                                                
+                                                    <li><a target="_self" href="//clarin.com/deportes/seleccion-nacional">Selección</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/deportes/futbol/">Fútbol</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/deportes/ascenso/">Ascenso</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/deportes/futbol-internacional/">Fútbol Internacional</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/deportes/tenis/">Tenis</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/deportes/hockey/">Hockey</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/deportes/rugby/">Rugby</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/deportes/basquet/">Básquet</a></li>
+                                                
+                                                    <li><a target="_self" href="//www.clarin.com/deportes/basquet/liga-nacional/">Liga Nacional de Básquet</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/tema/nba.html">NBA</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/deportes/estadisticas.html">Estadísticas</a></li>
+                                                
+                                                    <li><a target="_self" href="//www.clarin.com/deportes/agenda-deportiva/">Agenda Deportiva</a></li>
+                                                
+                                        </ul>
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/entremujeres/">Entremujeres</a>
+                                        <span class="toggle-icon section-clarincomentremujeres"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/autos/">Autos</a>
+                                        <span class="toggle-icon section-clarincomautos"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/viajes/">Viajes</a>
+                                        <span class="toggle-icon section-clarincomviajes"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/arq/">Arq</a>
+                                        <span class="toggle-icon section-clarincomarq"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="https://www.clarin.com/new-york-times-international-weekly/?url=/clarin">New York Times International Weekly</a>
+                                        <span class="toggle-icon section-https:wwwclarincomnew-york-times-international-weekly?url=clarin"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                             </div>
+                             
+                             <div class="columna">
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/viva/">Revista Viva</a>
+                                        <span class="toggle-icon section-clarincomviva"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/revista-enie/">Revista Ñ</a>
+                                        <span class="toggle-icon section-clarincomrevista-enie"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="https://www.clarin.com/br/">Clarín em portugués</a>
+                                        <span class="toggle-icon section-https:wwwclarincombr"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/ediciones-anteriores/">Ediciones Anteriores</a>
+                                        <span class="toggle-icon section-clarincomediciones-anteriores"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_blank" href="https://www.clarin.com/especiales-clarin/">Especiales</a>
+                                        <span class="toggle-icon section-https:wwwclarincomespeciales-clarin"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/humor/">Humor</a>
+                                        <span class="toggle-icon section-clarincomhumor"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="//clarin.com/newsletters/">Newsletters</a>
+                                        <span class="toggle-icon section-clarincomnewsletters"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_self" href="#">Servicios</a>
+                                        <span class="toggle-icon section-home"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        <ul class="subsections-col section-home">
+                                                
+                                                    <li><a target="_self" href="//clarin.com/transito/">Tránsito</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/claringrilla/">Claringrilla</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/sudoku">Sudoku</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/clima">Clima</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/horoscopo.html">Horóscopo</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/loterias-y-quinielas">Loterías y Quinielas</a></li>
+                                                
+                                                    <li><a target="_self" href="//clarin.com/feriados/2017">Feriados 2017</a></li>
+                                                
+                                                    <li><a target="_blank" href="http://tapas.clarin.com/">Tapas de Clarín</a></li>
+                                                
+                                        </ul>
+                                        </li>
+                                    </ul>
+                                
+                             </div>
+                             
+                             <div class="columna">
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_blank" href="https://www.clarin.com/radio-mitre-vivo/">Radio Mitre en Vivo</a>
+                                        <span class="toggle-icon section-https:wwwclarincomradio-mitre-vivo"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_blank" href="https://www.clarin.com/movil">APPS Clarín</a>
+                                        <span class="toggle-icon section-https:wwwclarincommovil"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_blank" href="http://clasificados.clarin.com/inicio/index#!/">Clasificados</a>
+                                        <span class="toggle-icon section-http:clasificadosclarincominicioindex!"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        <ul class="subsections-col section-http:clasificadosclarincominicioindex!">
+                                                
+                                                    <li><a target="_blank" href="http://www.deautos.com.ar/">DeAutos</a></li>
+                                                
+                                                    <li><a target="_blank" href="http://www.argenprop.com/">Argenprop</a></li>
+                                                
+                                                    <li><a target="_blank" href="http://www.empleos.clarin.com/postulantes/">Empleos</a></li>
+                                                
+                                        </ul>
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_blank" href="http://www.grandt.clarin.com/">Gran DT</a>
+                                        <span class="toggle-icon section-http:wwwgrandtclarincom"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_blank" href="http://365.clarin.com/">365</a>
+                                        <span class="toggle-icon section-http:365clarincom"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_blank" href="https://www.clarin.com/suscripciones/landing.html">Suscripciones</a>
+                                        <span class="toggle-icon section-https:wwwclarincomsuscripcioneslandinghtml"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_blank" href="https://www.clarin.com/contactenos.html">Contactanos</a>
+                                        <span class="toggle-icon section-https:wwwclarincomcontactenoshtml"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                                    <ul class="section-col">
+                                        <li class="section-name"><a target="_blank" href="https://www.clarin.com/preguntas-frecuentes">Ayuda</a>
+                                        <span class="toggle-icon section-https:wwwclarincompreguntas-frecuentes"><i class="fa fa-angle-down fa-2" aria-hidden="true"></i><i class="fa fa-angle-up fa-2" aria-hidden="true"></i></span>
+                                        
+                                                
+                                        
+                                        </li>
+                                    </ul>
+                                
+                             </div>
+                             
+
+                        </div>
+                    </div>
+                </li>
+                <li class="logo-mobile">
+                    <a href="http://www.clarin.com/">
+                        <img src="https://images.clarin.com/collections/static/logo_clarin.svg" alt="Clarín">
+                    </a>
+                </li>
+                <li class="search">
+                    <i class="fa fa-search fa-2" aria-hidden="true"></i>
+                    <div class="box-search">
+                        <form id="buscarForm">
+                            <input id="search_text" value="" placeholder="Buscar..." type="text">
+                            <input value="BUSCAR" class="btn btnSearch" type="submit">
+                        </form>
+                    </div>
+                </li>
+                <li class="isologo">
+                    <img src="https://images.clarin.com/collections/static/logo_clarin.svg" alt="Clarín" onclick="window.scrollTo(0,0);">
+                </li>
+
+                
+<li class="nav-item">
+    <a href="https://www.clarin.com/ultimas-noticias/" target="_self" class="link-nav ">Últimas Noticias</a>
+</li>
+
+<li class="nav-item">
+    <a href="https://www.clarin.com/politica/" target="_self" class="link-nav ">Política</a>
+</li>
+
+<li class="nav-item">
+    <a href="https://www.clarin.com/mundo/" target="_self" class="link-nav ">Mundo</a>
+</li>
+
+<li class="nav-item">
+    <a href="https://www.clarin.com/sociedad/" target="_self" class="link-nav ">Sociedad</a>
+</li>
+
+<li class="nav-item">
+    <a href="https://www.clarin.com/policiales/" target="_self" class="link-nav ">Policiales</a>
+</li>
+
+<li class="nav-item">
+    <a href="https://www.clarin.com/deportes/" target="_self" class="link-nav ">Deportes</a>
+</li>
+
+<li class="nav-item">
+    <a href="https://www.clarin.com/espectaculos/" target="_self" class="link-nav ">Espectáculos</a>
+</li>
+
+<li class="nav-item">
+    <a href="https://clasificados.clarin.com/inicio/index#!/" target="_blank" class="link-nav clasificados">Clasificados</a>
+</li>
+
+            </ul>
+
+            <ul class="nav-right">
+                <li class="suscripcion365"><a href="http://365.clarin.com" target="_blank"></a></li>
+                 <li class="nav-pase pase-module pase-sticky" style="display:none;">
+                    
+<div id="getGigyaSectionId" style="display: none;">1</div>
+<div class="suscribe" style="display: none;">
+    <a href="https://www.clarin.com/suscripciones/landing.html?ns_campaign=clarin-header&ns_mchannel=boton&ns_source=ageamkt&ns_linkname=clarin-header&ns_fee=0.01" target="_blank"><span>Suscribite</span></a>
+</div>
+<div class="paseLog  pase_notLoggedIn" style="display: none;">
+    <div class="widget-txt widget-ingreso toggle">
+        <a id="pase-panel-login" class="" style="display:block; overflow: hidden"><span class="icon-ingreso"></span><span id="loginLogout" class="login_pase"></span></a>
+    </div>
+</div>
+<div class="paseLog  pase_LoggedIn" style="display: none;">
+    <div class="widget-txt widget-ingreso flecha">
+        <span class="icon-ingreso"></span>
+        <div class="hola">
+            <p id="userFirstName" class="nombre login_pase"></p>
+        </div>
+       
+    </div>
+    <div style="display: none;" class="opciones subnav">
+        <span class="pic"></span>
+        <ul>
+           <li><a id="cuenta-usuario" class="cuenta-usuario">MI CUENTA</a></li>
+           <li id="misuscripcion" style="display: none;"><a id="mi_suscripcion" href="http://autogestion.365.com.ar">MI SUSCRIPCION</a></li>
+           <li class="toggle"><a class="logoff pase_logoff">CERRAR SESIÓN</a></li>
+        </ul>
+    </div>
+</div>
+<script>
+
+    var status = sasClarinHelper.getKwPw();
+    if (status !=2 ) {
+        $(".suscribe").show();
+        $(document).ready(function() {
+            $(".footer_suscribe").css("display","block");
+        });
+
+    } else if (status == 2) {
+        $(document).ready(function() {
+            $("li#misuscripcion").show();
+        });
+
+    }
+</script>
+
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="header-services">
+    <div class="container">
+        <div class="box-slider">
+            <div class="swiper-button-prev"><i class="fa fa-angle-left fa-2" aria-hidden="true"></i></div>
+            <div class="swiper-container" id="header-services-slider">
+                <div class="swiper-wrapper">
+                    
+                        <div class="swiper-slide">
+                            <a href="https://tapas.clarin.com/" target="_blank" class="tapas"><i class="fa fa-newspaper-o"></i><span>Tapa</span></a>
+                        </div>
+                    
+                        <div class="swiper-slide">
+                            <a href="https://www.clarin.com/radio-mitre-vivo/" target="_blank" class="mitre"><i class="fa fa-headphones"></i><span>Radio Mitre </span></a>
+                        </div>
+                    
+                        <div class="swiper-slide">
+                            <a href="https://www.clarin.com/claringrilla" target="_self" class=""><i class="fa fa-table"></i><span>Claringrilla</span></a>
+                        </div>
+                    
+                        <div class="swiper-slide">
+                            <a href="https://www.clarin.com/sudoku.html" target="_self" class="sudoku"><i class="fa fa-th-large"></i><span>Sudoku</span></a>
+                        </div>
+                    
+                        <div class="swiper-slide">
+                            <a href="https://www.clarin.com/horoscopo.html" target="_self" class="horoscopo"><i class="fa fa-moon-o"></i><span>Horóscopo</span></a>
+                        </div>
+                    
+                        <div class="swiper-slide">
+                            <a href="https://www.clarin.com/feriados/2017" target="_self" class="feriados"><i class="fa fa-calendar"></i><span>Feriados</span></a>
+                        </div>
+                    
+                        <div class="swiper-slide">
+                            <a href="https://www.clarin.com/transito.html" target="_self" class="transito"><i class="fa fa-car"></i><span>Tránsito</span></a>
+                        </div>
+                    
+                        <div class="swiper-slide">
+                            <a href="https://365.clarin.com/" target="_blank" class="descuentos"><i class="fa fa-usd"></i><span>Descuentos</span></a>
+                        </div>
+                    
+                        <div class="swiper-slide">
+                            <a href="https://www.facebook.com/clarincom" target="_self" class="facebook"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+                        </div>
+                    
+                        <div class="swiper-slide">
+                            <a href="https://twitter.com/clarincom" target="_self" class="twitter"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+                        </div>
+                    
+                </div>
+            </div>
+            <div class="swiper-button-next"><i class="fa fa-angle-right fa-2" aria-hidden="true"></i></div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        function formatNumber(val){
+            return ('0'+val).slice(-2);
+        }
+
+        function noHayDiario(hoy) {
+            var diasSinDiario = ["01-01","01-05","07-11","25-12"];
+            var hoyFormatted = formatNumber(hoy.getDate())+'-'+formatNumber(hoy.getMonth()+1);
+
+            var founded = false;
+            for(var i=0, len=diasSinDiario.length; i<len && !founded; i++)
+                if (hoyFormatted == diasSinDiario[i])
+                    founded = true;
+
+            return founded;
+        }
+
+        function createCLANamespace(object) {
+            if(typeof(window.CLA) == 'undefined')
+                window.CLA = {};
+
+            var objects = [window.CLA, object];
+            window.CLA = objects.reduce(function(r, o){
+                Object.keys(o).forEach(function (k) {
+                    r[k] = o[k];
+                });
+                return r;
+            }, {});
+        }
+
+        function setTapaLink() {
+            var now = new Date();
+            if(now.getHours()<6 || noHayDiario(now)) //no hay diario (obtener el del dia anterior)
+                now.setDate(now.getDate() - 1);
+
+            var tapa = now.getFullYear()+formatNumber(now.getMonth()+1)+formatNumber(now.getDate());
+            var dia = formatNumber(now.getDate());
+            var mes = formatNumber(now.getMonth()+1);
+            var anio = now.getFullYear();
+            createCLANamespace({tapa:{}});
+            return CLA.tapa.link = 'https://images.clarin.com/tapas/'+anio+'/'+mes+'/'+dia+'/'+tapa+'_thumb.jpg';
+        }
+
+        setTapaLink();
+
+        $(".tapas").click(function(e) {
+
+            e.preventDefault();
+
+            $.magnificPopup.open({
+                items: {
+                    src: CLA.tapa.link,
+                    type:'image',
+                },
+                image: {
+                    verticalFit: false,
+                },
+                closeOnContentClick: true,
+                closeOnBgClick: true,
+                closeBtnInside: true,
+                showCloseBtn: true,
+                modal: false,
+                callbacks: {
+                    close: function() {
+                    },
+                    open: function() {
+                        $('.mfp-bg').addClass('modal-terminos');
+                    }
+                },
+            });
+        });
+    </script>
+</div>
+
+    <div class="header-bottom container">
+        <div class="logo">
+            <figure>
+                <a href="http://www.clarin.com/">
+                    <img src="https://images.clarin.com/collections/static/logo_clarin.svg" alt="Clarín">
+                </a>
+            </figure>
+        </div>
+        <div class="widgets">
+            <div class="widget-clima l" >
+                <a href="https://www.clarin.com/clima">
+    <div class="widget-txt l">
+       <span class="city">Buenos Aires</span>
+       <span data-temperatura="28" class="temperatura">28.9&deg;</span>
+    </div>
+    <figure class="widget-img l">
+        <img src="/static/DESClima/images/v3/chicas/0.png" alt="Clima">
+    </figure>
+</a>
+<!-- 0 -->
+            </div>
+
+            <!--googleoff: all -->
+            <div class="widget l pase-module">
+                
+<div id="getGigyaSectionId" style="display: none;">1</div>
+<div class="suscribe" style="display: none;">
+    <a href="https://www.clarin.com/suscripciones/landing.html?ns_campaign=clarin-header&ns_mchannel=boton&ns_source=ageamkt&ns_linkname=clarin-header&ns_fee=0.01" target="_blank"><span>Suscribite</span></a>
+</div>
+<div class="paseLog  pase_notLoggedIn" style="display: none;">
+    <div class="widget-txt widget-ingreso toggle">
+        <a id="pase-panel-login" class="" style="display:block; overflow: hidden"><span class="icon-ingreso"></span><span id="loginLogout" class="login_pase"></span></a>
+    </div>
+</div>
+<div class="paseLog  pase_LoggedIn" style="display: none;">
+    <div class="widget-txt widget-ingreso flecha">
+        <span class="icon-ingreso"></span>
+        <div class="hola">
+            <p id="userFirstName" class="nombre login_pase"></p>
+        </div>
+       
+    </div>
+    <div style="display: none;" class="opciones subnav">
+        <span class="pic"></span>
+        <ul>
+           <li><a id="cuenta-usuario" class="cuenta-usuario">MI CUENTA</a></li>
+           <li id="misuscripcion" style="display: none;"><a id="mi_suscripcion" href="http://autogestion.365.com.ar">MI SUSCRIPCION</a></li>
+           <li class="toggle"><a class="logoff pase_logoff">CERRAR SESIÓN</a></li>
+        </ul>
+    </div>
+</div>
+<script>
+
+    var status = sasClarinHelper.getKwPw();
+    if (status !=2 ) {
+        $(".suscribe").show();
+        $(document).ready(function() {
+            $(".footer_suscribe").css("display","block");
+        });
+
+    } else if (status == 2) {
+        $(document).ready(function() {
+            $("li#misuscripcion").show();
+        });
+
+    }
+</script>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="hoy-interesa">
+	<ul class="container">
+		<li>Hoy Interesa</li>
+		
+		<li><a href="https://www.clarin.com/tema/reforma_previsional.html" target="_blank">Reforma previsional</a></li>
+		
+		<li><a href="https://www.clarin.com/tema/independiente.html" target="_blank">Independiente campeón</a></li>
+		
+		<li><a href="https://www.clarin.com/tema/submarino_desaparecido_ara_san_juan.html" target="_blank">Submarino ARA San Juan</a></li>
+		
+		<li class="date"><p>Viernes, 15 de Diciembre de 2017</p></li>
+	</ul>
+</div>
+
+</div>
+
+<script type="text/javascript">
+
+    $(document).ready(function() {
+        if($(window).outerHeight(true) < 560)
+            $('.dropdown-menu').css({'height':$(window).outerHeight(true)});
+
+        $('.container-submenu').add('.dropdown-menu').on('click', function(e){
+            e.stopImmediatePropagation();
+        });
+
+        $('.dropdown-menu .close').dropdown('toggle');
+
+        $('.navbar-nav li.dropdown').on('shown.bs.dropdown', function(){
+            $('header .menu-overlay').show();
+            $('.navbar-nav .nav-item').hide();
+            $('.nav-right .search').hide();
+            $('.nav-right .pase-sticky').hide();
+            $('.navbar-nav .isologo').hide();
+            $('html').css({'overflow':'hidden'});
+        });
+
+        $('.navbar-nav li.dropdown').on('hidden.bs.dropdown', function(){
+            $('header .menu-overlay').hide();
+            $('.navbar-nav .nav-item').css({'display':'block'});
+            $('.nav-right .search').css({'display':'block'});
+            if($('.header-content').find('nav.nav-st').length > 0){
+                if($('.pase-sticky').length > 0)
+                    $('.pase-sticky').css({'display':'block'});
+                if($('ul.navbar-nav li.isologo').length > 0)
+                    $('ul.navbar-nav li.isologo').css({'display':'block'});
+            }
+            $('html').css({'overflow':'initial'});
+        });
+
+
+        //Desplegable Pase
+        var toggle = false;
+        $(".pase-module .pase_LoggedIn").click(function(){
+            if(!toggle) {
+                $(".pase-module .opciones.subnav").slideDown(300);
+                toggle = true;
+            } else {
+                $(".pase-module .opciones.subnav").slideUp(300);
+                toggle = false;
+            }
+        });
+        //Fin deplegable Pase
+
+        //Menú Desplegable
+        $('.toggle-icon').on('click', function(e){
+            e.stopImmediatePropagation();
+            var thisElm = this;
+            var elmsDesplegados = $('.subsections-col:visible');
+
+            if($(thisElm).hasClass('open')){
+                $(thisElm).removeClass('open');
+                $(thisElm).closest('li').find('ul').slideUp(300);
+                return false;
+            }
+
+            if(elmsDesplegados.length > 0) {
+                $('.toggle-icon').removeClass('open');
+                elmsDesplegados.slideUp(200, function(){
+                    desplegarMenu(thisElm);
+                });
+            } else {
+                desplegarMenu(thisElm);
+            }
+        });
+
+        function desplegarMenu(elm){
+            var classSection = $(elm).attr('class').split(" ")[1];
+            $(".subsections-col."+classSection).slideDown(300);
+            $(elm).addClass('open');
+        }
+        //Fin desplegable
+
+        var hasNotUlChild= $('.dropdown-menu .columna .section-name').not(':has("ul")');
+        hasNotUlChild.find('.toggle-icon').hide();
+
+        $('.dropdown-menu .columna').last().addClass('last');
+
+    });
+
+    $("#buscarForm").submit(function(e) {
+        e.preventDefault();
+        var val = $("#search_text").val();
+        if (val != "") {
+            window.location.assign("/buscador/?q=" + encodeURIComponent(val));
+        }
+    });
+
+</script>
+
+    </header>
+    <div class="banner-border">
+        <div class="adv megaexpandible">
+            <div id="epl_expandable_div"></div>
+            <div >
+    <div class="cla-ad" id="sas_12973" data-render="false"></div>
+    <div id="bannerId_352">
+        <!-- 1513352390 S -->
+    </div>
+</div>
+
+      </div>
+    </div>
+    
+
+	
+                                
+                                
+<script type="text/javascript">
+	// Refresco de página - home
+        refresh_on = true;
+
+        function refresh_Play(){
+            metricsRefresh(5);
+        }
+
+        refresh_Play();
+</script>
+
+
+                                
+
+	
+
+	<div class="content home">
+        
+                                
+                                
+                                
+	    
+    
+    <div class="container father" data-classes="container" data-type="container_father" data-name="container_father">
+
+    
+    <div data-name="contA" class="container  " data-classes="container  " data-type="container">
+    <div class="top-head">
+        <div class="row bb-container bb-moduleId_v3_row_mod_201791183705942" data-count="12">
+
+            
+            
+
+            
+    
+    <!-- VISUAL -->
+<div class="border box col-lg-6 col-md-8 col-sm-12 col-xs-12 no-p" data-size-w="2" data-size-h="1" data-classes="border box col-lg-6 col-md-8 col-sm-12 col-xs-12 no-p" data-name="content">
+  <article class="content-nota list-format twoxone_foto_small">
+      <a href="/politica/reforma-previsional-gobierno-prepara-decreto-bono-compensar-jubilados_0_H1kJGHWfG.html" target="_self">
+    <div class="mt">
+      <p class="volanta ">Cambios en la economía</p>
+      <h2>Reforma previsional: Macri manda a su mesa chica al Congreso para reunirse con los gobernadores</h2>
+    </div>
+    <div class="mg">
+        <div class="pull-left txt">
+            <p class="summary">En paralelo, el Gobierno prepara un decreto con un bono para "compensar" a los jubilados.</p>
+        </div>
+        <div class="wrap-figure">
+            <figure  id="imgmod_2017115801827114">
+               <img class="img-responsive intelResolution lazyload" alt="Reforma previsional: Macri manda a su mesa chica al Congreso para reunirse con los gobernadores"  data-small="https://images.clarin.com/2017/10/28/Hyss2tMRW_290x140.jpg" data-big="https://images.clarin.com/2017/10/28/Hyss2tMRW_600x290__2.jpg#1513344352969" src="https://images.clarin.com/collections/static/lazy_square.svg">
+                <a class="content-ico center" href="/politica/reforma-previsional-gobierno-prepara-decreto-bono-compensar-jubilados_0_H1kJGHWfG.html" target="_self">
+                    
+                </a>
+            </figure>
+        </div>
+    </div>
+    <div class="data-txt">
+        <a href="/politica/" target="_self"><p class="section" >Política</p></a>
+        <p class="author" onClick="window.open('/autor/ignacio_ortelli.html','_blank');" style="cursor: pointer;">Ignacio Ortelli</p>
+    </div>
+    </a>
+  </article>
+</div>
+
+
+
+
+    
+    <div class="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p bb-container bb-moduleId_v3_multiple_mod_2017115765161462 special"  data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 special" data-name="containerMultiple">
+        
+    
+     <!-- triple CON FOTO -->
+<div class="triple col-lg-12 no-p" data-classes="triple col-lg-12 no-p" data-name="content" >
+  <article class="content-nota list-format onexone_triple">
+    <a href="/opinion/motivos-intransigencia-macri-reforma-previsional_0_HJ1rHYlzM.html" target="_self">
+    <div class="wrap-figure">
+      <figure   id="imgmod_2017115222114596">
+        <img class="img-responsive intelResolution lazyload" alt="Cuáles son los motivos de la intransigencia de Macri con la reforma"  data-small="https://images.clarin.com/2017/12/11/rJ6kUghZM_110x110.jpg" data-big="https://images.clarin.com/2017/12/11/rJ6kUghZM_110x110.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+        <a class="content-ico center" href="/opinion/motivos-intransigencia-macri-reforma-previsional_0_HJ1rHYlzM.html" target="_self">
+              
+        </a>
+      </figure>
+    </div>
+    <div class="mt">
+      <div class="max-h">
+      	<a href="/opinion/motivos-intransigencia-macri-reforma-previsional_0_HJ1rHYlzM.html" target="_self">
+          <p class="volanta ">Opinión</p>
+          <h2>Cu&aacute;les son los motivos de la intransigencia de Macri con la reforma</h2>
+        </a>
+      </div>
+      <div class="data-txt">
+            <a href="/opinion/" target="_self"><p class="section" >Opinión</p></a>
+            <p class="author" onClick="window.open('/autor/marcelo_bonelli.html','_blank');" style="cursor: pointer;">Marcelo Bonelli</p>
+      </div>
+    </div>
+ </a>
+</article>
+</div>
+
+
+
+
+    
+     <!-- triple CON FOTO -->
+<div class="triple col-lg-12 no-p" data-classes="triple col-lg-12 no-p" data-name="content" >
+  <article class="content-nota list-format onexone_triple">
+    <a href="/politica/cronica-derrota-anunciada_0_rJ9m72lfM.html" target="_self">
+    <div class="wrap-figure">
+      <figure   id="imgmod_201711482058188">
+        <img class="img-responsive intelResolution lazyload" alt="Crónica de una derrota muy anunciada"  data-small="https://images.clarin.com/2017/12/15/HyiBDVbGG_110x110__1.jpg" data-big="https://images.clarin.com/2017/12/15/HyiBDVbGG_110x110__1.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+        <a class="content-ico center" href="/politica/cronica-derrota-anunciada_0_rJ9m72lfM.html" target="_self">
+              
+        </a>
+      </figure>
+    </div>
+    <div class="mt">
+      <div class="max-h">
+      	<a href="/politica/cronica-derrota-anunciada_0_rJ9m72lfM.html" target="_self">
+          <p class="volanta ">Análisis</p>
+          <h2>Cr&oacute;nica de una derrota muy anunciada</h2>
+        </a>
+      </div>
+      <div class="data-txt">
+            <a href="/politica/" target="_self"><p class="section" >Política</p></a>
+            <p class="author" onClick="window.open('/autor/fernando_gonzalez.html','_blank');" style="cursor: pointer;">Fernando Gonzalez</p>
+      </div>
+    </div>
+ </a>
+</article>
+</div>
+
+
+
+
+    
+     <!-- triple CON FOTO -->
+<div class="triple col-lg-12 no-p" data-classes="triple col-lg-12 no-p" data-name="content" >
+  <article class="content-nota list-format onexone_triple">
+    <a href="/politica/mauricio-macri-quedo-atrapado-calesita-armaron-gobernadores-peronistas_0_rJnErigGf.html" target="_self">
+    <div class="wrap-figure">
+      <figure   id="imgmod_2017114736589214">
+        <img class="img-responsive intelResolution lazyload" alt="Macri quedó atrapado en la calesita que armaron los gobernadores"  data-small="https://images.clarin.com/2017/12/14/S1iqHogzG_110x110__1.jpg" data-big="https://images.clarin.com/2017/12/14/S1iqHogzG_290x140__2.jpg#1513304937107" src="https://images.clarin.com/collections/static/lazy_square.svg">
+        <a class="content-ico center" href="/politica/mauricio-macri-quedo-atrapado-calesita-armaron-gobernadores-peronistas_0_rJnErigGf.html" target="_self">
+              
+        </a>
+      </figure>
+    </div>
+    <div class="mt">
+      <div class="max-h">
+      	<a href="/politica/mauricio-macri-quedo-atrapado-calesita-armaron-gobernadores-peronistas_0_rJnErigGf.html" target="_self">
+          <p class="volanta ">Idas y vueltas</p>
+          <h2>Macri qued&oacute; atrapado en la calesita que armaron los gobernadores</h2>
+        </a>
+      </div>
+      <div class="data-txt">
+            <a href="/politica/" target="_self"><p class="section" >Política</p></a>
+            <p class="author" onClick="window.open('/autor/ignacio_miri.html','_blank');" style="cursor: pointer;">Ignacio Miri</p>
+      </div>
+    </div>
+ </a>
+</article>
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+    
+     <div class="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-name="content">
+    <article class="content-nota onexone_foto    list-format">
+        <a href="/politica/reforma-previsional-mauricio-macri-buscara-foto-gobernadores-mismo-dia-sesion_0_S1jz9HZMz.html" target="_self">
+        <div class="wrap-figure">
+            <figure id="imgmod_2017115987117191">
+              <img class="img-responsive intelResolution lazyload"  alt="Macri buscará una foto con los gobernadores el mismo día de la sesión" data-small="https://images.clarin.com/2017/11/22/ByYX1wQgG_290x140.jpg" data-big="https://images.clarin.com/2017/11/22/ByYX1wQgG_600x290.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+              <a class="content-ico center" href="/politica/reforma-previsional-mauricio-macri-buscara-foto-gobernadores-mismo-dia-sesion_0_S1jz9HZMz.html" target="_self">
+                    
+              </a>
+            </figure>
+        </div>
+        <div class="mt ">
+            
+
+            
+            
+                <!-- VOLANTA -->
+                <a href="/politica/reforma-previsional-mauricio-macri-buscara-foto-gobernadores-mismo-dia-sesion_0_S1jz9HZMz.html" target="_self"><p class="volanta ">Pelea política</p></a>
+                <!-- FIN VOLANTA -->
+            
+
+             <a href="/politica/reforma-previsional-mauricio-macri-buscara-foto-gobernadores-mismo-dia-sesion_0_S1jz9HZMz.html" target="_self"><h2 >Macri buscar&aacute; una foto con los gobernadores el mismo d&iacute;a de la sesi&oacute;n</h2></a>
+        </div>
+        <div class="data-txt">
+            <a href="/politica/" target="_self"><p class="section" >Política</p></a>
+
+            <p class="author" onClick="window.open('/autor/eduardo_paladini.html','_blank');" style="cursor: pointer;">Eduardo Paladini</p>
+        </div>
+        </a>
+ </article>
+</div>
+
+
+
+
+    
+    <div class="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p bb-container bb-moduleId_v3_multiple_mod_2017115848353226 special"  data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 special" data-name="containerMultiple">
+        
+    
+     <!-- triple CON FOTO -->
+<div class="triple col-lg-12 no-p" data-classes="triple col-lg-12 no-p" data-name="content" >
+  <article class="content-nota list-format onexone_triple">
+    <a href="/politica/iglesia-repudio-violencia-abogo-dialogo-respeto-instituciones_0_H1CWbI-MG.html" target="_self">
+    <div class="wrap-figure">
+      <figure   id="imgmod_2017115808496891">
+        <img class="img-responsive intelResolution lazyload" alt="La Iglesia repudió la violencia y abogó por el diálogo"  data-small="https://images.clarin.com/2017/12/15/HJSoWUWGz_110x110__1.jpg" data-big="https://images.clarin.com/2017/12/15/HJSoWUWGz_110x110__1.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+        <a class="content-ico center" href="/politica/iglesia-repudio-violencia-abogo-dialogo-respeto-instituciones_0_H1CWbI-MG.html" target="_self">
+              
+        </a>
+      </figure>
+    </div>
+    <div class="mt">
+      <div class="max-h">
+      	<a href="/politica/iglesia-repudio-violencia-abogo-dialogo-respeto-instituciones_0_H1CWbI-MG.html" target="_self">
+          <p class="volanta ">Reforma previsional</p>
+          <h2>La Iglesia repudi&oacute; la violencia y abog&oacute; por el di&aacute;logo</h2>
+        </a>
+      </div>
+      <div class="data-txt">
+            <a href="/politica/" target="_self"><p class="section" >Política</p></a>
+            <p class="author" onClick="window.open('/autor/sergio_rubin.html','_blank');" style="cursor: pointer;">Sergio Rubin</p>
+      </div>
+    </div>
+ </a>
+</article>
+</div>
+
+
+
+
+    
+     <!-- triple CON FOTO -->
+<div class="triple col-lg-12 no-p" data-classes="triple col-lg-12 no-p" data-name="content" >
+  <article class="content-nota list-format onexone_triple">
+    <a href="/politica/nuevos-chispazos-ciudad-nacion-control-calle_0_Bkj60cxzz.html" target="_self">
+    <div class="wrap-figure">
+      <figure   id="imgmod_20171159380714">
+        <img class="img-responsive intelResolution lazyload" alt="Nuevos chispazos entre Ciudad y Nación por el control de la calle"  data-small="https://images.clarin.com/2017/12/14/r1MMksgGz_110x110__1.jpg" data-big="https://images.clarin.com/2017/12/14/r1MMksgGz_110x110__2.jpg#1513336505044" src="https://images.clarin.com/collections/static/lazy_square.svg">
+        <a class="content-ico center" href="/politica/nuevos-chispazos-ciudad-nacion-control-calle_0_Bkj60cxzz.html" target="_self">
+              
+        </a>
+      </figure>
+    </div>
+    <div class="mt">
+      <div class="max-h">
+      	<a href="/politica/nuevos-chispazos-ciudad-nacion-control-calle_0_Bkj60cxzz.html" target="_self">
+          <p class="volanta ">Seguridad</p>
+          <h2>Nuevos chispazos entre Ciudad y Naci&oacute;n por el control de la calle</h2>
+        </a>
+      </div>
+      <div class="data-txt">
+            <a href="/politica/" target="_self"><p class="section" >Política</p></a>
+            <p class="author" onClick="window.open('/autor/santiago_fioriti.html','_blank');" style="cursor: pointer;">Santiago Fioriti</p>
+      </div>
+    </div>
+ </a>
+</article>
+</div>
+
+
+
+
+    
+     <!-- triple CON FOTO -->
+<div class="triple col-lg-12 no-p" data-classes="triple col-lg-12 no-p" data-name="content" >
+  <article class="content-nota list-format onexone_triple">
+    <a href="http://hd.clarin.com/tagged/reforma-previsional" target="_self">
+    <div class="wrap-figure">
+      <figure   id="imgmod_2017115377630705">
+        <img class="img-responsive intelResolution lazyload" alt="Todas las fotos de la violenta jornada en el Congreso de la Nación"  data-small="https://images.clarin.com/2017/12/15/B1CUP8ZGG_110x110__1.jpg" data-big="https://images.clarin.com/2017/12/15/B1CUP8ZGG_110x110__2.jpg#1513347338415" src="https://images.clarin.com/collections/static/lazy_square.svg">
+        <a class="content-ico center" href="http://hd.clarin.com/tagged/reforma-previsional" target="_self">
+              
+        </a>
+      </figure>
+    </div>
+    <div class="mt">
+      <div class="max-h">
+      	<a href="http://hd.clarin.com/tagged/reforma-previsional" target="_self">
+          <p class="volanta ">HD</p>
+          <h2>Todas las fotos de la violenta jornada en el Congreso de la Naci&oacute;n</h2>
+        </a>
+      </div>
+      <div class="data-txt">
+            
+            
+      </div>
+    </div>
+ </a>
+</article>
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+    
+     <div class="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-name="content">
+    <article class="content-nota onexone_foto    list-format">
+        <a href="/politica/submarino-ara-san-juan-elisa-carrio-denuncia-asociacion-ilicita-ministros-agustin-rossi-nilda-garre_0_rkGhQUbzM.html" target="_self">
+        <div class="wrap-figure">
+            <figure id="imgmod_2017115941479449">
+              <img class="img-responsive intelResolution lazyload"  alt="Carrió denuncia una asociación ilícita de los ministros K Rossi y Garré" data-small="https://images.clarin.com/2017/12/07/SyVl4CU-M_290x140.jpg" data-big="https://images.clarin.com/2017/12/07/SyVl4CU-M_600x290.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+              <a class="content-ico center" href="/politica/submarino-ara-san-juan-elisa-carrio-denuncia-asociacion-ilicita-ministros-agustin-rossi-nilda-garre_0_rkGhQUbzM.html" target="_self">
+                    
+              </a>
+            </figure>
+        </div>
+        <div class="mt ">
+            
+
+            
+            
+                <!-- VOLANTA -->
+                <a href="/politica/submarino-ara-san-juan-elisa-carrio-denuncia-asociacion-ilicita-ministros-agustin-rossi-nilda-garre_0_rkGhQUbzM.html" target="_self"><p class="volanta ">Submarino ARA San Juan</p></a>
+                <!-- FIN VOLANTA -->
+            
+
+             <a href="/politica/submarino-ara-san-juan-elisa-carrio-denuncia-asociacion-ilicita-ministros-agustin-rossi-nilda-garre_0_rkGhQUbzM.html" target="_self"><h2 >Carri&oacute; denuncia una asociaci&oacute;n il&iacute;cita de los ministros K Rossi y Garr&eacute;</h2></a>
+        </div>
+        <div class="data-txt">
+            <a href="/politica/" target="_self"><p class="section" >Política</p></a>
+
+            <p class="author" onClick="window.open('/autor/pablo_de_leon.html','_blank');" style="cursor: pointer;">Pablo de León</p>
+        </div>
+        </a>
+ </article>
+</div>
+
+
+
+
+    
+    <!-- VISUAL -->
+<div class="border box col-lg-6 col-md-8 col-sm-12 col-xs-12 no-p" data-size-w="2" data-size-h="1" data-classes="border box col-lg-6 col-md-8 col-sm-12 col-xs-12 no-p" data-name="content">
+  <article class="visual content-nota twoxone_visual   txt-bottom list-format">
+      <a href="/deportes/futbol-internacional/ex-river-problemas-lucho-gonzalez-denunciado-mujer-intentado-matarla_0_HyKZLUZzM.html" target="_self">
+       <figure  id="imgmod_2017115611818284">
+        <div class="wrap-img"> 
+           <img class="img-responsive intelResolution lazyload" alt="Un ex River fue denunciado por su esposa"  data-small="https://images.clarin.com/2017/12/15/SkaFpIZGG_340x340__1.jpg" data-big="https://images.clarin.com/2017/12/15/SkaFpIZGG_600x290__2.jpg#1513348999680" src="https://images.clarin.com/collections/static/lazy_square.svg">
+          </div>
+            <div class="mt ">
+                
+                
+                
+                <div class="max-h">
+                  <p class="volanta ">"Trató de asfixiarme"</p>
+                  <h2>Un ex River fue denunciado por su esposa</h2>
+                </div>
+                <div class="data-txt">
+                   <a href="/deportes/futbol-internacional/" target="_self"><p class="section" >Fútbol Internacional</p></a>
+                   
+                </div>
+            </div>
+                        
+                        
+                            
+                            
+                        
+          </figure>
+       </a>
+  </article>
+</div>
+
+
+
+
+
+    
+     <div class="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-name="content">
+    <article class="content-nota onexone_foto    list-format">
+        <a href="/deportes/futbol-internacional/maradona-salio-cruce-cristiano-ronaldo-mejor-historia-joda_0_SknRHEWzM.html" target="_self">
+        <div class="wrap-figure">
+            <figure id="imgmod_2017115676006578">
+              <img class="img-responsive intelResolution lazyload"  alt="Maradona a Ronaldo: &quot;¿El mejor de la historia? Que no joda&quot;" data-small="https://images.clarin.com/2017/12/15/Skguu4WzG_290x140__1.jpg" data-big="https://images.clarin.com/2017/12/15/Skguu4WzG_600x290__2.jpg#1513340380740" src="https://images.clarin.com/collections/static/lazy_square.svg">
+              <a class="content-ico center" href="/deportes/futbol-internacional/maradona-salio-cruce-cristiano-ronaldo-mejor-historia-joda_0_SknRHEWzM.html" target="_self">
+                    
+              </a>
+            </figure>
+        </div>
+        <div class="mt ">
+            
+
+            
+            
+                <!-- VOLANTA -->
+                <a href="/deportes/futbol-internacional/maradona-salio-cruce-cristiano-ronaldo-mejor-historia-joda_0_SknRHEWzM.html" target="_self"><p class="volanta ">Fútbol</p></a>
+                <!-- FIN VOLANTA -->
+            
+
+             <a href="/deportes/futbol-internacional/maradona-salio-cruce-cristiano-ronaldo-mejor-historia-joda_0_SknRHEWzM.html" target="_self"><h2 >Maradona a Ronaldo: &quot;&iquest;El mejor de la historia? Que no joda&quot;</h2></a>
+        </div>
+        <div class="data-txt">
+            <a href="/deportes/futbol-internacional/" target="_self"><p class="section" >Fútbol Internacional</p></a>
+
+            
+        </div>
+        </a>
+ </article>
+</div>
+
+
+
+
+    
+     <div class="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-name="content">
+    <article class="content-nota onexone_foto    list-format">
+        <a href="/deportes/futbol/sargento-gimenez-hablo-corrupcion-arbitraje-salpico-varios_0_HJJ_z8-zM.html" target="_self">
+        <div class="wrap-figure">
+            <figure id="imgmod_2017114467701287">
+              <img class="img-responsive intelResolution lazyload"  alt="El Sargento Giménez habló de la corrupción en el arbitraje" data-small="https://images.clarin.com/2017/12/15/Skt-1IZfM_290x140__1.jpg" data-big="https://images.clarin.com/2017/12/15/Skt-1IZfM_600x600__1.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+              <a class="content-ico center" href="/deportes/futbol/sargento-gimenez-hablo-corrupcion-arbitraje-salpico-varios_0_HJJ_z8-zM.html" target="_self">
+                    
+              </a>
+            </figure>
+        </div>
+        <div class="mt ">
+            
+
+            
+            
+                <!-- VOLANTA -->
+                <a href="/deportes/futbol/sargento-gimenez-hablo-corrupcion-arbitraje-salpico-varios_0_HJJ_z8-zM.html" target="_self"><p class="volanta ">Salpicó a varios</p></a>
+                <!-- FIN VOLANTA -->
+            
+
+             <a href="/deportes/futbol/sargento-gimenez-hablo-corrupcion-arbitraje-salpico-varios_0_HJJ_z8-zM.html" target="_self"><h2 >El Sargento Gim&eacute;nez habl&oacute; de la corrupci&oacute;n en el arbitraje</h2></a>
+        </div>
+        <div class="data-txt">
+            <a href="/deportes/futbol/" target="_self"><p class="section" >Fútbol</p></a>
+
+            
+        </div>
+        </a>
+ </article>
+</div>
+
+
+
+
+    
+    <div class="des-adv  border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-name="advert">
+	
+    
+	<p class="pbl">PUBLICIDAD</p>
+    <div class="banner_center cla-ad" id="sas_12952" data-render="false"></div>
+    <div id="bannerId_440">
+    </div>
+	<!-- 1513352390 M Right1x300x250-->
+	
+</div>
+
+
+
+
+
+    
+     <div class="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-name="content">
+    <article class="content-nota onexone_foto    list-format">
+        <a href="/politica/milagro-sala-deja-carcel-cumplira-prision-domiciliaria-casa-dique-cienaga_0_ryW3lvbzM.html" target="_self">
+        <div class="wrap-figure">
+            <figure id="imgmod_2017115414382843">
+              <img class="img-responsive intelResolution lazyload"  alt="Milagro Sala cumplirá prisión domiciliaria en su casa del Dique La Ciénaga" data-small="https://images.clarin.com/2017/08/16/rJx5cBfuW_290x140.jpg" data-big="https://images.clarin.com/2017/08/16/rJx5cBfuW_600x290.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+              <a class="content-ico center" href="/politica/milagro-sala-deja-carcel-cumplira-prision-domiciliaria-casa-dique-cienaga_0_ryW3lvbzM.html" target="_self">
+                    
+              </a>
+            </figure>
+        </div>
+        <div class="mt ">
+            
+
+            
+            
+                <!-- VOLANTA -->
+                <a href="/politica/milagro-sala-deja-carcel-cumplira-prision-domiciliaria-casa-dique-cienaga_0_ryW3lvbzM.html" target="_self"><p class="volanta ">Deja la cárcel otra vez</p></a>
+                <!-- FIN VOLANTA -->
+            
+
+             <a href="/politica/milagro-sala-deja-carcel-cumplira-prision-domiciliaria-casa-dique-cienaga_0_ryW3lvbzM.html" target="_self"><h2 >Milagro Sala cumplir&aacute; prisi&oacute;n domiciliaria en su casa del Dique La Ci&eacute;naga</h2></a>
+        </div>
+        <div class="data-txt">
+            <a href="/politica/" target="_self"><p class="section" >Política</p></a>
+
+            
+        </div>
+        </a>
+ </article>
+</div>
+
+
+
+
+        </div>
+    </div>
+</div>
+<script>
+$(document).ready(function(){
+	$("#tipo_v3_row_mod_201791183705942").html("CONTENEDOR TIPO A");
+});
+</script>
+
+
+
+
+    
+    <div data-name="contB" class="container listado " data-classes="container listado " data-type="container">
+    <div class="top-head">
+        <div class="row bb-container bb-moduleId_b_mod_2017112532792457"  data-count="6">
+
+            
+            
+
+            
+    
+     <div class="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-name="content">
+    <article class="content-nota onexone_foto    list-format">
+        <a href="/politica/ruta-dinero-lazaro-baez-quiere-ir-juicio-indagaron-cristina-kirchner_0_SJkC3bxfz.html" target="_self">
+        <div class="wrap-figure">
+            <figure id="imgmod_2017115767971213">
+              <img class="img-responsive intelResolution lazyload"  alt="Lázaro Báez no quiere ir a juicio porque no indagaron a Cristina Kirchner" data-small="https://images.clarin.com/2014/10/22/HkVHG3snme_290x140.jpg" data-big="https://images.clarin.com/2014/10/22/HkVHG3snme_600x290.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+              <a class="content-ico center" href="/politica/ruta-dinero-lazaro-baez-quiere-ir-juicio-indagaron-cristina-kirchner_0_SJkC3bxfz.html" target="_self">
+                    
+              </a>
+            </figure>
+        </div>
+        <div class="mt ">
+            
+
+            
+            
+                <!-- VOLANTA -->
+                <a href="/politica/ruta-dinero-lazaro-baez-quiere-ir-juicio-indagaron-cristina-kirchner_0_SJkC3bxfz.html" target="_self"><p class="volanta ">La ruta del dinero K</p></a>
+                <!-- FIN VOLANTA -->
+            
+
+             <a href="/politica/ruta-dinero-lazaro-baez-quiere-ir-juicio-indagaron-cristina-kirchner_0_SJkC3bxfz.html" target="_self"><h2 >L&aacute;zaro B&aacute;ez no quiere ir a juicio porque no indagaron a Cristina Kirchner</h2></a>
+        </div>
+        <div class="data-txt">
+            <a href="/politica/" target="_self"><p class="section" >Política</p></a>
+
+            <p class="author" onClick="window.open('/autor/lucia_salinas.html','_blank');" style="cursor: pointer;">Lucía Salinas</p>
+        </div>
+        </a>
+ </article>
+</div>
+
+
+
+
+    
+     <div class="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-name="content">
+    <article class="content-nota onexone_foto    list-format">
+        <a href="/sociedad/ano-escolar-2018-clases-empiezan-marzo-capital_0_rJf6iN-GM.html" target="_self">
+        <div class="wrap-figure">
+            <figure id="imgmod_2017115855777689">
+              <img class="img-responsive intelResolution lazyload"  alt="Las clases empiezan el 1° de marzo en Capital" data-small="https://images.clarin.com/2017/12/15/rkWa9L-fG_290x140__1.jpg" data-big="https://images.clarin.com/2017/12/15/rkWa9L-fG_600x290__1.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+              <a class="content-ico center" href="/sociedad/ano-escolar-2018-clases-empiezan-marzo-capital_0_rJf6iN-GM.html" target="_self">
+                    
+              </a>
+            </figure>
+        </div>
+        <div class="mt ">
+            
+
+            
+            
+                <!-- VOLANTA -->
+                <a href="/sociedad/ano-escolar-2018-clases-empiezan-marzo-capital_0_rJf6iN-GM.html" target="_self"><p class="volanta ">Año escolar 2018</p></a>
+                <!-- FIN VOLANTA -->
+            
+
+             <a href="/sociedad/ano-escolar-2018-clases-empiezan-marzo-capital_0_rJf6iN-GM.html" target="_self"><h2 >Las clases empiezan el 1&deg; de marzo en Capital</h2></a>
+        </div>
+        <div class="data-txt">
+            <a href="/sociedad/" target="_self"><p class="section" >Sociedad</p></a>
+
+            <p class="author" onClick="window.open('/autor/emilia_vexler.html','_blank');" style="cursor: pointer;">Emilia Vexler</p>
+        </div>
+        </a>
+ </article>
+</div>
+
+
+
+
+    
+    <div class="des-adv  border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-name="advert">
+	
+    
+	<p class="pbl">PUBLICIDAD</p>
+    <div class="banner_center cla-ad" id="sas_12953" data-render="false"></div>
+    <div id="bannerId_450">
+    </div>
+	<!-- 1513352390 S Right2x300x250-->
+	
+</div>
+
+
+
+
+
+    
+     <div class="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-size-w="1" data-size-h="1" data-classes="border box col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p" data-name="content">
+    <article class="content-nota onexone_foto    list-format">
+        <a href="/sociedad/principe-harry-meghan-markle-pusieron-fecha-casamiento_0_SJoym8WzG.html" target="_self">
+        <div class="wrap-figure">
+            <figure id="imgmod_2017115286095609">
+              <img class="img-responsive intelResolution lazyload"  alt="El príncipe Harry y Meghan Markle pusieron fecha de casamiento" data-small="https://images.clarin.com/2017/12/15/H1XD7IWzf_290x140__1.jpg" data-big="https://images.clarin.com/2017/12/15/H1XD7IWzf_600x290__1.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+              <a class="content-ico center" href="/sociedad/principe-harry-meghan-markle-pusieron-fecha-casamiento_0_SJoym8WzG.html" target="_self">
+                    
+              </a>
+            </figure>
+        </div>
+        <div class="mt ">
+            
+
+            
+            
+                <!-- VOLANTA -->
+                <a href="/sociedad/principe-harry-meghan-markle-pusieron-fecha-casamiento_0_SJoym8WzG.html" target="_self"><p class="volanta ">Pareja real</p></a>
+                <!-- FIN VOLANTA -->
+            
+
+             <a href="/sociedad/principe-harry-meghan-markle-pusieron-fecha-casamiento_0_SJoym8WzG.html" target="_self"><h2 >El pr&iacute;ncipe Harry y Meghan Markle pusieron fecha de casamiento</h2></a>
+        </div>
+        <div class="data-txt">
+            <a href="/sociedad/" target="_self"><p class="section" >Sociedad</p></a>
+
+            
+        </div>
+        </a>
+ </article>
+</div>
+
+
+
+
+    
+    <div class="border col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p doble-rel" data-classes="border col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p doble-rel" data-size-w="0.5" data-size-h="1" data-name="content">
+    <article class="content-nota list-format onexone_doble">
+        <a href="/tecnologia/subio-foto-facebook-bloqueo-cuenta-denuncio-justicia_0_SJJVCEWMf.html" target="_self">
+            <div class="wrap-figure">
+                <figure id="imgmod_2017115629845707">
+                    <img class="img-responsive intelResolution lazyload" alt="Una activista argentina lleva a Facebook a la Justicia"  data-small="https://images.clarin.com/2017/12/15/SJk2lDZfG_110x110__1.jpg" data-big="https://images.clarin.com/2017/12/15/SJk2lDZfG_600x600__1.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+                    
+                    <a class="content-ico  sm-half" href="/tecnologia/subio-foto-facebook-bloqueo-cuenta-denuncio-justicia_0_SJJVCEWMf.html" target="_self">
+                        
+                    </a>
+                </figure>
+            </div>
+            <div class="mt">
+            <a href="/tecnologia/subio-foto-facebook-bloqueo-cuenta-denuncio-justicia_0_SJJVCEWMf.html" target="_self">
+                <p class="volanta ">Se hartó</p>
+                <h2>Una activista argentina lleva a Facebook a la Justicia</h2>
+            </div>
+            </a>
+            <div class="data-txt">
+            <a href="/tecnologia/" target="_self"><p class="section" >Tecnología</p></a>
+            
+            </div>
+        </a>
+    </article>
+</div>
+
+
+
+
+    
+    <div class="border col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p doble-rel" data-classes="border col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p doble-rel" data-size-w="0.5" data-size-h="1" data-name="content">
+    <article class="content-nota list-format onexone_doble">
+        <a href="/policiales/eze-jefe-banda-quedo-grabado-escapaba-carcel_0_r1VZMHZfG.html" target="_self">
+            <div class="wrap-figure">
+                <figure id="imgmod_2017115933238240">
+                    <img class="img-responsive intelResolution lazyload" alt="&quot;El Eze&quot;"  data-small="https://images.clarin.com/2017/12/15/H1Eq8rbzz_110x110__1.jpg" data-big="https://images.clarin.com/2017/12/15/H1Eq8rbzz_600x290__1.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+                    
+                    <a class="content-ico  sm-half" href="/policiales/eze-jefe-banda-quedo-grabado-escapaba-carcel_0_r1VZMHZfG.html" target="_self">
+                        
+                    </a>
+                </figure>
+            </div>
+            <div class="mt">
+            <a href="/policiales/eze-jefe-banda-quedo-grabado-escapaba-carcel_0_r1VZMHZfG.html" target="_self">
+                <p class="volanta ">Investigan connivencia policial</p>
+                <h2>&quot;El Eze&quot;, el jefe de una banda que fue grabado mientras se escapaba de la c&aacute;rcel</h2>
+            </div>
+            </a>
+            <div class="data-txt">
+            <a href="/policiales/" target="_self"><p class="section" >Policiales</p></a>
+            
+            </div>
+        </a>
+    </article>
+</div>
+
+
+
+
+    
+    <div class="border col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p doble-rel" data-classes="border col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p doble-rel" data-size-w="0.5" data-size-h="1" data-name="content">
+    <article class="content-nota list-format onexone_doble">
+        <a href="/ciudades/manana-peajes-autopista-buenos-aires-plata-aumentan-25-33_0_r1XoNrxfG.html" target="_self">
+            <div class="wrap-figure">
+                <figure id="imgmod_2017115249512889">
+                    <img class="img-responsive intelResolution lazyload" alt="Peajes más caros: ir a La Plata y volver por autopista ya cuesta $ 100 en hora pico"  data-small="https://images.clarin.com/2016/11/03/HJxrPFtRXg_110x110.jpg" data-big="https://images.clarin.com/2016/11/03/HJxrPFtRXg_290x290.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+                    
+                    <a class="content-ico  sm-half" href="/ciudades/manana-peajes-autopista-buenos-aires-plata-aumentan-25-33_0_r1XoNrxfG.html" target="_self">
+                        
+                    </a>
+                </figure>
+            </div>
+            <div class="mt">
+            <a href="/ciudades/manana-peajes-autopista-buenos-aires-plata-aumentan-25-33_0_r1XoNrxfG.html" target="_self">
+                <p class="volanta ">Tránsito</p>
+                <h2>Peajes m&aacute;s caros: ir a La Plata y volver por autopista ya cuesta $ 100 en hora pico</h2>
+            </div>
+            </a>
+            <div class="data-txt">
+            <a href="/ciudades/" target="_self"><p class="section" >Ciudades</p></a>
+            
+            </div>
+        </a>
+    </article>
+</div>
+
+
+
+
+    
+    <div class="border col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p doble-rel" data-classes="border col-lg-3 col-md-4 col-sm-6 col-xs-12 no-p doble-rel" data-size-w="0.5" data-size-h="1" data-name="content">
+    <article class="content-nota list-format onexone_doble">
+        <a href="/economia/economia/monotributo-2018-nuevas-categorias_0_ByqLsWgGf.html" target="_self">
+            <div class="wrap-figure">
+                <figure id="imgmod_2017115727071161">
+                    <img class="img-responsive intelResolution lazyload" alt="Monotributo 2018: definieron cómo serán las nuevas categorías"  data-small="https://images.clarin.com/2017/11/20/BkF8Hnglf_110x110.jpg" data-big="https://images.clarin.com/2017/11/20/BkF8Hnglf_290x290.jpg" src="https://images.clarin.com/collections/static/lazy_square.svg">
+                    
+                    <a class="content-ico  sm-half" href="/economia/economia/monotributo-2018-nuevas-categorias_0_ByqLsWgGf.html" target="_self">
+                        
+                    </a>
+                </figure>
+            </div>
+            <div class="mt">
+            <a href="/economia/economia/monotributo-2018-nuevas-categorias_0_ByqLsWgGf.html" target="_self">
+                <p class="volanta ">Sistema simplificado</p>
+                <h2>Monotributo 2018: definieron c&oacute;mo ser&aacute;n las nuevas categor&iacute;as</h2>
+            </div>
+            </a>
+            <div class="data-txt">
+            <a href="/economia/economia/" target="_self"><p class="section" >Economía</p></a>
+            <p class="author" onClick="window.open('/autor/jose_luis_ceteri.html','_blank');" style="cursor: pointer;">José Luis Ceteri</p>
+            </div>
+        </a>
+    </article>
+</div>
+
+
+
+
+        </div>
+    </div>
+</div>
+<script>
+$(document).ready(function(){
+	//alert(".tipo_mod_2017112532792457");
+	$("#tipo_b_mod_2017112532792457").html("CONTENEDOR TIPO B");
+});
+</script>
+
+
+
+
+
+</div>
+<script>
+$(document).ready(function(){
+	//alert(".tipo_mod_2017115153564712");
+	$("#tipo_v4_home_mod_2017115153564712").html("CONTENEDOR PADRE");
+});
+</script>
+
+
+
+
+    
+
+
+    <div class="on-demand" data-src="/ondemand/eyJtb2R1bGVDbGFzcyI6IkNMQUNsYXJpbkNvbnRhaW5lckJNTyIsImNvbnRhaW5lcklkIjoidjNfY29sZnVsbF9ob21lIiwibW9kdWxlSWQiOiJtb2RfMjAxNzg2NDIxMzEzMCIsImJvYXJkSWQiOiIxIiwiYm9hcmRWZXJzaW9uSWQiOiIyMDE3MTIxNV8wMDM4IiwibiI6IjEifQ==.json"></div>
+
+
+    
+
+
+    <div class="on-demand" data-src="/ondemand/eyJtb2R1bGVDbGFzcyI6IkNMQUNsYXJpbkNvbnRhaW5lckJNTyIsImNvbnRhaW5lcklkIjoidjNfY29sZnVsbF9ob21lIiwibW9kdWxlSWQiOiJtb2RfMjAxNzY0MjI3ODIyMDMiLCJib2FyZElkIjoiMSIsImJvYXJkVmVyc2lvbklkIjoiMjAxNzEyMTVfMDAzOCIsIm4iOiIyIn0=.json"></div>
+
+
+    
+
+
+    <div class="on-demand" data-src="/ondemand/eyJtb2R1bGVDbGFzcyI6IkNMQUNsYXJpbkNvbnRhaW5lckJNTyIsImNvbnRhaW5lcklkIjoidjNfY29sZnVsbF9ob21lIiwibW9kdWxlSWQiOiJtb2RfMjAxNzg2NzIxNTc5NDk1IiwiYm9hcmRJZCI6IjEiLCJib2FyZFZlcnNpb25JZCI6IjIwMTcxMjE1XzAwMzgiLCJuIjoiMyJ9.json"></div>
+
+
+    
+
+
+    <div class="on-demand" data-src="/ondemand/eyJtb2R1bGVDbGFzcyI6IkNMQUNsYXJpbkNvbnRhaW5lckJNTyIsImNvbnRhaW5lcklkIjoidjNfY29sZnVsbF9ob21lIiwibW9kdWxlSWQiOiJtb2RfMjAxNzExNjU1NjY2NjUwMyIsImJvYXJkSWQiOiIxIiwiYm9hcmRWZXJzaW9uSWQiOiIyMDE3MTIxNV8wMDM4IiwibiI6IjQifQ==.json"></div>
+
+
+    
+
+
+    <div class="on-demand" data-src="/ondemand/eyJtb2R1bGVDbGFzcyI6IkNMQUNsYXJpbkNvbnRhaW5lckJNTyIsImNvbnRhaW5lcklkIjoidjNfY29sZnVsbF9ob21lIiwibW9kdWxlSWQiOiJtb2RfMjAxNzk2MzcxODQ2NTU1IiwiYm9hcmRJZCI6IjEiLCJib2FyZFZlcnNpb25JZCI6IjIwMTcxMjE1XzAwMzgiLCJuIjoiNSJ9.json"></div>
+
+
+    
+
+
+    <div class="on-demand" data-src="/ondemand/eyJtb2R1bGVDbGFzcyI6IkNMQUNsYXJpbkNvbnRhaW5lckJNTyIsImNvbnRhaW5lcklkIjoidjNfY29sZnVsbF9ob21lIiwibW9kdWxlSWQiOiJtb2RfMjAxNzgzMjU3ODc3NTE2IiwiYm9hcmRJZCI6IjEiLCJib2FyZFZlcnNpb25JZCI6IjIwMTcxMjE1XzAwMzgiLCJuIjoiNiJ9.json"></div>
+
+
+    
+
+
+    <div class="on-demand" data-src="/ondemand/eyJtb2R1bGVDbGFzcyI6IkNMQUNsYXJpbkNvbnRhaW5lckJNTyIsImNvbnRhaW5lcklkIjoidjNfY29sZnVsbF9ob21lIiwibW9kdWxlSWQiOiJtb2RfMjAxNzc0ODA1MjEwMTEiLCJib2FyZElkIjoiMSIsImJvYXJkVmVyc2lvbklkIjoiMjAxNzEyMTVfMDAzOCIsIm4iOiI3In0=.json"></div>
+
+
+    
+
+
+    <div class="on-demand" data-src="/ondemand/eyJtb2R1bGVDbGFzcyI6IkNMQUNsYXJpbkNvbnRhaW5lckJNTyIsImNvbnRhaW5lcklkIjoidjNfY29sZnVsbF9ob21lIiwibW9kdWxlSWQiOiJtb2RfMjAxNzcxMjg2NDMxNjk2IiwiYm9hcmRJZCI6IjEiLCJib2FyZFZlcnNpb25JZCI6IjIwMTcxMjE1XzAwMzgiLCJuIjoiOCJ9.json"></div>
+
+
+	</div>
+
+
+
+
+<script type="text/javascript">
+    $(document).on('domReady.OnDemand', function(event){
+        appSwiper.update();
+        setListadoView();
+        setLazyLoad();
+    });
+
+	$(document).ready(function(){
+		$('footer').hide();
+	});
+
+    var el = $(".on-demand").first();
+
+    var updateOnDemand = function(e) {
+        e.html('<div class="demand-loading"><i class="fa fa-spinner fa-spin"></i></div>');
+       
+        $(window).unbind("scroll.OnDemand");
+
+        $.get(e.data("src"), function(_response) {
+            response = BBT.fixJson(_response);
+            if (response.error == 0) {
+                e.html(response.data);
+
+                if ( e.index() != $(".on-demand").last().index() ) {
+                    el = e.next(".on-demand");
+                    updateBody();
+                }else{
+                    $('footer').show();
+                }
+
+                if(typeof(jQuery)=='undefined'){
+                	onDemandEvent = document.createEvent('Event');
+	                onDemandEvent.initEvent('domReady.OnDemand', false, false, undefined);
+	                document.dispatchEvent(onDemandEvent);
+                }else{
+                	$(document).triggerHandler('domReady.OnDemand');
+                }
+            }
+        });
+    }
+
+    var isiPad = navigator.userAgent.match(/iPad/i) != null;
+
+    function checkScroll(e) {
+        var modificacionLimiteScroll = 350;
+
+        if (isiPad && ($(window).height()>=$(window).width())) {
+            modificacionLimiteScroll = 25;
+        };
+
+        if ( ( $(window).scrollTop() + $(window).height() + 2  ) >= ((e.offset().top)) - modificacionLimiteScroll ) {
+            updateOnDemand(e);
+        }
+    }
+
+    function updateBody () {
+        if ($(window).height() >= $("body").height() ) {
+            updateOnDemand(el);
+        } else {
+            $('footer').hide();
+            $(window).bind("scroll.OnDemand", function(){
+                checkScroll(el);
+            })
+        }
+    }
+
+	if ( typeof el.html() != "undefined" ){
+	    updateBody();
+	}
+</script>
+
+    <div class="scroll-top">
+    <i class="fa fa-2x fa-angle-up"></i>
+</div>
+<footer class="container" itemscope itemtype="http://schema.org/WPFooter">
+    <!-- -->
+    <!-- -->
+    <div class="row">
+        <div class="footer-top">
+            <div class="logo">
+                <a href="/">Clarin</a>
+            </div>
+            <div class="social">
+                <div class="links">
+                    <ul>
+                        <li><a class="modal-legales" href="#" rel="nofollow" data-path="/getTerminos.json">Términos y condiciones</a></li>
+                        <li><a class="modal-legales" href="#" rel="nofollow" data-path="/getProteccion.json">Política de protección de datos personales</a></li>
+                        <li><a class="modal-legales" href="#" rel="nofollow" data-path="/getNormas.json">Normas de confidencialidad y privacidad</a></li>
+                    </ul>
+                </div>
+                <div class="share">
+                    <ul>
+                        <a href="https://www.facebook.com/clarincom/" target="_blank" rel="nofollow" ><li class="ico-share fb"><i class="fa fa-facebook text-center" aria-hidden="true"></i></li></a>
+                        <a href="https://twitter.com/clarincom" target="_blank" rel="nofollow"><li class="ico-share tw"><i class="fa fa-twitter text-center" aria-hidden="true"></i></li></a>
+                        <a href="http://www.clarin.com/rss.html" target="_blank" rel="nofollow" ><li class="ico-share rss"><i class="fa fa fa-rss text-center" aria-hidden="true"></i></li></a>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row footer-content">
+            <div class="col-lg-3 col-sm-3 legales">
+                <ul>
+                    <li>Piedras 1743. C.A.B.A, ARGENTINA</li>
+                    <li><span>Editor Responsable:</span> Ricardo Kirschbaum </li>
+                    <li><span>Registro de Propiedad Intelectual:</span> 5344702</li>
+                    <li><span>Edición Nº:</span> 25874</li>
+                    <li class="afip">
+                        <a href="http://qr.afip.gob.ar/?qr=qy9BfPZjufnExnl8h25PyA,," target="_blank">&nbsp;</a>
+                        <span>Información fiscal</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-sm-2 grupo-clarin">
+                <span class="title"> <a href="http://www.grupoclarin.com.ar" target="_self" rel="nofollow">AGEA DIGITAL</a></span>
+                <ul>
+                    <li><a href="http://www.ole.com.ar" target="_blank" rel="nofollow"> DIARIO OLÉ</a><span>|</span></li>
+                    <li><a href="http://entremujeres.clarin.com" target="_blank" rel="nofollow">ENTREMUJERES</a><span>|</span></li>
+                    <li><a href="http://www.grandt.clarin.com/" target="_blank" rel="nofollow">GRAN DT</a><span>|</span></li>
+                    <li><a href="http://www.argenprop.com/" target="_blank" rel="nofollow">ARGENPROP</a><span>|</span></li>
+                    <li><a href="http://www.empleos.clarin.com/" target="_blank" rel="nofollow">EMPLEOS CLARÍN</a><span>|</span></li>
+                    <li><a href="http://www.deautos.com/" target="_blank" rel="nofollow">DE AUTOS</a><span>|</span></li>
+                    <li><a href="http://guia.clarin.com/" target="_blank" rel="nofollow">GUÍA CLARÍN</a><span>|</span></li>
+                    <li><a href="http://www.clasificados.clarin.com/" target="_blank" rel="nofollow">CLASIFICADOS</a><span>|</span></li>
+                    <li><a href="https://receptoriaonline.clarin.com/" target="_blank" rel="nofollow">RECEPTORÍA ONLINE</a><span>|</span></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-sm-3 sitios">
+                <span class="title">GRUPO CLARÍN</span>
+                <ul>
+                    <li><a href="http://www.grupoclarin.com.ar/" target="_blank" rel="nofollow">Grupo Clarín</a><span>|</span></li>
+                    <li><a href="http://tn.com.ar/" target="_blank" rel="nofollow">TN</a><span>|</span></li>
+                    <li><a href="http://www.eltrecetv.com.ar/" target="_blank" rel="nofollow">El Trece TV</a><span>|</span></li>
+                    <li><a href="http://radiomitre.cienradios.com/" target="_blank" rel="nofollow">Mitre</a><span>|</span></li>
+                    <li><a href="http://la100.cienradios.com/" target="_blank" rel="nofollow">La 100</a><span>|</span></li>
+                    <li><a href="http://www.ciudad.com.ar/" target="_blank" rel="nofollow">Ciudad</a><span>|</span></li>
+                    <li><a href="http://ar.cienradios.com/" target="_blank" rel="nofollow">Cienradios</a><span>|</span></li>
+                    <li><a href="http://www.tycsports.com/" target="_blank" rel="nofollow">TyCSports</a><span>|</span></li>
+                    <li><a href="http://www.lavoz.com.ar/" target="_blank" rel="nofollow">La Voz del Interior</a><span> |</span></li>
+                    <li><a href="http://www.losandes.com.ar/" target="_blank" rel="nofollow">Los Andes</a><span>|</span></li>
+                    <li><a href="http://www.viapais.com.ar/" target="_blank" rel="nofollow">ViaPais</a><span>|</span></li>
+                    <li><a href="http://www.rumbosdigital.com/" target="_blank" rel="nofollow">Rumbos</a><span>|</span></li>
+                </ul>
+            </div>
+            <div class="col-lg-2 col-sm-2 contacto">
+                <ul>
+                    <li class="footer_suscribe" style="display: none;"><a  href="https://www.clarin.com/suscripciones/landing.html?ns_campaign=clarin-footer&ns_mchannel=boton&ns_source=ageamkt&ns_linkname=clarin-footer&ns_fee=0.01" rel="nofollow" >Suscribite</a></li>
+                    <li><a href="http://www.clarin.com/contactenos.html" rel="nofollow">Contactanos</a></li>
+                    <li><a href="http://www.clarin.com/preguntas-frecuentes" rel="nofollow">Ayuda</a></li>
+                    <li><a href="http://www.clarin.com/ediciones-anteriores" rel="nofollow">Archivo</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-1 col-sm-2 publicidad">
+                <span class="title">PUBLICIDAD</span>
+                <ul>
+                    <li><a href="http://comercial.agea.com.ar/" target="_blank">ANUNCIÁ CON NOSOTROS</a></li>
+                    <li> AGEADIGITAL</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row footer-bottom">
+            <p>Registro Propiedad Intelectual: 5205286. Propietario Arte Gráfico Editorial Argentino S.A.  © 1996-2017 Clarín.com - Clarín Digital - Todos los derechos reservados.</p>
+        </div>
+    </div>
+</footer>
+
+<script type="text/javascript">
+
+    $(".links .modal-legales").click(function() {
+        var path = $(this).attr("data-path");
+        $.magnificPopup.open({
+            closeOnBgClick: false,
+            closeBtnInside:false,
+            overflowY: 'scroll',
+            alignTop: true,
+            items: {
+                src: path,
+                type: 'ajax'
+            },
+            callbacks: {
+                close: function() {
+                    window.location.hash='';
+                },
+                open: function() {
+                    $('.mfp-bg').addClass('modal-terminos');
+                    $('.mfp-close').addClass('modal-terminos-close');
+                }
+            }
+        });
+    });
+
+</script>
+
+</div>
+<div id="horizon">
+    <div id="epl_impact_div"></div>
+</div>
+
+
+<!-- Smart generic code -->
+<script src="https://r.sascdn.com/config.js?nwid=619" type="text/javascript" async></script>
+<script type="text/javascript">
+    (function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+    e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+    t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+
+<script type="text/javascript">
+    var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+    var sas = sas || {};
+    sas.cmd = sas.cmd || [];
+    sas.cmd.push(function() {
+        sas.setup({ domain: "https://www.smartadserver.com", networkid: 619, async: true });
+    });
+
+    cX.callQueue.push(['invoke', function() {
+        sas.cmd.push(function() {
+            var sas_target = sasClarinHelper.getSasTaget();
+            var segments = cX.getUserSegmentIds({  persistedQueryId: '66cac97a468750b6772b428abacdc324d99833a4'});
+
+            if (!((segments == null) || (segments.length == 0))){
+                for (var i = 0; i < segments.length; i++){
+                    segments[i]='cxdmpid=' + segments[i];
+                }
+                smartCx=segments.join(';');
+                if(typeof(sas_target)=="undefined" || sas_target==""){
+                    try{
+                        var sas_target = smartCx;
+                    }catch(e){};
+                }else{
+                    try{
+                        if(sas_target[sas_target.length-1]!=";"){
+                            sas_target+=";";
+                        }
+                        sas_target = sas_target+ smartCx;
+                    }catch(e){};
+                }
+            }
+
+            if (typeof relySmart != "undefined") {
+                sas_target += relySmart();
+            }
+            if ((sasClarinHelper.getKwPw() == "1" || sasClarinHelper.getKwPw() == 1) 
+             && (sasClarinHelper.getPwChoque() == "1" || sasClarinHelper.getPwChoque() == 1)) {
+                var idPase = 0;
+                var pwAudiencia = "D";
+                if (typeof paseSubscriber !== undefined && paseSubscriber.idPase != "") {
+                    idPase = parseInt(paseSubscriber.idPase);
+                } else {
+                    idPase = parseInt(paseE2E.getCookie("idPase"));
+                }
+                if (idPase != undefined) {
+                    if (idPase >= 0 && idPase <= 3710423) {
+                        pwAudiencia = "A";
+                    } else if (idPase >= 3710424 && idPase <=  4888206) {
+                        pwAudiencia = "B";
+                    } else if (idPase >= 4888207 && idPase <=  6222848) {
+                        pwAudiencia = "C";
+                    }
+                }
+                sas_target += ";pw_audiencia=" + pwAudiencia;
+            }
+            sas.call("onecall", {
+                siteId: '32872',  //
+                pagename: 'home',
+                formatId: '26260,13955,12724,12973,14102,14103,14104,14105,14106,14107,14108,14109,14110,14111,50249,50250,15586,38644,37403,14056,14055,14054,13541,13522,12953,12952',
+                target: sas_target    // Segmentacion
+            },{
+                onNoad : function(data){ $('#sas_'+data.formatId).parent().addClass("noAd");  } 
+            });
+        });
+    }]);
+
+    sasClarinHelper.pushDataGTM();
+</script>
+<!-- Fin Smart generic code -->
+
+<script type="text/javascript">
+    (function(d,ck,src,ps){
+        if(ps.readCookie(ck)==null || (typeof(Storage)!='undefined' && localStorage.getItem(ck)==null) || (typeof(Storage)!='undefined' && localStorage.getItem(ck)!=ps.readCookie(ck))){ var s = d.createElement('script');s.defer=true;s.src=src; var fs = d.getElementsByTagName('script')[0]; fs.parentNode.insertBefore(s, fs); }}
+    (document, 'dax_fingerprint', '/static/CLAClarin/js/fingerprint2.min.js', paseSubscriber))
+</script>
+<script type="text/javascript" src="/static/CLAClarin/js/ads.js"></script>
+<script defer type="text/javascript" src="/static/DESDax/js/desdaxcallminimalmo.js?hash=4ac6556739ebfdacb7accfe4b819ef1e" data-params="%7B%22siteName%22%3A%22clarin%22%2C%22siteId%22%3A%226906409%22%2C%22sectionId%22%3A%221%22%2C%22day%22%3A%22%22%2C%22month%22%3A%22%22%2C%22hours%22%3A%22%22%2C%22weekDay%22%3A%22%22%2C%22urlDate%22%3A%22%22%2C%22timestamp%22%3Anull%2C%22path%22%3A%22home.inicio%22%2C%22sourceModal%22%3A%22home%22%7D" id="daxscript"></script>
+<noscript>
+    <p><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6906409&amp;ns_site=clarin&amp;name=home.inicio" height="1" width="1" alt="*"></p>
+</noscript>
+
+<script type="text/javascript">
+window.__gigyaConf = {
+    siteName: 'clarin.com',
+    enabledProviders: 'facebook,twitter,yahoo,messenger,linkedin,myspace,google',
+    sessionExpiration: 473040000,
+    connectWithoutLoginBehavior: 'alwaysLogin',
+    autoShareExpiration: (new Date()).getTime() + 120000
+}
+</script>
+<script defer type="text/javascript" src="https://cdns.gigya.com/JS/socialize.js?apikey=2_fq_ZOJSR4xNZtv2rA8DALl1Gxp7yTYMb3UdER6zerupB55mwkzh9pVBz4Blzi8SW&lang=es-ar"></script>
+<script defer type="text/javascript" src="/static/DESPase/js/despasescriptmo.js?hash=6b9e045530e33eb01eadcd7c0f534ae8" data-params="%7B%22urlIframe%22%3A%22https%3A%5C%2F%5C%2Fapp-pase.clarin.com%5C%2Fpase-registracion%5C%2Fapp%5C%2Fpase%5C%2Fingresar%22%2C%22urlIframeLW%22%3A%22https%3A%5C%2F%5C%2Fapp-pase.clarin.com%5C%2Fpase-registracion%5C%2Fapp%5C%2Fpase%5C%2Fingresar%22%2C%22urlLogin%22%3A%22https%3A%5C%2F%5C%2Fservicios.pase.agea.com.ar%5C%2Fpase-servicios%5C%2Fmobile%5C%2FCLARIN%5C%2FonLoginJSONP%22%2C%22urlProfile%22%3A%22https%3A%5C%2F%5C%2Fclarin.frontend.pase.agea.com.ar%5C%2Fpase-frontend%5C%2Fapp%5C%2Fperfil%5C%2Fadministrar%22%2C%22apiKey%22%3A%222_fq_ZOJSR4xNZtv2rA8DALl1Gxp7yTYMb3UdER6zerupB55mwkzh9pVBz4Blzi8SW%22%2C%22gigyaSiteName%22%3A%22clarin.com%22%7D" id="despasescriptmo"></script>
+
+<div id="lw" data-lwsection="[1]"></div>
+<script defer type="text/javascript" src="/static/LABWall/js/labwallloginmo.js?hash=2e1da9bbe5a8145abfe07c3167e6966f"></script>
+
+<script defer type="text/javascript" src="/static/DESDax/js/directApp.js?hash=10201396808f0b6fe701b9160ac2677c"></script>
+<script defer type="text/javascript" id="directAppScript" src="/static/DESDax/js/directAppScript.js?hash=64796cdf4dd283389255c6b3f2e34ead" data-params="%7B%22siteName%22%3A%22clarin%22%2C%22siteId%22%3A%226906409%22%2C%22sectionId%22%3A%221%22%2C%22day%22%3A%22%22%2C%22month%22%3A%22%22%2C%22hours%22%3A%22%22%2C%22weekDay%22%3A%22%22%2C%22urlDate%22%3A%22%22%2C%22timestamp%22%3Anull%2C%22path%22%3A%22home.inicio%22%2C%22sourceModal%22%3A%22home%22%7D"></script>
+<!-- Cxense script begin -->
+<script type="text/javascript">
+
+    $("#cargaItems").delay(2500).fadeIn();
+    var IdPase = "";
+    if (typeof getIdPase == 'function'){ 
+        IdPase = getIdPase();
+    }
+
+    if(typeof sas == "undefined"){
+        var adsblock = "si";
+    }else{
+        var adsblock = "no";
+    }
+
+    var cX = cX || {};
+    cX.callQueue = cX.callQueue || [];
+
+    var cXcustomParams = {'registered': false , 'pw_readable': true, 'userId': "",'sourcesite':'Clarín', 'adblock':adsblock,  'autorefresh':"YES", 'pagetype':'HOME'}
+
+    if (Number(IdPase) > 0 ) {
+        cX.callQueue.push(["addExternalId", {
+            "id": IdPase,
+            "type": "gca"
+        }]);
+
+        cXcustomParams.registered = true;
+        cXcustomParams.userId = IdPase;
+    }
+
+    cX.callQueue.push(["setSiteId", "9222353050745408878"]);
+    cX.callQueue.push(['setCustomParameters', cXcustomParams]);
+
+    cX.callQueue.push(["setEventAttributes", 
+        { origin: 'gca-video', persistedQueryId: '872b6086b2066cab93ae25ef10cc058a38ee1a16'}
+    ]);
+    cX.callQueue.push(["sendPageViewEvent"]);
+    
+    $("#loadingCxense").fadeOut(2500);    
+</script>
+<script type="text/javascript">
+    try {
+        if (cX.getUserSegmentIds({ persistedQueryId: '66cac97a468750b6772b428abacdc324d99833a4'}).length > 0)
+        {
+            src = "https://pixel.sitescout.com/dmp/set?provider=38&audiences="+cX.getUserSegmentIds({ persistedQueryId: '66cac97a468750b6772b428abacdc324d99833a4' }).toString();
+            document.write('<img src="' + src + '" style="display:none">');
+        }
+    } catch (e) {
+        console.log("No cX.");
+    };
+</script>
+
+<!-- Cxense script end -->
+<script type="text/javascript">
+	/** Fix IE <= 11 **/
+    (function () {
+        if ( typeof window.CustomEvent === "function" ) return false; //If not IE
+
+        function CustomEvent ( event, params ) {
+            params = params || { bubbles: false, cancelable: false, detail: undefined };
+            var evt = document.createEvent( 'CustomEvent' );
+            evt.initCustomEvent( event, params.bubbles, params.cancelable, params.detail );
+            return evt;
+        }
+
+        CustomEvent.prototype = window.Event.prototype;
+
+        window.CustomEvent = CustomEvent;
+    })();
+    /** **/
+
+    function renderNewAdElements(caller){
+        try{
+            caller = caller || new CustomEvent('initAds', { detail: 'initAds' });
+            if(typeof(cX)=='undefined' || typeof(sas)=='undefined')
+                throw new Exception();
+
+            window.CLA.adFailLoads = 0;
+            adElms = Array.prototype.slice.call(document.getElementsByClassName('cla-ad'));
+            var renderAds = [];
+
+            if(adElms.length == 0)
+                return;
+
+            for(var i=0, adLength=adElms.length; i<adLength; i++){
+                var elm = adElms[i];
+                if(elm.getAttribute('data-render')=='false'){
+                    var tag = elm.getAttribute('id').split('_')[1];
+                    renderAds.push(tag.toString());
+                    elm.setAttribute('data-render', "true");
+                }
+            }
+
+            renderAds.forEach(function(value, index) {
+                cX.callQueue.push(['invoke', function() {
+                    sas.cmd.push(function() {
+                        sas.render(value);
+                    });
+                }]);
+            });
+
+        }catch(e){
+            if(typeof(window.CLA)=='undefined')
+                window.CLA = {};
+
+            if(typeof(window.CLA.adFails) == 'undefined')
+                window.CLA.adFails = [];
+
+            var index = -1;
+            for (var i = 0; i < CLA.adFails.length && index===-1; ++i) {
+                if (CLA.adFails[i][0] == caller.detail)
+                    index = i;
+            }
+
+            if(index < 0){
+                window.CLA.adFails.push([caller.detail,0]);
+                index = window.CLA.adFails.length-1;
+            }
+
+            if(window.CLA.adFails[index][1]+1 > 10){
+                console.error('['+caller.detail+'] failed to load advertising, cX or sas variables are undefined. Tried 10 times, checked every 2 sec');
+                return;
+            }
+
+            window.CLA.adFails[index][1]++;
+            setTimeout(function(){ renderNewAdElements(caller); }, 2e3);
+        }
+    }
+
+    function triggerRenderAds(event){
+    	event.detail = 'ondemand_'+Math.floor(Math.random()*1e10).toString();
+	    renderNewAdElements(event);
+    }
+
+    document.addEventListener('DOMContentLoaded', function(){
+    	renderNewAdElements();
+    });
+
+    if(typeof(jQuery)=="undefined"){
+    	document.addEventListener('domReady.OnDemand', function(event){
+	        triggerRenderAds(event);
+    	});
+    }else{
+    	$(document).on('domReady.OnDemand', function(event){
+    		triggerRenderAds(event);
+    	});
+    }
+</script>
+<script type="text/javascript">
+
+    var uiconf = "23448755";
+    var wid = "_102";
+    var cargo = false;
+
+    var settings = {
+        uiconf:uiconf,
+        wid:wid,
+        src:"https://vodgc.com/p/102/sp/10200/embedIframeJs/uiconf_id/23448755/partner_id/102"
+    };
+
+    $(document).bind('cbox_complete', function(){
+        settings.reload = true;
+        settings.embed_class = "kaltura_modal";
+        $.kLoader(settings);
+        settings.embed_class = "kaltura_player";
+        $.kLoader(settings);
+    });
+    $.kLoader(settings);
+</script>
+
+<script type="text/javascript" src="//tags.crwdcntrl.net/c/9602/cc.js?ns=_cc9602" id="LOTCC_9602" onload="_cc9602.bcp();" defer> </script>
+
+<!-- Google Analytics -->
+<script>
+    var idPaseGA = getCookiePase("idPase");
+    function getCookiePase(name) {
+        var value = "; " + document.cookie;
+        var parts = value.split("; " + name + "=");
+        if (parts.length == 2) return parts.pop().split(";").shift();
+    }
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-4436008-9', 'auto', {'allowAnchor': true});
+    ga('set', 'userId', idPaseGA);
+    ga('send','pageview');
+
+
+    /**
+     * Ej: { hitType: 'event', eventCategory: 'Videos', eventAction: 'play', eventLabel: 'Kaltura' }
+     * @param fieldsObject object
+     */
+    function sendGAHit(fieldsObject){
+        fieldsObject = fieldsObject || {};
+        var finalObject = {hitType: 'pageview'};
+
+        /* merge manual */
+        if (Object.keys(fieldsObject).length > 0)
+            for (i = 0, len = Object.keys(fieldsObject).length; i < len; i++) {
+                var key = Object.keys(fieldsObject)[i];
+                finalObject[key] = fieldsObject[key];
+            }
+
+        ga('send', finalObject);
+    }
+</script>
+<!-- End Google Analytics -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.4&appId=173748289375719";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-J5TM"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-J5TM');</script>
+<!-- End Google Tag Manager -->
+
+<script type='text/javascript'>
+      var _sf_async_config = _sf_async_config || {};
+      /** CONFIGURATION START **/
+      
+      _sf_async_config.authors = 'clarin';
+
+      _cbq = window._cbq = (window._cbq || []);
+      // acct : Guest:  'anon' || Registered: 'lgdin' || Subscriber: 'paid'
+      _cbq.push(['_acct', getChartbeatUserType()]);
+      /** CONFIGURATION END **/
+      (function() {
+          function loadChartbeat() {
+              window._sf_endpt = (new Date()).getTime();
+              var e = document.createElement('script');
+              e.setAttribute('language', 'javascript');
+              e.setAttribute('type', 'text/javascript');
+              e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+              document.body.appendChild(e);
+
+          }
+
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function() {
+                  oldonload();
+                  loadChartbeat();
+              };
+          })();
+</script>
+
+<script type="text/javascript">
+	var rand= "";
+	while(rand.length < 9) {
+		rand += "" + parseInt(Math.random(0) * 9);
+	}
+
+	var i = new Image(1, 1);
+	i.src = "/bbtstats/pixel.gif?category=30&entityId=1" + "&rand=" + rand; 
+</script>
+<noscript>
+	<img width="1" height="1" src="/bbtstats/pixel.gif?category=30&entityId=1&rand=1026172917" />
+</noscript>
+<script type='text/javascript' src='https://sb.scorecardresearch.com/c2/6906409/ct.js' ></script>
+</body>
+</html>
