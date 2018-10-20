@@ -2,7 +2,7 @@ About:
 
 "How to think like computer scientist, 3erd Edition" by Peter Wentworth, Jeffrey Elkner, Allen B. Downey and Chris Meyers, is an Excellent book wich gave me the first approach into Python programming with focus on Science. 
 
-Espetially useful if you are a Scientist, an Engineer or you are related with the field of technology. The book uses an step by step teaching technicque with very good explanations and generally anticipating the contradictions that you might have when you go trought the book. 
+Espetially useful if you are a Scientist, an Engineer or you are related with the field of technology. The book uses a step by step teaching technicque with very good explanations and generally anticipating the contradictions that you might have when you go trought the book. 
 
 All the files here are the excercises presented in the chapters of the book (except in the chapter 1, because here you work with the prompt).
 
