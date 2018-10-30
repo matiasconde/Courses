@@ -9,4 +9,4 @@ All the files here are the excercises presented in the chapters of the book (exc
 - Files that begeins with "Cap":  Solution by me (all runs and works) of the excercises presented in the chapters of the book. 
 Every individual excercise is marked with "#number" indicating the number of the excercise in the particular chapter. often because the script got too long the different excercises in a particular file are "commented" with three quotes """ so that they can run individually (you can pick any excercise and uncomment, but you will need to comment the other ones).
 
-- The rest of the files without "Cap" in the begginin of the name are some additional files that you need to do some of the excercises, or they are the direct result of some of them, or are modules that you need to excecute them. 
+- The rest of the files without "Cap" in the begginin of the name are some additional files needed for some of the excercises, or they are the direct result of some of them, or are modules needed to excecute them. 
